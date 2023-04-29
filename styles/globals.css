@@ -3,88 +3,66 @@
 @tailwind utilities;
 
 @layer base {
-    body {
-        @apply bg-gradient-to-r from-gray-900 to-black w-screen overflow-x-hidden
-    }
+  body {
+    @apply w-screen overflow-x-hidden bg-gradient-to-r from-gray-900 to-black;
+  }
 }
 
 @layer components {
-    .btn {
-        @apply w-64 justify-center flex items-center  rounded-[4px]
-    }
+  .btn {
+    @apply flex w-64 items-center justify-center  rounded-[4px];
+  }
 
-    .primary {
-        @apply bg-white
-    }
+  .primary {
+    @apply bg-white;
+  }
 
-    .secondary {
-        @apply bg-black
-    }
+  .secondary {
+    @apply bg-black;
+  }
 
-    .primary_text_color {
-        @apply text-white
-    }
+  .primary_text_color {
+    @apply text-white;
+  }
 
-    .secondary_text_color {
-        @apply text-black
-    }
+  .secondary_text_color {
+    @apply text-black;
+  }
 
-    .Add-to-chrome {
-        display: flex;
-        width: 16rem;
-        align-items: center;
-        justify-content: center;
-        border-radius: 4px;
-        --tw-bg-opacity: 1;
-        background-color: #61CE70;
-        /* background-image: linear-gradient(315deg, #32c769 0%, #32c769 40%); */
-        color: white;
-
-    }
-    .Add-to-chrome:hover{
-        /* background-image: linear-gradient(315deg, #32c769 40%, #006400 95%); */
-        background-color: #006400;
-        transition: all 0.3s ease-out;
-    }
-    .accordion-button{   
-        background-color: #637081;
-        background-image: linear-gradient(to left, #000000, 25%, #212121  75%) !important;             
-        
-    }
-    .accordion-button::after {
-        background-image: url("https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/344/ffffff/external-plus-essentials-tanah-basah-glyph-tanah-basah-2.png") !important;   
-        transform: rotate(0deg);
-        filter: brightness(100%);
-
-    }
-}
-
-.accordion-button:not(.collapsed)::after{
-    background-image: url("https://img.icons8.com/material-rounded/344/minus.pnghttps://img.icons8.com/ios-glyphs/344/ffffff/minus.png") !important;
+  .Add-to-chrome {
+    display: flex;
+    width: 16rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    --tw-bg-opacity: 1;
+    background-color: #61ce70;
+    /* background-image: linear-gradient(315deg, #32c769 0%, #32c769 40%); */
+    color: white;
+  }
+  .Add-to-chrome:hover {
+    /* background-image: linear-gradient(315deg, #32c769 40%, #006400 95%); */
+    background-color: #006400;
+    transition: all 0.3s ease-out;
+  }
+  .accordion-button {
+    background-color: #637081;
+    background-image: linear-gradient(
+      to left,
+      #000000,
+      25%,
+      #212121 75%
+    ) !important;
+  }
+  .accordion-button::after {
+    background-image: url('https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/344/ffffff/external-plus-essentials-tanah-basah-glyph-tanah-basah-2.png') !important;
     transform: rotate(0deg);
     filter: brightness(100%);
+  }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-  
-    
-    
-    
-
-
-
-    
-    
-
-
-
+.accordion-button:not(.collapsed)::after {
+  background-image: url('https://img.icons8.com/material-rounded/344/minus.pnghttps://img.icons8.com/ios-glyphs/344/ffffff/minus.png') !important;
+  transform: rotate(0deg);
+  filter: brightness(100%);
+}
