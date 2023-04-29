@@ -1,6 +1,6 @@
 export default {
   siteName: 'Hulu Watch Party',
-  url:"https://www.huluwatchparty.com",
+  url:"https://www.huluwatchparty.com/",
   blogUrl: "/blog",
   siteId: "62a85d3092c68b0d2f1e408a",
   extLink: {
