@@ -23,7 +23,7 @@ function MyApp({ Component, pageProps }) {
         <title>
           {pageProps.meta
             ? pageProps.meta.title
-            : 'Hulu Watch Party - Watch Hulu with Your Friends & Family Online'}
+            : 'Enjoy ample Hulu entertainment with friends at Hulu Watch Party  '}
         </title>
         {pageProps.meta && (
           <meta property="og:image" content={pageProps.meta.featuredImage} />
