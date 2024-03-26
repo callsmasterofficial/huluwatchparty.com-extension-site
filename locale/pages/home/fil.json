@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Idagdag sa", "free": "Ito ay Libre" },
+    "navBarHeading": "ay magagamit na ngayon sa Google Chrome, Microsoft Edge at Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Gamitin ang Hulu Watch Party at Manatiling Konektado sa Mga Kaibigan",
+      "html": "Manood ng mga palabas at pelikula sa Hulu sa perpektong pag-sync sa mga tao online at palaging manatiling konektado mula sa iba't ibang lokasyon. Ang <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> ay isang libreng extension na eksklusibong nilikha upang magbigay ng mga streamer sa Hulu sa buong mundo ng isang walang putol na karanasan sa streaming na naka-sync sa kanilang mga kaibigan/pamilya.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Paano magsimula sa Hulu Watch Party?",
+      "subHeading": "Ang extension ay idinisenyo at ginawa na may layuning mabigyan ang mga user ng maayos na karanasan sa streaming. Maaari kang magsimula sa extension sa ilang mga pag-click.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "I-install ang Hulu Watch Party",
+          "answer": "Una, kailangan mong i-install ang extension sa iyong device. Pakitandaan na ang extension ay tugma lamang sa mga Chromebook, Windows, o macOS device at mga browser ng Google Chrome o Microsoft Edge. Mag-click dito upang i-install ang extension. I-pin ang Hulu Party sa toolbar."
+        },
+        {
+          "id": "2",
+          "question": "I-pin ang Hulu Watch Party sa toolbar",
+          "answer": "Pagkatapos i-install ang extension, i-pin ito sa toolbar upang mapadali ang paggamit. Mag-navigate sa icon na \"Mga Extension\". Ngayon, i-pin ang HWP button sa toolbar."
+        },
+        {
+          "id": "3",
+          "question": "Mag-log in sa Hulu",
+          "answer": "Kailangan mong mag-sign in sa iyong Hulu account upang ma-access ang mga palabas sa TV, serye, pelikula, o lahat ng video mula sa Hulu at panoorin ang mga ito kasama ng ibang mga tao online."
+        },
+        {
+          "id": "4",
+          "question": "Hanapin at I-play ang Video",
+          "answer": "Pakihanap ang video na gusto mong panoorin sa iyong Hulu watch party at i-play ito."
+        },
+        {
+          "id": "5",
+          "question": "Gumawa ng Party ng relo",
+          "answer": "Pagkatapos i-play ang video, mag-click sa icon na \"Mga Extension\" na matatagpuan sa iyong toolbar upang buksan ang window na \"Gumawa ng Party\". Pagkatapos, i-tap ang “Start the Party” para makuha ang party URL. Kopyahin ang URL ng party at ibahagi ito sa mga tao para imbitahan sila sa party."
+        },
+        {
+          "id": "5",
+          "question": "Sumali sa Hulu Party",
+          "answer": "Mag-log in sa iyong Hulu account at mag-click sa link ng party na ibinahagi sa iyo ng iyong kaibigan. Ngayon, kailangan mong i-install ang extension ng Hulu Watch Party (kung hindi mo pa nagagawa). Awtomatiko ka nitong ire-redirect sa party ng panonood."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Mga Tampok ng Hulu Party",
+      "subHeading": "Ang extension ay may malawak na hanay ng mga feature na nagpapadali sa Hulu streaming sa iyong mga kaibigan online.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Live na Panggrupong Chat",
+          "answer": "Ang Hulu watch party ay may tampok na Live Chat na nagbibigay-daan sa iyong makipag-chat sa iba pang mga kalahok habang nagsi-stream ng mga Hulu video nang magkasama."
+        },
+        {
+          "id": "t2",
+          "question": "HD Streaming",
+          "answer": "Panoorin ang iyong mga paboritong palabas sa Hulu sa perpektong pag-sync at kalidad ng HD gamit ang extension ng Hulu Watch Party."
+        },
+        {
+          "id": "t3",
+          "question": "Manood sa iba't ibang device",
+          "answer": "Sinusuportahan ang malawak na hanay ng mga device. Magagamit mo ang extension sa iyong Windows, macOS, o Chromebook na mga laptop at PC."
+        },
+        {
+          "id": "t4",
+          "question": "Mga tool sa pagpapasadya",
+          "answer": "Maaari mong i-customize ang iyong profile gamit ang mga nakakatawang avatar at palayaw. Bukod pa riyan, maaari mo ring ilagay ang iyong palayaw na lalabas sa iyong mga kaibigan sa chat ng grupo o habang nanonood ng mga video na naka-sync."
+        },
+        {
+          "id": "t5",
+          "question": "Pandaigdigang Pag-access",
+          "answer": "Ang extension ng Hulu Watch Party ay available sa lahat ng bansa. Samakatuwid, nasaan ka man, maaari kang lumikha o sumali sa isang Hulu party kasama ang iyong mga kaibigan."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Mga madalas itanong",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Ano ang Hulu Watch Party?",
+        "answer": "Ang Hulu watch party ay isang libreng extension na nagbibigay-daan sa lahat ng Hulu subscriber na manood ng mga pelikula at palabas nang magkasama at kahit na kumonekta mula sa iba't ibang mga lokasyon. Bukod dito, maaari mong i-download ang extension na ito nang libre."
+      },
+      {
+        "id": "f2",
+        "question": "Sino ang maaaring gumamit ng extension?",
+        "answer": "Maaaring gamitin ng lahat na may subscription sa Hulu ang extension upang manood ng mga palabas, serye, o video sa Hulu online sa perpektong pag-synchronize sa ibang mga taong nakatira sa malayo."
+      },
+      {
+        "id": "f3",
+        "question": "Maaari ko bang gamitin ang Hulu Watch Party sa aking mobile?",
+        "answer": "Sa kasalukuyan, ang extension ay tugma lamang sa Windows, Chromebook, o macOS na mga laptop at PC. Samakatuwid, hindi mo magagamit ang extension sa iyong mobile o tablet."
+      },
+      {
+        "id": "f4",
+        "question": "Paano ko sisimulan ang Hulu party?",
+        "answer": "Maaari kang lumikha ng Hulu Party sa pamamagitan ng pagsunod sa mga madaling hakbang na ibinigay sa ibaba:-",
+        "p1": "Una sa lahat, mag-sign in sa iyong Hulu account pagkatapos i-install ang extension.",
+        "p2": "Ngayon, hanapin ang video na gusto mong panoorin kasama ng mga kaibigan.",
+        "p3": "Pagkatapos nito, i-play ang video at pumunta sa icon ng extension.",
+        "p4": "Ngayon, magbubukas ang tab na \"Gumawa ng Hulu Party\". Dapat mong i-click ang pindutang \"Simulan ang Party\".",
+        "p5": "Tandaan: kung hindi mo gustong magkaroon ng kumpletong kontrol sa party ng panonood, dapat mong i-click ang berdeng button para i-off ito. Gayunpaman, kung gusto mong panatilihin ang kontrol ng partido, dapat mo",
+        "p6": "Pagkatapos nito, lalabas sa screen ang Hulu party URL. Pakikopya ang URL na ito at ibahagi ito sa iyong mga kaibigan na gusto mong imbitahan sa Hulu party."
+      },
+      {
+        "id": "f5",
+        "question": "Paano sumali sa Hulu Party?",
+        "answer": "Una sa lahat, kailangan mong tiyakin na na-install mo ang extension ng Hulu Party sa iyong device. Pagkatapos nito, mag-log in sa iyong Hulu account at mag-click sa link na ibinahagi sa iyo ng iyong kaibigan. Ire-redirect ka nito sa party."
+      },
+      {
+        "id": "f6",
+        "question": "Maaari ba akong makipag-group chat sa aking mga kaibigan sa oras ng panonood?",
+        "answer": "Oo, maaari kang magkaroon ng panggrupong chat habang nanonood ng mga pelikula, Palabas sa TV, o anumang video sa Hulu kasama ang iyong mga kaibigan."
+      },
+      {
+        "id": "f7",
+        "question": "Ilang miyembro ang maaari kong isama sa isang Hulu party?",
+        "answer": "Maaari kang magsama ng maraming kaibigan o miyembro ng pamilya hangga't gusto mong idagdag sa party. Gayunpaman, pakitiyak na ang lahat ng miyembro ay nakatira sa parehong bansa."
+      },
+      {
+        "id": "f8",
+        "question": "Aling mga device ang sinusuportahan ng extension?",
+        "answer": "Hindi sinusuportahan ng Hulu watch party ang mga mobile o tablet device. Compatible lang ito sa Chromebook, Windows, o macOS na mga laptop at PC."
+      },
+      {
+        "id": "f9",
+        "question": "Mayroon bang anumang mga feature sa pag-personalize ang extension?",
+        "answer": "Oo, maaari kang pumili at magtakda ng palayaw na makikita sa panggrupong chat. Bilang karagdagan sa iyon, maaari mo ring piliin ang nakakatawang avatar na iyong pinili mula sa mga magagamit na pagpipilian."
+      },
+      {
+        "id": "f10",
+        "question": "Maaari bang sumali ang mga internasyonal na kaibigan sa Hulu Watch Party?",
+        "answer": "Kinakailangan na ang lahat ng miyembro ay nasa iisang bansa para sumali sa Hulu party. Gayunpaman, kung ang sinumang miyembro ay wala sa parehong bansa, maaari silang gumamit ng VPN."
+      },
+      {
+        "id": "f11",
+        "question": "Ano ang dapat kong i-install o gamitin ang extension?",
+        "answer": "Dapat mayroon kang mga sumusunod:-",
+        "p1": "Isang matatag na koneksyon sa internet.",
+        "p2": "Isang Chromebook, macOS, o Windows device.",
+        "p3": "Google Chrome o Microsoft Edge browser.",
+        "p4": "Isang subscription sa Hulu"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Kunin ito, Ito ay Libre!",
+    "anyQuestions": "Handa na ako, Bigyan mo ako ng Hotstar Party",
+    "blog": "Blog",
+    "privacy": "Pagkapribado",
+    "popularSearches": "Mga Patok na Paghahanap",
+    "disclaimer": "Disclaimer",
+    "disclaimerContent": "Ang Hulu ay isang trademark ng Hulu, LLC. Ang website na ito",
+    "footerTags": [
+      "Hulu Watch Party",
+      "Manood ng Party Hulu",
+      "Paano gamitin ang Hulu Watch Party",
+      "Paano gawin ang Watch Party sa Hulu",
+      "Hulu Party",
+      "Paano Magsimula ng Watch Party sa Hulu",
+      "Paano magkaroon ng Watch Party sa Hulu",
+      "Ano ang Panoorin sa Hulu",
+      "Ano ang Panoorin sa Hulu Ngayon",
+      "Ano ang Dapat Panoorin sa Hulu"
+    ]
+  }
+}

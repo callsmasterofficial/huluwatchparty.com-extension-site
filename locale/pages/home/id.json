@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Tambahkan", "free": "Ini gratis" },
+    "navBarHeading": "sekarang tersedia di Google Chrome, Microsoft Edge dan Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Gunakan Hulu Watch Party dan Tetap Terhubung dengan Teman",
+      "html": "Tonton acara dan film Hulu dalam sinkronisasi sempurna dengan orang-orang secara online dan selalu terhubung dari lokasi berbeda. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> adalah ekstensi gratis yang dibuat khusus untuk memberikan pengalaman kepada streamer Hulu di seluruh dunia pengalaman streaming yang lancar dan sinkron dengan teman/keluarga mereka.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Bagaimana cara memulai Hulu Watch Party?",
+      "subHeading": "Ekstensi telah dirancang dan dibuat dengan tujuan untuk memberikan pengalaman streaming yang lancar kepada pengguna. Anda dapat memulai ekstensi dalam beberapa klik.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instal Pesta Tontonan Hulu",
+          "answer": "Pertama, Anda perlu memasang ekstensi di perangkat Anda. Harap diperhatikan bahwa ekstensi ini hanya kompatibel dengan perangkat Chromebook, Windows, atau macOS dan browser Google Chrome atau Microsoft Edge. Klik di sini untuk menginstal ekstensi. Sematkan Pesta Hulu ke bilah alat."
+        },
+        {
+          "id": "2",
+          "question": "Sematkan Hulu Watch Party ke bilah alat",
+          "answer": "Setelah menginstal ekstensi, sematkan ke toolbar untuk memudahkan penggunaan. Arahkan ke ikon \"Ekstensi\". Sekarang, sematkan tombol HWP ke toolbar."
+        },
+        {
+          "id": "3",
+          "question": "Masuk ke Hulu",
+          "answer": "Anda harus masuk ke akun Hulu Anda untuk mengakses acara TV, serial, film, atau semua video dari Hulu dan menontonnya bersama orang lain secara online."
+        },
+        {
+          "id": "4",
+          "question": "Cari dan Putar Videonya",
+          "answer": "Silakan cari video yang ingin Anda tonton di pesta tontonan Hulu Anda dan putar."
+        },
+        {
+          "id": "5",
+          "question": "Buat pesta jam tangan",
+          "answer": "Setelah memutar video, klik ikon “Ekstensi” yang terletak di toolbar Anda untuk membuka jendela “Buat Pesta”. Lalu, ketuk “Mulai Pesta” untuk mendapatkan URL pesta. Salin URL pesta dan bagikan dengan orang-orang untuk mengundang mereka ke pesta."
+        },
+        {
+          "id": "5",
+          "question": "Bergabunglah dengan Partai Hulu",
+          "answer": "Masuk ke akun Hulu Anda dan klik tautan pesta yang dibagikan kepada Anda oleh teman Anda. Sekarang, Anda perlu menginstal ekstensi Hulu Watch Party (jika Anda belum melakukannya). Ini secara otomatis akan mengarahkan Anda ke pesta menonton."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Fitur Pesta Hulu",
+      "subHeading": "Ekstensi ini hadir dengan berbagai fitur yang memfasilitasi streaming Hulu dengan mudah dengan teman-teman Anda secara online.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Obrolan Grup Langsung",
+          "answer": "Pesta tontonan Hulu hadir dengan fitur Obrolan Langsung yang memungkinkan Anda mengobrol dengan peserta lain sambil streaming video Hulu bersama."
+        },
+        {
+          "id": "t2",
+          "question": "Streaming HD",
+          "answer": "Tonton acara Hulu favorit Anda dalam sinkronisasi sempurna dan kualitas HD dengan ekstensi Hulu Watch Party."
+        },
+        {
+          "id": "t3",
+          "question": "Tonton di perangkat yang berbeda",
+          "answer": "Mendukung berbagai perangkat. Anda dapat menggunakan ekstensi ini di laptop dan PC Windows, macOS, atau Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Alat penyesuaian",
+          "answer": "Anda dapat menyesuaikan profil Anda dengan avatar dan nama panggilan lucu. Selain itu, Anda juga dapat memasukkan nama panggilan Anda yang akan ditampilkan kepada teman-teman Anda selama obrolan grup atau saat menonton video secara sinkron."
+        },
+        {
+          "id": "t5",
+          "question": "Akses Seluruh Dunia",
+          "answer": "Ekstensi Hulu Watch Party tersedia di semua negara. Oleh karena itu, di mana pun Anda berada, Anda dapat membuat atau bergabung dengan pesta Hulu bersama teman-teman Anda."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Pertanyaan yang sering diajukan",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Apa itu Pesta Tontonan Hulu?",
+        "answer": "Pesta menonton Hulu adalah ekstensi gratis yang memungkinkan semua pelanggan Hulu menonton film dan acara bersama dan bahkan terhubung dari lokasi berbeda. Selain itu, Anda dapat mengunduh ekstensi ini secara gratis."
+      },
+      {
+        "id": "f2",
+        "question": "Siapa yang dapat menggunakan ekstensi ini?",
+        "answer": "Setiap orang yang berlangganan Hulu dapat menggunakan ekstensi ini untuk menonton acara, serial, atau video Hulu secara online dalam sinkronisasi sempurna dengan orang lain yang tinggal jauh."
+      },
+      {
+        "id": "f3",
+        "question": "Bisakah saya menggunakan Hulu Watch Party di ponsel saya?",
+        "answer": "Saat ini, ekstensi tersebut hanya kompatibel dengan laptop dan PC Windows, Chromebook, atau macOS. Oleh karena itu, Anda tidak dapat menggunakan ekstensi di ponsel atau tablet Anda."
+      },
+      {
+        "id": "f4",
+        "question": "Bagaimana cara memulai pesta Hulu?",
+        "answer": "Anda dapat membuat Pesta Hulu dengan mengikuti langkah mudah di bawah ini:-",
+        "p1": "Pertama-tama, masuk ke akun Hulu Anda setelah menginstal ekstensi.",
+        "p2": "Sekarang, cari video yang ingin Anda tonton bersama teman.",
+        "p3": "Setelah ini, putar videonya dan buka ikon ekstensi.",
+        "p4": "Sekarang, tab “Buat Pesta Hulu” akan terbuka. Anda harus mengklik tombol “Mulai Pesta”.",
+        "p5": "Catatan: jika Anda tidak ingin memiliki kendali penuh atas jam tangan, Anda harus mengklik tombol hijau untuk mematikannya. Namun, jika Anda ingin mempertahankan kendali partai, Anda harus melakukannya",
+        "p6": "Setelah ini, URL pihak Hulu akan muncul di layar. Silakan salin URL ini dan bagikan dengan teman Anda yang ingin Anda undang ke pesta Hulu."
+      },
+      {
+        "id": "f5",
+        "question": "Bagaimana cara bergabung dengan Partai Hulu?",
+        "answer": "Pertama-tama, Anda perlu memastikan bahwa Anda telah menginstal ekstensi Pesta Hulu di perangkat Anda. Setelah ini, masuk ke akun Hulu Anda dan klik tautan yang dibagikan oleh teman Anda. Ini akan mengarahkan Anda ke pesta."
+      },
+      {
+        "id": "f6",
+        "question": "Bisakah saya juga melakukan obrolan grup dengan teman-teman saya selama pesta nonton bareng?",
+        "answer": "Ya, Anda dapat melakukan obrolan grup sambil menonton film, Acara TV, atau video apa pun di Hulu dengan teman-teman Anda."
+      },
+      {
+        "id": "f7",
+        "question": "Berapa banyak anggota yang dapat saya sertakan dalam pesta Hulu?",
+        "answer": "Anda dapat menyertakan teman atau anggota keluarga sebanyak yang Anda ingin tambahkan ke pesta. Namun, harap pastikan bahwa semua anggota tinggal di negara yang sama."
+      },
+      {
+        "id": "f8",
+        "question": "Perangkat apa saja yang didukung oleh ekstensi ini?",
+        "answer": "Pesta menonton Hulu tidak mendukung perangkat seluler atau tablet. Ini hanya kompatibel dengan laptop dan PC Chromebook, Windows, atau macOS."
+      },
+      {
+        "id": "f9",
+        "question": "Apakah ekstensi memiliki fitur personalisasi?",
+        "answer": "Ya, Anda dapat memilih dan mengatur nama panggilan yang akan terlihat selama obrolan grup. Selain itu, Anda juga dapat memilih avatar lucu pilihan Anda dari pilihan yang tersedia."
+      },
+      {
+        "id": "f10",
+        "question": "Bisakah teman internasional bergabung dengan Hulu Watch Party?",
+        "answer": "Semua anggota harus berada di negara yang sama untuk bergabung dengan partai Hulu. Namun, jika ada anggota yang tidak berada di negara yang sama, maka mereka dapat menggunakan VPN."
+      },
+      {
+        "id": "f11",
+        "question": "Apa yang harus saya miliki untuk menginstal atau menggunakan ekstensi tersebut?",
+        "answer": "Anda harus memiliki yang berikut:-",
+        "p1": "Koneksi internet yang stabil.",
+        "p2": "Perangkat Chromebook, macOS, atau Windows.",
+        "p3": "Peramban Google Chrome atau Microsoft Edge.",
+        "p4": "Langganan Hulu"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Dapatkan, Gratis!",
+    "anyQuestions": "Saya siap, Beri saya Pesta Hotstar",
+    "blog": "Blog",
+    "privacy": "Pribadi",
+    "popularSearches": "Pencarian Populer",
+    "disclaimer": "Penafian",
+    "disclaimerContent": "Hulu adalah merek dagang dari Hulu, LLC. Situs ini",
+    "footerTags": [
+      "Pesta Tontonan Hulu",
+      "Tonton Pesta Hulu",
+      "Cara menggunakan Pesta Tontonan Hulu",
+      "Bagaimana melakukan Pesta Tontonan di Hulu",
+      "Pesta Hulu",
+      "Cara Memulai Pesta Tontonan di Hulu",
+      "Cara mengadakan Pesta Tontonan di Hulu",
+      "Yang Harus Ditonton di Hulu",
+      "Yang Harus Ditonton di Hulu Saat Ini",
+      "Apa yang Harus Ditonton di Hulu"
+    ]
+  }
+}

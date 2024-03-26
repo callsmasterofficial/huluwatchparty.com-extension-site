@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pridėti prie", "free": "Nemokama" },
+    "navBarHeading": "dabar pasiekiama „Google Chrome“, „Microsoft Edge“ ir „Mozilla Firefox“."
+  },
+  "section": {
+    "first": {
+      "heading": "Naudokite „Hulu Watch Party“ ir palaikykite ryšį su draugais",
+      "html": "Žiūrėkite Hulu laidas ir filmus puikiai sinchronizuodami su žmonėmis internete ir visada palaikykite ryšį iš skirtingų vietų. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> yra nemokamas plėtinys, sukurtas išskirtinai siekiant suteikti visame pasaulyje Hulu transliuotojams vientisa srautinio perdavimo patirtis sinchronizuojama su draugais / šeima.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Kaip pradėti „Hulu Watch Party“?",
+      "subHeading": "Plėtinys buvo sukurtas ir sukurtas siekiant suteikti vartotojams sklandų srautinio perdavimo patirtį. Galite pradėti naudoti plėtinį keliais paspaudimais.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Įdiekite „Hulu Watch Party“.",
+          "answer": "Pirmiausia įrenginyje turite įdiegti plėtinį. Atminkite, kad plėtinys suderinamas tik su „Chromebook“, „Windows“ arba „MacOS“ įrenginiais ir „Google Chrome“ arba „Microsoft Edge“ naršyklėmis. Spustelėkite čia, kad įdiegtumėte plėtinį. Prisekite Hulu Party prie įrankių juostos."
+        },
+        {
+          "id": "2",
+          "question": "Prisekite „Hulu Watch Party“ prie įrankių juostos",
+          "answer": "Įdiegę plėtinį prisekite jį prie įrankių juostos, kad būtų lengviau jį naudoti. Eikite į piktogramą „Plėtiniai“. Dabar prijunkite mygtuką HWP prie įrankių juostos."
+        },
+        {
+          "id": "3",
+          "question": "Prisijunkite prie Hulu",
+          "answer": "Turite prisijungti prie „Hulu“ paskyros, kad galėtumėte pasiekti TV laidas, serialus, filmus ar visus vaizdo įrašus iš „Hulu“ ir žiūrėti juos kartu su kitais žmonėmis internete."
+        },
+        {
+          "id": "4",
+          "question": "Ieškokite ir paleiskite vaizdo įrašą",
+          "answer": "Ieškokite vaizdo įrašo, kurį norite žiūrėti „Hulu“ žiūrėjimo vakarėlyje, ir paleiskite jį."
+        },
+        {
+          "id": "5",
+          "question": "Sukurkite laikrodžių vakarėlį",
+          "answer": "Paleidę vaizdo įrašą, spustelėkite piktogramą „Plėtiniai“, esančią įrankių juostoje, kad atidarytumėte langą „Sukurti vakarėlį“. Tada bakstelėkite „Pradėti vakarėlį“, kad gautumėte vakarėlio URL. Nukopijuokite vakarėlio URL ir bendrinkite jį su žmonėmis, kad pakviestumėte juos į vakarėlį."
+        },
+        {
+          "id": "5",
+          "question": "Prisijunkite prie Hulu partijos",
+          "answer": "Prisijunkite prie savo Hulu paskyros ir spustelėkite vakarėlio nuorodą, kurią jums pasidalino jūsų draugas. Dabar turite įdiegti „Hulu Watch Party“ plėtinį (jei dar to nepadarėte). Jis automatiškai nukreips jus į žiūrėjimo vakarėlį."
+        }
+      ]
+    },
+    "three": {
+      "heading": "„Hulu Party“ ypatybės",
+      "subHeading": "Plėtinyje yra daugybė funkcijų, kurios palengvina „Hulu“ srautinį perdavimą su draugais internete.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Tiesioginis grupės pokalbis",
+          "answer": "„Hulu“ žiūrėjimo vakarėlyje yra tiesioginio pokalbio funkcija, leidžianti kalbėtis su kitais dalyviais kartu transliuojant „Hulu“ vaizdo įrašus."
+        },
+        {
+          "id": "t2",
+          "question": "HD srautas",
+          "answer": "Žiūrėkite mėgstamas „Hulu“ laidas tobulai sinchronizuodami ir HD kokybe naudodami „Hulu Watch Party“ plėtinį."
+        },
+        {
+          "id": "t3",
+          "question": "Žiūrėkite skirtinguose įrenginiuose",
+          "answer": "Palaiko daugybę įrenginių. Plėtinį galite naudoti „Windows“, „MacOS“ arba „Chromebook“ nešiojamuosiuose ir asmeniniuose kompiuteriuose."
+        },
+        {
+          "id": "t4",
+          "question": "Tinkinimo įrankiai",
+          "answer": "Galite tinkinti savo profilį naudodami juokingus avatarus ir slapyvardžius. Be to, taip pat galite įdėti savo slapyvardį, kuris bus rodomas jūsų draugams grupės pokalbio metu arba žiūrint sinchronizuotus vaizdo įrašus."
+        },
+        {
+          "id": "t5",
+          "question": "Prieiga visame pasaulyje",
+          "answer": "„Hulu Watch Party“ plėtinys pasiekiamas visose šalyse. Todėl, kad ir kur būtumėte, galite sukurti Hulu vakarėlį arba prisijungti prie jo su draugais."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Dažnai užduodami klausimai",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Kas yra „Hulu Watch Party“?",
+        "answer": "„Hulu“ žiūrėjimo vakarėlis yra nemokamas plėtinys, leidžiantis visiems „Hulu“ abonentams kartu žiūrėti filmus ir laidas ir netgi prisijungti iš skirtingų vietų. Be to, šį plėtinį galite atsisiųsti nemokamai."
+      },
+      {
+        "id": "f2",
+        "question": "Kas gali naudoti plėtinį?",
+        "answer": "Kiekvienas, turintis „Hulu“ prenumeratą, gali naudoti plėtinį norėdami žiūrėti „Hulu“ laidas, serialus ar vaizdo įrašus internete puikiai sinchronizuoti su kitais toli gyvenančiais žmonėmis."
+      },
+      {
+        "id": "f3",
+        "question": "Ar galiu naudoti „Hulu Watch Party“ savo mobiliajame telefone?",
+        "answer": "Šiuo metu plėtinys suderinamas tik su „Windows“, „Chromebook“ arba „MacOS“ nešiojamaisiais ir asmeniniais kompiuteriais. Todėl negalite naudoti plėtinio savo mobiliajame telefone ar planšetiniame kompiuteryje."
+      },
+      {
+        "id": "f4",
+        "question": "Kaip pradėti Hulu vakarėlį?",
+        "answer": "Galite sukurti „Hulu“ vakarėlį atlikdami toliau nurodytus paprastus veiksmus: -",
+        "p1": "Visų pirma, įdiegę plėtinį prisijunkite prie „Hulu“ paskyros.",
+        "p2": "Dabar ieškokite vaizdo įrašo, kurį norite žiūrėti su draugais.",
+        "p3": "Po to paleiskite vaizdo įrašą ir eikite į plėtinio piktogramą.",
+        "p4": "Dabar atsidarys skirtukas „Sukurti Hulu vakarėlį“. Turėtumėte spustelėti mygtuką „Pradėti vakarėlį“.",
+        "p5": "Pastaba: jei nenorite visiškai kontroliuoti laikrodžio vakarėlio, turėtumėte spustelėti žalią mygtuką, kad jį išjungtumėte. Tačiau jei norite išlaikyti partijos kontrolę, turėtumėte",
+        "p6": "Po to ekrane pasirodys „Hulu“ šalies URL. Nukopijuokite šį URL ir pasidalykite juo su draugais, kuriuos norite pakviesti į Hulu vakarėlį."
+      },
+      {
+        "id": "f5",
+        "question": "Kaip prisijungti prie Hulu partijos?",
+        "answer": "Visų pirma, turite įsitikinti, kad įrenginyje įdiegėte „Hulu Party“ plėtinį. Po to prisijunkite prie savo Hulu paskyros ir spustelėkite nuorodą, kurią su jumis pasidalino jūsų draugas. Tai nukreips jus į vakarėlį."
+      },
+      {
+        "id": "f6",
+        "question": "Ar galiu taip pat pasikalbėti su draugais per žiūrėjimo vakarėlį?",
+        "answer": "Taip, galite turėti grupinį pokalbį žiūrėdami filmus, TV laidas ar bet kurį vaizdo įrašą „Hulu“ su draugais."
+      },
+      {
+        "id": "f7",
+        "question": "Kiek narių galiu įtraukti į Hulu vakarėlį?",
+        "answer": "Į vakarėlį galite įtraukti tiek draugų ar šeimos narių, kiek norite. Tačiau įsitikinkite, kad visi nariai gyvena toje pačioje šalyje."
+      },
+      {
+        "id": "f8",
+        "question": "Kokius įrenginius palaiko plėtinys?",
+        "answer": "„Hulu Watch Party“ nepalaiko mobiliųjų ar planšetinių įrenginių. Jis suderinamas tik su „Chromebook“, „Windows“ arba „MacOS“ nešiojamaisiais ir asmeniniais kompiuteriais."
+      },
+      {
+        "id": "f9",
+        "question": "Ar plėtinys turi kokių nors suasmeninimo funkcijų?",
+        "answer": "Taip, galite pasirinkti ir nustatyti slapyvardį, kuris bus matomas grupės pokalbio metu. Be to, iš galimų parinkčių taip pat galite pasirinkti juokingą avatarą."
+      },
+      {
+        "id": "f10",
+        "question": "Ar tarptautiniai draugai gali prisijungti prie „Hulu Watch Party“?",
+        "answer": "Norint prisijungti prie Hulu partijos, visi nariai turi būti toje pačioje šalyje. Tačiau jei kuris nors narys nėra toje pačioje šalyje, jis gali naudoti VPN."
+      },
+      {
+        "id": "f11",
+        "question": "Ką turėčiau turėti norint įdiegti arba naudoti plėtinį?",
+        "answer": "Jūs turite turėti šiuos dalykus:",
+        "p1": "Stabilus interneto ryšys.",
+        "p2": "„Chromebook“, „MacOS“ arba „Windows“ įrenginys.",
+        "p3": "„Google Chrome“ arba „Microsoft Edge“ naršyklė.",
+        "p4": "„Hulu“ prenumerata"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Gaukite tai nemokamai!",
+    "anyQuestions": "Aš pasiruošęs, duok man „Hotstar Party“.",
+    "blog": "Dienoraštis",
+    "privacy": "Privatumas",
+    "popularSearches": "Populiarios paieškos",
+    "disclaimer": "Atsisakymas",
+    "disclaimerContent": "„Hulu“ yra „Hulu, LLC“ prekės ženklas. Ši svetainė",
+    "footerTags": [
+      "Hulu žiūrėjimo vakarėlis",
+      "Žiūrėkite Party Hulu",
+      "Kaip naudotis „Hulu Watch Party“.",
+      "Kaip surengti žiūrėjimo vakarėlį „Hulu“.",
+      "Hulu vakarėlis",
+      "Kaip pradėti žiūrėjimo vakarėlį „Hulu“.",
+      "Kaip surengti žiūrėjimo vakarėlį „Hulu“.",
+      "Ką žiūrėti Hulu",
+      "Ką žiūrėti „Hulu“ dabar",
+      "Ką žiūrėti „Hulu“."
+    ]
+  }
+}

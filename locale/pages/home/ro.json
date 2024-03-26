@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Adaugă la", "free": "Este gratis" },
+    "navBarHeading": "este acum disponibil pe Google Chrome, Microsoft Edge și Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Utilizați Hulu Watch Party și rămâneți conectat cu prietenii",
+      "html": "Urmăriți emisiunile și filme Hulu în sincronizare perfectă cu oamenii online și rămâneți mereu conectat din locații diferite. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> este o extensie gratuită creată exclusiv pentru a oferi streamerilor Hulu din întreaga lume un experiență de streaming perfectă, sincronizată cu prietenii/familia lor.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Cum să începeți cu Hulu Watch Party?",
+      "subHeading": "Extensia a fost concepută și creată cu scopul de a oferi utilizatorilor o experiență de streaming fluidă. Puteți începe cu extensia în câteva clicuri.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instalați Hulu Watch Party",
+          "answer": "În primul rând, trebuie să instalați extensia pe dispozitiv. Rețineți că extensia este compatibilă numai cu dispozitivele Chromebook, Windows sau macOS și cu browserele Google Chrome sau Microsoft Edge. Faceți clic aici pentru a instala extensia. Fixați Hulu Party pe bara de instrumente."
+        },
+        {
+          "id": "2",
+          "question": "Fixați Hulu Watch Party pe bara de instrumente",
+          "answer": "După instalarea extensiei, fixați-o pe bara de instrumente pentru a facilita o utilizare ușoară. Navigați la pictograma „Extensii”. Acum fixați butonul HWP pe bara de instrumente."
+        },
+        {
+          "id": "3",
+          "question": "Conectați-vă la Hulu",
+          "answer": "Trebuie să vă conectați la contul dvs. Hulu pentru a accesa emisiuni TV, seriale, filme sau toate videoclipurile din Hulu și vizionați-le împreună cu alte persoane online."
+        },
+        {
+          "id": "4",
+          "question": "Căutați și redați videoclipul",
+          "answer": "Căutați videoclipul pe care doriți să-l vizionați la petrecerea de vizionare Hulu și redați-l."
+        },
+        {
+          "id": "5",
+          "question": "Creați o petrecere cu ceasuri",
+          "answer": "După redarea videoclipului, faceți clic pe pictograma „Extensii” situată în bara de instrumente pentru a deschide fereastra „Creați o petrecere”. Apoi, atingeți „Începeți petrecerea” pentru a obține adresa URL a petrecerii. Copiați adresa URL a petrecerii și partajați-o cu oamenii pentru a le invita la petrecere."
+        },
+        {
+          "id": "5",
+          "question": "Alăturați-vă Hulu Party",
+          "answer": "Conectați-vă la contul dvs. Hulu și faceți clic pe linkul de petrecere pe care ți-a fost distribuit de prietenul tău. Acum, trebuie să instalați extensia Hulu Watch Party (dacă nu ați făcut-o deja). Vă va redirecționa automat către grupul de vizionare."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Caracteristicile Hulu Party",
+      "subHeading": "Extensia vine cu o gamă largă de funcții care facilitează streamingul ușor Hulu cu prietenii tăi online.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Chat de grup live",
+          "answer": "Hulu Watch Party vine cu funcția Live Chat care vă permite să discutați cu ceilalți participanți în timp ce transmiteți videoclipurile Hulu împreună."
+        },
+        {
+          "id": "t2",
+          "question": "Streaming HD",
+          "answer": "Urmăriți emisiunile Hulu preferate în sincronizare perfectă și calitate HD cu extensia Hulu Watch Party."
+        },
+        {
+          "id": "t3",
+          "question": "Vizionați pe diferite dispozitive",
+          "answer": "Acceptă o gamă largă de dispozitive. Puteți utiliza extensia pe laptopurile și computerele Windows, macOS sau Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Instrumente de personalizare",
+          "answer": "Îți poți personaliza profilul cu avatare și porecle amuzante. În plus, puteți pune și porecla care va apărea prietenilor dvs. în timpul chatului de grup sau în timp ce vizionați videoclipurile sincronizate."
+        },
+        {
+          "id": "t5",
+          "question": "Acces la nivel mondial",
+          "answer": "Extensia Hulu Watch Party este disponibilă în toate țările. Prin urmare, indiferent unde vă aflați, puteți crea sau vă puteți alătura unei petreceri Hulu cu prietenii tăi."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Întrebări frecvente",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Ce este Hulu Watch Party?",
+        "answer": "Hulu Watch Party este o extensie gratuită care permite tuturor abonaților Hulu să vizioneze filme și emisiuni împreună și chiar să se conecteze din locații diferite. Mai mult, puteți descărca această extensie gratuit."
+      },
+      {
+        "id": "f2",
+        "question": "Cine poate folosi extensia?",
+        "answer": "Toți cei care au un abonament Hulu pot folosi extensia pentru a viziona seriale, seriale sau videoclipuri Hulu online, în sincronizare perfectă cu alte persoane care trăiesc departe."
+      },
+      {
+        "id": "f3",
+        "question": "Pot folosi Hulu Watch Party pe mobil?",
+        "answer": "În prezent, extensia este compatibilă numai cu laptopuri și PC-uri Windows, Chromebook sau macOS. Prin urmare, nu puteți utiliza extensia pe mobil sau tabletă."
+      },
+      {
+        "id": "f4",
+        "question": "Cum pot începe petrecerea Hulu?",
+        "answer": "Puteți crea petrecerea Hulu urmând pașii simpli de mai jos:-",
+        "p1": "În primul rând, conectați-vă la contul dvs. Hulu după instalarea extensiei.",
+        "p2": "Acum, căutați videoclipul pe care doriți să îl vizionați cu prietenii.",
+        "p3": "După aceasta, redați videoclipul și accesați pictograma extensiei.",
+        "p4": "Acum, se va deschide fila „Creează o petrecere Hulu”. Ar trebui să faceți clic pe butonul „Porniți petrecerea”.",
+        "p5": "Notă: dacă nu doriți să aveți control complet asupra petrecerii de vizionare, ar trebui să faceți clic pe butonul verde pentru a o opri. Totuși, dacă vrei să păstrezi controlul petrecerii, ar trebui",
+        "p6": "După aceasta, URL-ul petrecerii Hulu va apărea pe ecran. Vă rugăm să copiați această adresă URL și să o distribuiți prietenilor pe care doriți să-i invitați la petrecerea Hulu."
+      },
+      {
+        "id": "f5",
+        "question": "Cum să vă alăturați partidului Hulu?",
+        "answer": "În primul rând, trebuie să vă asigurați că ați instalat extensia Hulu Party pe dispozitiv. După aceasta, conectați-vă la contul dvs. Hulu și faceți clic pe linkul pe care vi l-a partajat prietenul. Te va redirecționa către petrecere."
+      },
+      {
+        "id": "f6",
+        "question": "Pot avea și o conversație de grup cu prietenii mei în timpul petrecerii de vizionare?",
+        "answer": "Da, puteți avea o conversație de grup în timp ce vizionați filme, emisiuni TV sau orice videoclip de pe Hulu cu prietenii tăi."
+      },
+      {
+        "id": "f7",
+        "question": "Câți membri pot include într-o petrecere Hulu?",
+        "answer": "Puteți include oricât de mulți prieteni sau membri ai familiei doriți să adăugați la petrecere. Cu toate acestea, vă rugăm să vă asigurați că toți membrii locuiesc în aceeași țară."
+      },
+      {
+        "id": "f8",
+        "question": "Ce dispozitive sunt acceptate de extensie?",
+        "answer": "Hulu Watch Party nu acceptă dispozitive mobile sau tablete. Este compatibil doar cu laptopuri și PC-uri Chromebook, Windows sau macOS."
+      },
+      {
+        "id": "f9",
+        "question": "Extensia are caracteristici de personalizare?",
+        "answer": "Da, puteți alege și seta o poreclă care va fi vizibilă în timpul chat-ului de grup. În plus, puteți alege și avatarul amuzant la alegere dintre opțiunile disponibile."
+      },
+      {
+        "id": "f10",
+        "question": "Pot prietenii internaționali să se alăture Hulu Watch Party?",
+        "answer": "Este necesar ca toți membrii să fie în aceeași țară pentru a se alătura partidului Hulu. Cu toate acestea, dacă vreun membru nu se află în aceeași țară, atunci poate folosi un VPN."
+      },
+      {
+        "id": "f11",
+        "question": "Ce ar trebui să am pentru a instala sau a folosi extensia?",
+        "answer": "Trebuie să aveți următoarele: -",
+        "p1": "O conexiune la internet stabilă.",
+        "p2": "Un dispozitiv Chromebook, macOS sau Windows.",
+        "p3": "Browserul Google Chrome sau Microsoft Edge.",
+        "p4": "Un abonament Hulu"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Ia-l, este gratuit!",
+    "anyQuestions": "Sunt gata, dă-mi Hotstar Party",
+    "blog": "Blog",
+    "privacy": "Confidențialitate",
+    "popularSearches": "Căutări populare",
+    "disclaimer": "Disclaimer",
+    "disclaimerContent": "Hulu este o marcă comercială a Hulu, LLC. Acest site web",
+    "footerTags": [
+      "Hulu Watch Party",
+      "Urmărește Party Hulu",
+      "Cum se utilizează Hulu Watch Party",
+      "Cum să faci Watch Party pe Hulu",
+      "Hulu Party",
+      "Cum să începeți o petrecere de vizionare pe Hulu",
+      "Cum să organizezi o petrecere de urmărire pe Hulu",
+      "Ce să urmăriți pe Hulu",
+      "Ce să urmăriți pe Hulu chiar acum",
+      "Ce să urmărești pe Hulu"
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Ongezea", "free": "Ni Bure" },
+    "navBarHeading": "sasa inapatikana kwenye Google Chrome, Microsoft Edge na Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Tumia Hulu Watch Party na Endelea Kuunganishwa na Marafiki",
+      "html": "Tazama vipindi na filamu za Hulu zikiwa zimesawazishwa kikamilifu na watu mtandaoni na uendelee kuwasiliana kila mara kutoka maeneo tofauti. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> ni kiendelezi kisicholipishwa kilichoundwa ili kuwapa watiririshaji wa Hulu ulimwenguni kote utiririshaji usio na mshono katika kusawazisha na marafiki/familia zao.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Jinsi ya kuanza na Hulu Watch Party?",
+      "subHeading": "Kiendelezi kimeundwa na kuundwa kwa lengo la kuwapa watumiaji uzoefu mzuri wa utiririshaji. Unaweza kuanza na kiendelezi katika mibofyo michache.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Sakinisha Hulu Watch Party",
+          "answer": "Kwanza, unahitaji kusakinisha kiendelezi kwenye kifaa chako. Tafadhali kumbuka kuwa kiendelezi kinaweza kutumika tu na Chromebook, Windows, au vifaa vya macOS na vivinjari vya Google Chrome au Microsoft Edge. Bofya hapa ili kusakinisha kiendelezi. Bandika Chama cha Hulu kwenye upau wa vidhibiti."
+        },
+        {
+          "id": "2",
+          "question": "Bandika Sherehe ya Kutazama ya Hulu kwenye upau wa vidhibiti",
+          "answer": "Baada ya kusakinisha kiendelezi, kibandike kwenye upau wa vidhibiti ili kurahisisha utumiaji. Nenda kwenye ikoni ya \"Viendelezi\". Sasa, bandika kitufe cha HWP kwenye upau wa vidhibiti."
+        },
+        {
+          "id": "3",
+          "question": "Ingia kwa Hulu",
+          "answer": "Unahitaji kuingia katika akaunti yako ya Hulu ili kufikia vipindi vya televisheni, mfululizo, filamu au video zote kutoka Hulu na kuzitazama pamoja na watu wengine mtandaoni."
+        },
+        {
+          "id": "4",
+          "question": "Tafuta na Ucheze Video",
+          "answer": "Tafadhali tafuta video ambayo ungependa kutazama kwenye tafrija yako ya Hulu na uicheze."
+        },
+        {
+          "id": "5",
+          "question": "Unda Sherehe ya saa",
+          "answer": "Baada ya kucheza video, bofya kwenye ikoni ya \"Viendelezi\" iliyo kwenye upau wa vidhibiti ili kufungua dirisha la \"Unda Sherehe\". Kisha, gusa \"Anzisha Sherehe\" ili kupata URL ya chama. Nakili URL ya sherehe na uishiriki na watu ili kuwaalika kwenye sherehe."
+        },
+        {
+          "id": "5",
+          "question": "Jiunge na Chama cha Hulu",
+          "answer": "Ingia kwenye akaunti yako ya Hulu na ubofye kiungo cha chama kilichoshirikiwa na rafiki yako. Sasa, unahitaji kusakinisha kiendelezi cha Hulu Watch Party (ikiwa bado hujafanya hivyo). Itakuelekeza kwenye sherehe kiotomatiki."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Vipengele vya Chama cha Hulu",
+      "subHeading": "Kiendelezi kinakuja na anuwai ya vipengele ambavyo hurahisisha utiririshaji wa Hulu na marafiki zako mtandaoni.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Gumzo la Kikundi la Moja kwa Moja",
+          "answer": "Sherehe ya kutazama ya Hulu inakuja na kipengele cha Chat cha Moja kwa Moja ambacho hukuruhusu kupiga gumzo na washiriki wengine huku ukitiririsha video za Hulu pamoja."
+        },
+        {
+          "id": "t2",
+          "question": "Utiririshaji wa HD",
+          "answer": "Tazama vipindi unavyovipenda vya Hulu katika usawazishaji kamili na ubora wa HD ukitumia kiendelezi cha Hulu Watch Party."
+        },
+        {
+          "id": "t3",
+          "question": "Tazama kwenye vifaa tofauti",
+          "answer": "Inasaidia anuwai ya vifaa. Unaweza kutumia kiendelezi kwenye kompyuta ndogo za Windows, macOS, au Chromebook na Kompyuta zako."
+        },
+        {
+          "id": "t4",
+          "question": "Zana za ubinafsishaji",
+          "answer": "Unaweza kubinafsisha wasifu wako ukitumia avatari za kuchekesha na majina ya utani. Mbali na hayo, unaweza pia kuweka jina lako la utani litakaloonekana kwa marafiki zako wakati wa gumzo la kikundi au unapotazama video katika ulandanishi."
+        },
+        {
+          "id": "t5",
+          "question": "Ufikiaji wa Ulimwenguni Pote",
+          "answer": "Kiendelezi cha Hulu Watch Party kinapatikana katika nchi zote. Kwa hivyo, haijalishi uko wapi, unaweza kuunda au kujiunga na karamu ya Hulu na marafiki zako."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Maswali yanayoulizwa mara kwa mara",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hulu Watch Party ni nini?",
+        "answer": "Sherehe ya kutazama ya Hulu ni kiendelezi kisicholipishwa ambacho huruhusu waliojisajili wote wa Hulu kutazama filamu na vipindi pamoja na hata kuunganishwa kutoka maeneo tofauti. Kwa kuongeza, unaweza kupakua kiendelezi hiki bila malipo."
+      },
+      {
+        "id": "f2",
+        "question": "Nani anaweza kutumia kiendelezi?",
+        "answer": "Kila mtu aliye na usajili wa Hulu anaweza kutumia kiendelezi kutazama vipindi vya Hulu, mfululizo au video mtandaoni kwa ulandanishi kamili na watu wengine wanaoishi mbali."
+      },
+      {
+        "id": "f3",
+        "question": "Je, ninaweza kutumia Hulu Watch Party kwenye simu yangu?",
+        "answer": "Kwa sasa, kiendelezi kinatumika tu na kompyuta za mkononi za Windows, Chromebook, au macOS na Kompyuta. Kwa hiyo, huwezi kutumia kiendelezi kwenye simu yako ya mkononi au kompyuta kibao."
+      },
+      {
+        "id": "f4",
+        "question": "Ninawezaje kuanzisha karamu ya Hulu?",
+        "answer": "Unaweza kuunda Chama cha Hulu kwa kufuata hatua rahisi zilizotolewa hapa chini:-",
+        "p1": "Kwanza kabisa, ingia kwenye akaunti yako ya Hulu baada ya kusakinisha kiendelezi.",
+        "p2": "Sasa, tafuta video ambayo ungependa kutazama na marafiki.",
+        "p3": "Baada ya hayo, cheza video na uende kwenye ikoni ya ugani.",
+        "p4": "Sasa, kichupo cha \"Unda Sherehe ya Hulu\" kitafunguliwa. Unapaswa kubofya kitufe cha \"Anzisha Chama\".",
+        "p5": "Kumbuka: ikiwa hutaki kuwa na udhibiti kamili wa chama cha kutazama, unapaswa kubofya kitufe cha kijani ili kukizima. Walakini, ikiwa unataka kuweka udhibiti wa chama, unapaswa",
+        "p6": "Baada ya hayo, URL ya chama cha Hulu itaonekana kwenye skrini. Tafadhali nakili URL hii na uishiriki na marafiki zako unaotaka kuwaalika kwenye sherehe ya Hulu."
+      },
+      {
+        "id": "f5",
+        "question": "Jinsi ya kujiunga na Chama cha Hulu?",
+        "answer": "Kwanza kabisa, unahitaji kuhakikisha kuwa umesakinisha kiendelezi cha Hulu Party kwenye kifaa chako. Baada ya hayo, ingia kwenye akaunti yako ya Hulu na ubofye kiungo kilichoshirikiwa nawe na rafiki yako. Itakuelekeza kwenye chama."
+      },
+      {
+        "id": "f6",
+        "question": "Je, ninaweza pia kuwa na gumzo la kikundi na marafiki zangu wakati wa tafrija ya kutazama?",
+        "answer": "Ndiyo, unaweza kuwa na gumzo la kikundi unapotazama filamu, Vipindi vya Televisheni, au video yoyote kwenye Hulu na marafiki zako."
+      },
+      {
+        "id": "f7",
+        "question": "Je, ninaweza kujumuisha wanachama wangapi katika chama cha Hulu?",
+        "answer": "Unaweza kujumuisha marafiki au wanafamilia wengi kadri unavyotaka kuongeza kwenye sherehe. Hata hivyo, tafadhali hakikisha kwamba wanachama wote wanaishi katika nchi moja."
+      },
+      {
+        "id": "f8",
+        "question": "Je, ni vifaa gani vinavyotumika na kiendelezi?",
+        "answer": "Sherehe ya saa ya Hulu haitumii vifaa vya rununu au kompyuta kibao. Inatumika tu na kompyuta za mkononi za Chromebook, Windows, au macOS."
+      },
+      {
+        "id": "f9",
+        "question": "Je, kiendelezi kina vipengele vyovyote vya kubinafsisha?",
+        "answer": "Ndiyo, unaweza kuchagua na kuweka jina la utani ambalo litaonekana wakati wa gumzo la kikundi. Kwa kuongeza hiyo, unaweza pia kuchagua avatar ya kuchekesha ya chaguo lako kutoka kwa chaguzi zinazopatikana."
+      },
+      {
+        "id": "f10",
+        "question": "Je, marafiki wa kimataifa wanaweza kujiunga na Hulu Watch Party?",
+        "answer": "Ni muhimu kwa wanachama wote kuwa katika nchi moja ili kujiunga na chama cha Hulu. Hata hivyo, ikiwa mwanachama yeyote hayuko katika nchi moja, basi anaweza kutumia VPN."
+      },
+      {
+        "id": "f11",
+        "question": "Je, ni lazima nisakinishe au kutumia kiendelezi?",
+        "answer": "Ni lazima uwe na yafuatayo:-",
+        "p1": "Muunganisho thabiti wa mtandao.",
+        "p2": "Chromebook, macOS, au kifaa cha Windows.",
+        "p3": "Kivinjari cha Google Chrome au Microsoft Edge.",
+        "p4": "Usajili wa Hulu"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Ipate, Ni Bure!",
+    "anyQuestions": "Niko tayari, Nipe Hotstar Party",
+    "blog": "Blogu",
+    "privacy": "Faragha",
+    "popularSearches": "Utafutaji Maarufu",
+    "disclaimer": "Kanusho",
+    "disclaimerContent": "Hulu ni chapa ya biashara ya Hulu, LLC. Tovuti hii",
+    "footerTags": [
+      "Hulu Watch Party",
+      "Tazama Hulu ya Sherehe",
+      "Jinsi ya kutumia Hulu Watch Party",
+      "Jinsi ya kufanya Sherehe ya Kutazama kwenye Hulu",
+      "Chama cha Hulu",
+      "Jinsi ya Kuanzisha Sherehe ya Kutazama kwenye Hulu",
+      "Jinsi ya kuwa na Sherehe ya Kutazama kwenye Hulu",
+      "Nini cha Kutazama kwenye Hulu",
+      "Nini cha Kutazama kwenye Hulu Hivi Sasa",
+      "Nini cha Kutazama Zaidi kwenye Hulu"
+    ]
+  }
+}

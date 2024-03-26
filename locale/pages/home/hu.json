@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Hozzáadás", "free": "Ingyen van" },
+    "navBarHeading": "már elérhető a Google Chrome, a Microsoft Edge és a Mozilla Firefox böngészőn"
+  },
+  "section": {
+    "first": {
+      "heading": "Használja a Hulu Watch Partyt, és maradjon kapcsolatban barátaival",
+      "html": "Nézze meg a Hulu-műsorokat és filmeket tökéletes szinkronban az emberekkel online, és mindig tartsa a kapcsolatot a különböző helyekről. A <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> egy ingyenes bővítmény, amelyet kizárólag azért hoztak létre, hogy a Hulu streamelők világszerte zökkenőmentes streamelési élmény, szinkronban a barátaikkal/családdal.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Hogyan kezdjük el a Hulu Watch Party-t?",
+      "subHeading": "A bővítményt azzal a céllal tervezték és hozták létre, hogy a felhasználók zökkenőmentes streamelési élményt nyújtsanak. Néhány kattintással elkezdheti használni a bővítményt.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Telepítse a Hulu Watch Partyt",
+          "answer": "Először is telepítenie kell a bővítményt az eszközére. Felhívjuk figyelmét, hogy a bővítmény csak Chromebook, Windows vagy macOS eszközökkel, valamint Google Chrome vagy Microsoft Edge böngészőkkel kompatibilis. Kattintson ide a bővítmény telepítéséhez. Rögzítse a Hulu Partyt az eszköztárhoz."
+        },
+        {
+          "id": "2",
+          "question": "Rögzítse a Hulu Watch Partyt az eszköztárhoz",
+          "answer": "A bővítmény telepítése után rögzítse az eszköztárhoz az egyszerű használat érdekében. Keresse meg a „Bővítmények” ikont. Most rögzítse a HWP gombot az eszköztárhoz."
+        },
+        {
+          "id": "3",
+          "question": "Jelentkezzen be a Hulu-ba",
+          "answer": "Be kell jelentkeznie Hulu-fiókjába, hogy hozzáférjen a tévéműsorokhoz, sorozatokhoz, filmekhez vagy a Hulu összes videójához, és másokkal együtt nézze őket online."
+        },
+        {
+          "id": "4",
+          "question": "Keresse meg és játssza le a videót",
+          "answer": "Kérjük, keresse meg azt a videót, amelyet meg szeretne nézni a Hulu partiján, és játssza le."
+        },
+        {
+          "id": "5",
+          "question": "Hozz létre egy órapartit",
+          "answer": "A videó lejátszása után kattintson az eszköztáron található „Bővítmények” ikonra a „Parti létrehozása” ablak megnyitásához. Ezután érintse meg a „Parti indítása” elemet a parti URL-címének lekéréséhez. Másolja ki a parti URL-címét, és ossza meg másokkal, hogy meghívja őket a buliba."
+        },
+        {
+          "id": "5",
+          "question": "Csatlakozz a Hulu Partyhoz",
+          "answer": "Jelentkezzen be Hulu-fiókjába, és kattintson a barátja által megosztott party linkre. Most telepítenie kell a Hulu Watch Party bővítményt (ha még nem tette meg). Ez automatikusan átirányítja Önt az órapartira."
+        }
+      ]
+    },
+    "three": {
+      "heading": "A Hulu Party jellemzői",
+      "subHeading": "A bővítmény számos funkcióval rendelkezik, amelyek megkönnyítik a Hulu online streamingjét barátaival.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Élő csoportos csevegés",
+          "answer": "A Hulu órapartihoz tartozik az Élő csevegés funkció, amely lehetővé teszi, hogy a többi résztvevővel csevegjen a Hulu videók közös streamelése közben."
+        },
+        {
+          "id": "t2",
+          "question": "HD Streaming",
+          "answer": "Nézze meg kedvenc Hulu műsorait tökéletes szinkronban és HD minőségben a Hulu Watch Party bővítménnyel."
+        },
+        {
+          "id": "t3",
+          "question": "Nézze meg különböző eszközökön",
+          "answer": "Az eszközök széles skáláját támogatja. A bővítményt Windows, macOS vagy Chromebook laptopokon és PC-ken használhatja."
+        },
+        {
+          "id": "t4",
+          "question": "Testreszabási eszközök",
+          "answer": "Testreszabhatja profilját vicces avatarokkal és becenevekkel. Ezen kívül megadhatja becenevét is, amely a csoportos csevegés vagy a videók szinkronban való nézése közben jelenik meg barátainak."
+        },
+        {
+          "id": "t5",
+          "question": "Világszerte elérhető",
+          "answer": "A Hulu Watch Party bővítmény minden országban elérhető. Ezért bárhol is van, létrehozhat egy Hulu-partit, vagy csatlakozhat a barátaival."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Gyakran Ismételt Kérdések",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Mi az a Hulu Watch Party?",
+        "answer": "A Hulu watch party egy ingyenes bővítmény, amely lehetővé teszi az összes Hulu-előfizető számára, hogy együtt nézzenek filmeket és műsorokat, és akár különböző helyekről is csatlakozzanak. Ezenkívül ingyenesen letöltheti ezt a bővítményt."
+      },
+      {
+        "id": "f2",
+        "question": "Ki használhatja a bővítményt?",
+        "answer": "Mindenki, aki rendelkezik Hulu-előfizetéssel, használhatja a bővítményt Hulu-műsorok, sorozatok vagy videók online megtekintéséhez, tökéletes szinkronban a távol élő emberekkel."
+      },
+      {
+        "id": "f3",
+        "question": "Használhatom a Hulu Watch Partyt a mobilomon?",
+        "answer": "Jelenleg a bővítmény csak Windows, Chromebook vagy macOS laptopokkal és PC-kkel kompatibilis. Ezért nem használhatja a bővítményt mobiltelefonján vagy táblagépén."
+      },
+      {
+        "id": "f4",
+        "question": "Hogyan indíthatom el a Hulu bulit?",
+        "answer": "A Hulu Partyt az alábbi egyszerű lépések követésével hozhatja létre: -",
+        "p1": "Először is jelentkezzen be Hulu-fiókjába a bővítmény telepítése után.",
+        "p2": "Most keresse meg azt a videót, amelyet meg szeretne nézni barátaival.",
+        "p3": "Ezután játssza le a videót, és lépjen a kiterjesztés ikonjára.",
+        "p4": "Most megnyílik a „Hulu parti létrehozása” lap. Kattintson a „Parti indítása” gombra.",
+        "p5": "Megjegyzés: ha nem szeretné teljes mértékben irányítani az órapartit, kattintson a zöld gombra a kikapcsoláshoz. Ha azonban meg akarja őrizni a párt irányítását, akkor meg kell tennie",
+        "p6": "Ezt követően a Hulu fél URL-je megjelenik a képernyőn. Kérjük, másolja ki ezt az URL-t, és ossza meg barátaival, akiket meg szeretne hívni a Hulu bulira."
+      },
+      {
+        "id": "f5",
+        "question": "Hogyan lehet csatlakozni a Hulu Partyhoz?",
+        "answer": "Először is meg kell győződnie arról, hogy telepítette a Hulu Party bővítményt az eszközére. Ezt követően jelentkezzen be Hulu fiókjába, és kattintson a barátja által megosztott linkre. Ez átirányítja a buliba."
+      },
+      {
+        "id": "f6",
+        "question": "Csoportos csevegést is folytathatok a barátaimmal az óraparti alatt?",
+        "answer": "Igen, csoportos csevegést folytathat, miközben filmeket, tévéműsorokat vagy bármilyen videót néz a Hulu-n barátaival."
+      },
+      {
+        "id": "f7",
+        "question": "Hány tagot vehetek fel egy Hulu-partiba?",
+        "answer": "Annyi barátot vagy családtagot vehet fel a buliba, amennyit csak szeretne. Kérjük azonban, hogy minden tag ugyanabban az országban éljen."
+      },
+      {
+        "id": "f8",
+        "question": "Mely eszközöket támogatja a bővítmény?",
+        "answer": "A Hulu watch party nem támogatja a mobil- vagy táblagépeket. Csak Chromebook, Windows vagy macOS laptopokkal és PC-kkel kompatibilis."
+      },
+      {
+        "id": "f9",
+        "question": "Rendelkezik a bővítmény személyre szabási funkcióval?",
+        "answer": "Igen, kiválaszthat és beállíthat egy becenevet, amely látható lesz a csoportos csevegés során. Ezen kívül a rendelkezésre álló lehetőségek közül kiválaszthatja a tetszőleges vicces avatart."
+      },
+      {
+        "id": "f10",
+        "question": "Nemzetközi barátok csatlakozhatnak a Hulu Watch Partyhoz?",
+        "answer": "A Hulu párthoz való csatlakozáshoz minden tagnak ugyanabban az országban kell lennie. Ha azonban valamelyik tag nem ugyanabban az országban van, akkor használhat VPN-t."
+      },
+      {
+        "id": "f11",
+        "question": "Mire van szükségem a bővítmény telepítéséhez vagy használatához?",
+        "answer": "Az alábbiakkal kell rendelkeznie: -",
+        "p1": "Stabil internet kapcsolat.",
+        "p2": "Chromebook, macOS vagy Windows eszköz.",
+        "p3": "Google Chrome vagy Microsoft Edge böngésző.",
+        "p4": "Hulu előfizetés"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Szerezd meg, ingyenes!",
+    "anyQuestions": "Készen állok, adj Hotstar Partyt",
+    "blog": "Blog",
+    "privacy": "Magánélet",
+    "popularSearches": "Népszerű keresések",
+    "disclaimer": "Jogi nyilatkozat",
+    "disclaimerContent": "A Hulu a Hulu, LLC védjegye. Ez a weboldal",
+    "footerTags": [
+      "Hulu Watch Party",
+      "Nézd meg a Party Hulu-t",
+      "A Hulu Watch Party használata",
+      "Hogyan nézz partit a Hulu-n",
+      "Hulu Party",
+      "Hogyan indítsunk Watch Partyt a Hulu-n",
+      "Hogyan tartsunk Watch Partyt a Hulu-n",
+      "Mit kell nézni a Hulu-n",
+      "Mit nézzünk meg most a Hulu-n",
+      "Mit érdemes figyelni a Hulu-n"
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Hinzufügen zu", "free": "Es ist frei" },
+    "navBarHeading": "ist jetzt auf Google Chrome, Microsoft Edge und Mozilla Firefox verfügbar"
+  },
+  "section": {
+    "first": {
+      "heading": "Nutzen Sie Hulu Watch Party und bleiben Sie mit Freunden in Verbindung",
+      "html": "Sehen Sie sich Hulu-Sendungen und -Filme perfekt synchron mit Menschen online an und bleiben Sie immer von verschiedenen Standorten aus in Verbindung. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> ist eine kostenlose Erweiterung, die ausschließlich entwickelt wurde, um Hulu-Streamern weltweit eine zu bieten nahtloses Streaming-Erlebnis synchron mit ihren Freunden/Familie.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Wie fange ich mit der Hulu Watch Party an?",
+      "subHeading": "Die Erweiterung wurde mit dem Ziel entworfen und erstellt, den Benutzern ein reibungsloses Streaming-Erlebnis zu bieten. Mit wenigen Klicks können Sie mit der Erweiterung beginnen.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installieren Sie Hulu Watch Party",
+          "answer": "Zunächst müssen Sie die Erweiterung auf Ihrem Gerät installieren. Bitte beachten Sie, dass die Erweiterung nur mit Chromebook-, Windows- oder macOS-Geräten und den Browsern Google Chrome oder Microsoft Edge kompatibel ist. Klicken Sie hier, um die Erweiterung zu installieren. Heften Sie Hulu Party an die Symbolleiste an."
+        },
+        {
+          "id": "2",
+          "question": "Heften Sie Hulu Watch Party an die Symbolleiste an",
+          "answer": "Nachdem Sie die Erweiterung installiert haben, heften Sie sie an die Symbolleiste an, um eine einfache Verwendung zu ermöglichen. Navigieren Sie zum Symbol „Erweiterungen“. Heften Sie nun die HWP-Schaltfläche an die Symbolleiste an."
+        },
+        {
+          "id": "3",
+          "question": "Melden Sie sich bei Hulu an",
+          "answer": "Sie müssen sich bei Ihrem Hulu-Konto anmelden, um auf Fernsehsendungen, Serien, Filme oder alle Videos von Hulu zuzugreifen und diese gemeinsam mit anderen Personen online anzusehen."
+        },
+        {
+          "id": "4",
+          "question": "Suchen Sie das Video und spielen Sie es ab",
+          "answer": "Bitte suchen Sie nach dem Video, das Sie auf Ihrer Hulu-Watch-Party sehen möchten, und spielen Sie es ab."
+        },
+        {
+          "id": "5",
+          "question": "Erstellen Sie eine Uhrenparty",
+          "answer": "Klicken Sie nach der Wiedergabe des Videos auf das Symbol „Erweiterungen“ in Ihrer Symbolleiste, um das Fenster „Party erstellen“ zu öffnen. Tippen Sie dann auf „Party starten“, um die Party-URL zu erhalten. Kopieren Sie die Party-URL und teilen Sie sie mit anderen, um sie zur Party einzuladen."
+        },
+        {
+          "id": "5",
+          "question": "Treten Sie der Hulu Party bei",
+          "answer": "Melden Sie sich bei Ihrem Hulu-Konto an und klicken Sie auf den Party-Link, den Ihr Freund für Sie freigegeben hat. Jetzt müssen Sie die Hulu Watch Party-Erweiterung installieren (falls Sie dies noch nicht getan haben). Sie werden automatisch zur Watch-Party weitergeleitet."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Funktionen von Hulu Party",
+      "subHeading": "Die Erweiterung verfügt über zahlreiche Funktionen, die ein einfaches Hulu-Streaming mit Ihren Freunden online ermöglichen.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Live-Gruppenchat",
+          "answer": "Hulu Watch Party verfügt über die Live-Chat-Funktion, mit der Sie mit den anderen Teilnehmern chatten und gleichzeitig die Hulu-Videos streamen können."
+        },
+        {
+          "id": "t2",
+          "question": "HD-Streaming",
+          "answer": "Sehen Sie sich Ihre Lieblingssendungen auf Hulu in perfekter Synchronisierung und HD-Qualität mit der Erweiterung „Hulu Watch Party“ an."
+        },
+        {
+          "id": "t3",
+          "question": "Auf verschiedenen Geräten ansehen",
+          "answer": "Unterstützt eine Vielzahl von Geräten. Sie können die Erweiterung auf Ihren Windows-, macOS- oder Chromebook-Laptops und -PCs verwenden."
+        },
+        {
+          "id": "t4",
+          "question": "Anpassungstools",
+          "answer": "Sie können Ihr Profil mit lustigen Avataren und Spitznamen anpassen. Darüber hinaus können Sie auch Ihren Spitznamen eingeben, der Ihren Freunden während des Gruppenchats oder beim synchronen Ansehen der Videos angezeigt wird."
+        },
+        {
+          "id": "t5",
+          "question": "Weltweiter Zugriff",
+          "answer": "Die Hulu Watch Party-Erweiterung ist in allen Ländern verfügbar. Deshalb können Sie, egal wo Sie sind, mit Ihren Freunden eine Hulu-Party veranstalten oder daran teilnehmen."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Was ist Hulu Watch Party?",
+        "answer": "Hulu Watch Party ist eine kostenlose Erweiterung, die es allen Hulu-Abonnenten ermöglicht, gemeinsam Filme und Serien anzusehen und sich sogar von verschiedenen Standorten aus zu verbinden. Darüber hinaus können Sie diese Erweiterung kostenlos herunterladen."
+      },
+      {
+        "id": "f2",
+        "question": "Wer kann die Erweiterung nutzen?",
+        "answer": "Jeder, der ein Hulu-Abonnement hat, kann die Erweiterung nutzen, um Hulu-Sendungen, -Serien oder -Videos online anzusehen, perfekt synchron mit anderen Menschen, die weit entfernt leben."
+      },
+      {
+        "id": "f3",
+        "question": "Kann ich Hulu Watch Party auf meinem Handy nutzen?",
+        "answer": "Derzeit ist die Erweiterung nur mit Windows-, Chromebook- oder macOS-Laptops und -PCs kompatibel. Daher können Sie die Erweiterung nicht auf Ihrem Mobiltelefon oder Tablet verwenden."
+      },
+      {
+        "id": "f4",
+        "question": "Wie kann ich die Hulu-Party starten?",
+        "answer": "Sie können die Hulu-Party gründen, indem Sie die folgenden einfachen Schritte ausführen: –",
+        "p1": "Melden Sie sich nach der Installation der Erweiterung zunächst bei Ihrem Hulu-Konto an.",
+        "p2": "Suchen Sie nun nach dem Video, das Sie mit Freunden ansehen möchten.",
+        "p3": "Spielen Sie anschließend das Video ab und gehen Sie zum Erweiterungssymbol.",
+        "p4": "Nun öffnet sich die Registerkarte „Hulu-Party erstellen“. Sie sollten auf die Schaltfläche „Party starten“ klicken.",
+        "p5": "Hinweis: Wenn Sie nicht die vollständige Kontrolle über die Überwachungsgruppe haben möchten, sollten Sie auf die grüne Schaltfläche klicken, um sie auszuschalten. Wenn Sie jedoch die Kontrolle über die Partei behalten möchten, sollten Sie dies tun",
+        "p6": "Danach erscheint die URL der Hulu-Party auf dem Bildschirm. Bitte kopieren Sie diese URL und teilen Sie sie mit Ihren Freunden, die Sie zur Hulu-Party einladen möchten."
+      },
+      {
+        "id": "f5",
+        "question": "Wie kann man der Hulu-Party beitreten?",
+        "answer": "Zunächst müssen Sie sicherstellen, dass Sie die Hulu Party-Erweiterung auf Ihrem Gerät installiert haben. Melden Sie sich anschließend bei Ihrem Hulu-Konto an und klicken Sie auf den Link, den Ihr Freund für Sie freigegeben hat. Sie werden zur Party weitergeleitet."
+      },
+      {
+        "id": "f6",
+        "question": "Kann ich während der Watch-Party auch einen Gruppenchat mit meinen Freunden führen?",
+        "answer": "Ja, Sie können einen Gruppenchat führen, während Sie mit Ihren Freunden Filme, Fernsehsendungen oder andere Videos auf Hulu ansehen."
+      },
+      {
+        "id": "f7",
+        "question": "Wie viele Mitglieder kann ich in eine Hulu-Party einbeziehen?",
+        "answer": "Sie können so viele Freunde oder Familienmitglieder in die Party einbeziehen, wie Sie möchten. Bitte stellen Sie jedoch sicher, dass alle Mitglieder im selben Land leben."
+      },
+      {
+        "id": "f8",
+        "question": "Welche Geräte werden von der Erweiterung unterstützt?",
+        "answer": "Hulu Watch Party unterstützt keine Mobil- oder Tablet-Geräte. Es ist nur mit Chromebook-, Windows- oder macOS-Laptops und -PCs kompatibel."
+      },
+      {
+        "id": "f9",
+        "question": "Verfügt die Erweiterung über Personalisierungsfunktionen?",
+        "answer": "Ja, Sie können einen Spitznamen auswählen und festlegen, der während des Gruppenchats sichtbar ist. Darüber hinaus können Sie aus den verfügbaren Optionen auch den lustigen Avatar Ihrer Wahl auswählen."
+      },
+      {
+        "id": "f10",
+        "question": "Können internationale Freunde der Hulu Watch Party beitreten?",
+        "answer": "Um der Hulu-Partei beizutreten, müssen alle Mitglieder im selben Land sein. Wenn sich jedoch ein Mitglied nicht im selben Land befindet, kann es ein VPN verwenden."
+      },
+      {
+        "id": "f11",
+        "question": "Was muss ich benötigen, um die Erweiterung zu installieren oder zu verwenden?",
+        "answer": "Sie müssen Folgendes haben:-",
+        "p1": "Eine stabile Internetverbindung.",
+        "p2": "Ein Chromebook, macOS oder Windows-Gerät.",
+        "p3": "Google Chrome- oder Microsoft Edge-Browser.",
+        "p4": "Ein Hulu-Abonnement"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Holen Sie es sich, es ist kostenlos!",
+    "anyQuestions": "Ich bin bereit, gib mir eine Hotstar-Party",
+    "blog": "Blog",
+    "privacy": "Privatsphäre",
+    "popularSearches": "beliebte Suchanfragen",
+    "disclaimer": "Haftungsausschluss",
+    "disclaimerContent": "Hulu ist eine Marke von Hulu, LLC. Diese Internetseite",
+    "footerTags": [
+      "Hulu Watch Party",
+      "„Party Hulu“ ansehen",
+      "So verwenden Sie Hulu Watch Party",
+      "So machen Sie Watch Party auf Hulu",
+      "Hulu-Party",
+      "So starten Sie eine Watch-Party auf Hulu",
+      "So veranstalten Sie eine Watch-Party auf Hulu",
+      "Was Sie auf Hulu sehen sollten",
+      "Was Sie gerade auf Hulu sehen sollten",
+      "Was Sie auf Hulu Binge Watchen sollten"
+    ]
+  }
+}

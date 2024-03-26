@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pievienot", "free": "Tas ir bezmaksas" },
+    "navBarHeading": "tagad ir pieejams pārlūkprogrammās Google Chrome, Microsoft Edge un Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Izmantojiet Hulu Watch Party un uzturiet sakarus ar draugiem",
+      "html": "Skatieties Hulu pārraides un filmas ideālā sinhronizācijā ar cilvēkiem tiešsaistē un vienmēr uzturiet sakarus no dažādām vietām. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> ir bezmaksas paplašinājums, kas izveidots, lai nodrošinātu Hulu straumētājus visā pasaulē ar nevainojama straumēšanas pieredze sinhronizācijā ar draugiem/ģimeni.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Kā sākt ar Hulu Watch Party?",
+      "subHeading": "Paplašinājums ir izstrādāts un izveidots ar mērķi nodrošināt lietotājiem vienmērīgu straumēšanas pieredzi. Varat sākt darbu ar paplašinājumu, veicot dažus klikšķus.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Instalējiet Hulu Watch Party",
+          "answer": "Pirmkārt, ierīcē ir jāinstalē paplašinājums. Lūdzu, ņemiet vērā, ka paplašinājums ir saderīgs tikai ar Chromebook, Windows vai macOS ierīcēm un pārlūkprogrammām Google Chrome vai Microsoft Edge. Noklikšķiniet šeit, lai instalētu paplašinājumu. Piespraust Hulu Party rīkjoslai."
+        },
+        {
+          "id": "2",
+          "question": "Piespraudiet Hulu Watch Party rīkjoslai",
+          "answer": "Pēc paplašinājuma instalēšanas piespraudiet to rīkjoslai, lai atvieglotu lietošanu. Pārejiet uz ikonu “Paplašinājumi”. Tagad piespraudiet pogu HWP rīkjoslai."
+        },
+        {
+          "id": "3",
+          "question": "Piesakieties Hulu",
+          "answer": "Jums ir jāpierakstās savā Hulu kontā, lai piekļūtu TV pārraidēm, seriāliem, filmām vai visiem Hulu videoklipiem un skatītos tos kopā ar citiem cilvēkiem tiešsaistē."
+        },
+        {
+          "id": "4",
+          "question": "Meklējiet un atskaņojiet videoklipu",
+          "answer": "Lūdzu, meklējiet videoklipu, kuru vēlaties skatīties savā Hulu skatīšanās ballītē, un atskaņojiet to."
+        },
+        {
+          "id": "5",
+          "question": "Izveidojiet pulksteņu ballīti",
+          "answer": "Pēc videoklipa atskaņošanas noklikšķiniet uz ikonas “Paplašinājumi”, kas atrodas rīkjoslā, lai atvērtu logu “Izveidot ballīti”. Pēc tam pieskarieties “Sākt ballīti”, lai iegūtu partijas URL. Kopējiet ballītes URL un kopīgojiet to ar cilvēkiem, lai uzaicinātu viņus uz ballīti."
+        },
+        {
+          "id": "5",
+          "question": "Pievienojieties Hulu partijai",
+          "answer": "Piesakieties savā Hulu kontā un noklikšķiniet uz ballītes saites, ko jums kopīgojis jūsu draugs. Tagad jums ir jāinstalē Hulu Watch Party paplašinājums (ja vēl neesat to izdarījis). Tas automātiski novirzīs jūs uz pulksteņa ballīti."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Hulu Party iezīmes",
+      "subHeading": "Paplašinājumam ir plašs funkciju klāsts, kas atvieglo Hulu straumēšanu ar draugiem tiešsaistē.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Tiešraides grupas tērzēšana",
+          "answer": "Hulu skatīšanās ballīte ir aprīkota ar tiešraides tērzēšanas funkciju, kas ļauj tērzēt ar citiem dalībniekiem, vienlaikus straumējot Hulu videoklipus."
+        },
+        {
+          "id": "t2",
+          "question": "HD straumēšana",
+          "answer": "Skatieties savas iecienītākās Hulu pārraides nevainojamā sinhronizācijā un HD kvalitātē, izmantojot paplašinājumu Hulu Watch Party."
+        },
+        {
+          "id": "t3",
+          "question": "Skatieties dažādās ierīcēs",
+          "answer": "Atbalsta plašu ierīču klāstu. Varat izmantot paplašinājumu savos Windows, macOS vai Chromebook klēpjdatoros un personālajos datoros."
+        },
+        {
+          "id": "t4",
+          "question": "Pielāgošanas rīki",
+          "answer": "Jūs varat pielāgot savu profilu ar smieklīgiem iemiesojumiem un segvārdiem. Papildus tam varat arī ievietot savu segvārdu, kas tiks parādīts jūsu draugiem grupas tērzēšanas laikā vai sinhronizēti skatoties videoklipus."
+        },
+        {
+          "id": "t5",
+          "question": "Piekļuve visā pasaulē",
+          "answer": "Hulu Watch Party paplašinājums ir pieejams visās valstīs. Tāpēc neatkarīgi no tā, kur atrodaties, varat izveidot Hulu ballīti vai pievienoties tai kopā ar draugiem."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Bieži uzdotie jautājumi",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Kas ir Hulu Watch Party?",
+        "answer": "Hulu skatīšanās ballīte ir bezmaksas paplašinājums, kas ļauj visiem Hulu abonentiem kopā skatīties filmas un pārraides un pat izveidot savienojumu no dažādām vietām. Turklāt jūs varat lejupielādēt šo paplašinājumu bez maksas."
+      },
+      {
+        "id": "f2",
+        "question": "Kas var izmantot paplašinājumu?",
+        "answer": "Ikviens, kam ir Hulu abonements, var izmantot paplašinājumu, lai tiešsaistē skatītos Hulu pārraides, seriālus vai videoklipus perfektā sinhronizācijā ar citiem tālu dzīvojošiem cilvēkiem."
+      },
+      {
+        "id": "f3",
+        "question": "Vai es varu izmantot Hulu Watch Party savā mobilajā tālrunī?",
+        "answer": "Pašlaik paplašinājums ir saderīgs tikai ar Windows, Chromebook vai macOS klēpjdatoriem un personālajiem datoriem. Tāpēc jūs nevarat izmantot paplašinājumu savā mobilajā tālrunī vai planšetdatorā."
+      },
+      {
+        "id": "f4",
+        "question": "Kā es varu sākt Hulu ballīti?",
+        "answer": "Jūs varat izveidot Hulu ballīti, veicot tālāk norādītās vienkāršās darbības:",
+        "p1": "Pirmkārt, pēc paplašinājuma instalēšanas pierakstieties savā Hulu kontā.",
+        "p2": "Tagad meklējiet videoklipu, kuru vēlaties skatīties kopā ar draugiem.",
+        "p3": "Pēc tam atskaņojiet videoklipu un dodieties uz paplašinājuma ikonu.",
+        "p4": "Tagad tiks atvērta cilne “Izveidot Hulu ballīti”. Jums vajadzētu noklikšķināt uz pogas \"Sākt ballīti\".",
+        "p5": "Piezīme: ja nevēlaties pilnībā kontrolēt pulksteņa ballīti, noklikšķiniet uz zaļās pogas, lai to izslēgtu. Tomēr, ja vēlaties saglabāt partijas kontroli, jums tas jādara",
+        "p6": "Pēc tam ekrānā parādīsies Hulu puses URL. Lūdzu, nokopējiet šo URL un kopīgojiet to ar draugiem, kurus vēlaties uzaicināt uz Hulu ballīti."
+      },
+      {
+        "id": "f5",
+        "question": "Kā pievienoties Hulu partijai?",
+        "answer": "Pirmkārt, jums ir jāpārliecinās, ka savā ierīcē esat instalējis paplašinājumu Hulu Party. Pēc tam piesakieties savā Hulu kontā un noklikšķiniet uz saites, ko ar jums kopīgojis jūsu draugs. Tas jūs novirzīs uz ballīti."
+      },
+      {
+        "id": "f6",
+        "question": "Vai es varu arī tērzēt ar draugiem pulksteņa ballītes laikā?",
+        "answer": "Jā, jūs varat piedalīties grupas tērzēšanā, skatoties filmas, TV pārraides vai jebkurus videoklipus pakalpojumā Hulu ar draugiem."
+      },
+      {
+        "id": "f7",
+        "question": "Cik dalībniekus varu iekļaut Hulu ballītē?",
+        "answer": "Jūs varat iekļaut tik daudz draugu vai ģimenes locekļu, cik vēlaties pievienot ballītei. Tomēr, lūdzu, pārliecinieties, ka visi dalībnieki dzīvo vienā valstī."
+      },
+      {
+        "id": "f8",
+        "question": "Kuras ierīces atbalsta paplašinājums?",
+        "answer": "Hulu Watch Party neatbalsta mobilās ierīces vai planšetdatorus. Tas ir saderīgs tikai ar Chromebook, Windows vai MacOS klēpjdatoriem un personālajiem datoriem."
+      },
+      {
+        "id": "f9",
+        "question": "Vai paplašinājumam ir kādas personalizācijas funkcijas?",
+        "answer": "Jā, jūs varat izvēlēties un iestatīt segvārdu, kas būs redzams grupas tērzēšanas laikā. Papildus tam no pieejamajām opcijām varat izvēlēties arī smieklīgo iemiesojumu pēc savas izvēles."
+      },
+      {
+        "id": "f10",
+        "question": "Vai Hulu Watch Party var pievienoties starptautiski draugi?",
+        "answer": "Lai pievienotos Hulu partijai, visiem dalībniekiem ir jāatrodas vienā valstī. Tomēr, ja kāds dalībnieks neatrodas tajā pašā valstī, viņš var izmantot VPN."
+      },
+      {
+        "id": "f11",
+        "question": "Kas man ir jādara, lai instalētu vai izmantotu paplašinājumu?",
+        "answer": "Jums jābūt šādam:",
+        "p1": "Stabils interneta pieslēgums.",
+        "p2": "Chromebook dators, macOS vai Windows ierīce.",
+        "p3": "Pārlūks Google Chrome vai Microsoft Edge.",
+        "p4": "Hulu abonements"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Iegūstiet to, tas ir bez maksas!",
+    "anyQuestions": "Esmu gatavs, dodiet man Hotstar Party",
+    "blog": "Emuārs",
+    "privacy": "Privātums",
+    "popularSearches": "Populāri meklējumi",
+    "disclaimer": "Atruna",
+    "disclaimerContent": "Hulu ir Hulu, LLC preču zīme. Šī vietne",
+    "footerTags": [
+      "Hulu skatīšanās ballīte",
+      "Skatieties Party Hulu",
+      "Kā izmantot Hulu Watch Party",
+      "Kā noskatīties ballīti Hulu",
+      "Hulu ballīte",
+      "Kā sākt skatīšanās ballīti vietnē Hulu",
+      "Kā sarīkot skatīšanās ballīti vietnē Hulu",
+      "Ko skatīties vietnē Hulu",
+      "Ko skatīties Hulu tieši tagad",
+      "Ko skatīties Hulu"
+    ]
+  }
+}

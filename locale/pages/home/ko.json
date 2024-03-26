@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "다음에 추가", "free": "공짜 야" },
+    "navBarHeading": "이제 Google Chrome, Microsoft Edge 및 Mozilla Firefox에서 사용할 수 있습니다."
+  },
+  "section": {
+    "first": {
+      "heading": "Hulu Watch Party를 사용하고 친구들과 연락을 유지하세요",
+      "html": "온라인 사람들과 완벽하게 동기화된 Hulu 쇼와 영화를 시청하고 항상 다른 위치에서 연결을 유지하세요. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a>는 전 세계 Hulu 스트리머에게 친구/가족과 동기화되는 원활한 스트리밍 경험.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Hulu Watch Party를 시작하는 방법은 무엇입니까?",
+      "subHeading": "확장 프로그램은 사용자에게 원활한 스트리밍 경험을 제공한다는 목표로 설계 및 제작되었습니다. 몇 번의 클릭만으로 확장 프로그램을 시작할 수 있습니다.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Hulu Watch Party 설치",
+          "answer": "먼저, 기기에 확장 프로그램을 설치해야 합니다. 확장 프로그램은 Chromebook, Windows 또는 macOS 장치와 Google Chrome 또는 Microsoft Edge 브라우저하고만 호환됩니다. 확장 프로그램을 설치하려면 여기를 클릭하세요. Hulu Party를 도구 모음에 고정합니다."
+        },
+        {
+          "id": "2",
+          "question": "Hulu Watch Party를 도구 모음에 고정",
+          "answer": "확장 프로그램을 설치한 후 쉽게 사용할 수 있도록 도구 모음에 고정하세요. \"확장 프로그램\" 아이콘으로 이동합니다. 이제 HWP 버튼을 툴바에 고정해 보세요."
+        },
+        {
+          "id": "삼",
+          "question": "훌루에 로그인",
+          "answer": "Hulu의 TV 프로그램, 시리즈, 영화 또는 모든 비디오에 액세스하고 온라인에서 다른 사람들과 함께 시청하려면 Hulu 계정에 로그인해야 합니다."
+        },
+        {
+          "id": "4",
+          "question": "비디오 검색 및 재생",
+          "answer": "Hulu 시청 파티에서 보고 싶은 영상을 검색하여 재생해 주세요."
+        },
+        {
+          "id": "5",
+          "question": "시계 파티 만들기",
+          "answer": "비디오를 재생한 후 도구 모음에 있는 \"확장 프로그램\" 아이콘을 클릭하여 \"파티 만들기\" 창을 엽니다. 그런 다음 \"파티 시작\"을 탭하여 파티 URL을 가져옵니다. 파티 URL을 복사하고 다른 사람들과 공유하여 파티에 초대하세요."
+        },
+        {
+          "id": "5",
+          "question": "훌루파티에 참여하세요",
+          "answer": "Hulu 계정에 로그인하고 친구가 공유한 파티 링크를 클릭하세요. 이제 Hulu Watch Party 확장 프로그램을 설치해야 합니다(아직 설치하지 않은 경우). 자동으로 시청 파티로 리디렉션됩니다."
+        }
+      ]
+    },
+    "three": {
+      "heading": "훌루 파티의 특징",
+      "subHeading": "확장 프로그램에는 친구들과 온라인으로 Hulu 스트리밍을 쉽게 할 수 있는 다양한 기능이 포함되어 있습니다.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "라이브 그룹 채팅",
+          "answer": "Hulu 시청 파티에는 Hulu 비디오를 함께 스트리밍하면서 다른 참가자와 채팅할 수 있는 라이브 채팅 기능이 함께 제공됩니다."
+        },
+        {
+          "id": "t2",
+          "question": "HD 스트리밍",
+          "answer": "Hulu Watch Party 확장 프로그램을 사용하여 좋아하는 Hulu 쇼를 완벽한 동기화 및 HD 품질로 시청하세요."
+        },
+        {
+          "id": "t3",
+          "question": "다양한 기기에서 시청",
+          "answer": "다양한 장치를 지원합니다. Windows, macOS, Chromebook 노트북 및 PC에서 확장 프로그램을 사용할 수 있습니다."
+        },
+        {
+          "id": "t4",
+          "question": "맞춤화 도구",
+          "answer": "재미있는 아바타와 별명으로 프로필을 맞춤 설정할 수 있습니다. 그 외에도 그룹 채팅 중이나 동기화된 영상을 시청할 때 친구들에게 표시될 닉네임을 넣을 수도 있습니다."
+        },
+        {
+          "id": "t5",
+          "question": "전세계 접속",
+          "answer": "Hulu Watch Party 확장 프로그램은 모든 국가에서 사용할 수 있습니다. 따라서 어디에 있든 친구들과 함께 Hulu 파티를 만들거나 참여할 수 있습니다."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "자주 묻는 질문",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hulu Watch Party란 무엇인가요?",
+        "answer": "Hulu 시청 파티는 모든 Hulu 가입자가 함께 영화와 프로그램을 시청하고 서로 다른 위치에서 연결할 수 있는 무료 확장 프로그램입니다. 게다가 이 확장 프로그램은 무료로 다운로드할 수 있습니다."
+      },
+      {
+        "id": "f2",
+        "question": "확장 프로그램은 누가 사용할 수 있나요?",
+        "answer": "Hulu를 구독하는 모든 사람은 확장 프로그램을 사용하여 멀리 사는 다른 사람들과 완벽하게 동기화되어 Hulu 쇼, 시리즈 또는 비디오를 온라인으로 시청할 수 있습니다."
+      },
+      {
+        "id": "f3",
+        "question": "모바일에서 Hulu Watch Party를 사용할 수 있나요?",
+        "answer": "현재 확장 프로그램은 Windows, Chromebook 또는 macOS 노트북 및 PC와만 호환됩니다. 따라서 모바일이나 태블릿에서는 확장 프로그램을 사용할 수 없습니다."
+      },
+      {
+        "id": "f4",
+        "question": "Hulu 파티를 어떻게 시작하나요?",
+        "answer": "아래의 쉬운 단계에 따라 Hulu Party를 만들 수 있습니다.",
+        "p1": "우선, 확장 프로그램을 설치한 후 Hulu 계정에 로그인하세요.",
+        "p2": "이제 친구들과 함께 보고 싶은 영상을 검색해 보세요.",
+        "p3": "그런 다음 비디오를 재생하고 확장 아이콘으로 이동하십시오.",
+        "p4": "이제 “Hulu 파티 만들기” 탭이 열립니다. \"파티 시작\" 버튼을 클릭해야 합니다.",
+        "p5": "참고: 시청 파티를 완전히 제어하지 않으려면 녹색 버튼을 클릭하여 꺼야 합니다. 그러나 당의 통제권을 유지하려면",
+        "p6": "그 후 Hulu 파티 URL이 화면에 나타납니다. 이 URL을 복사하여 Hulu 파티에 초대하고 싶은 친구들과 공유하세요."
+      },
+      {
+        "id": "f5",
+        "question": "Hulu Party에 참여하는 방법은 무엇입니까?",
+        "answer": "우선, 장치에 Hulu Party 확장 프로그램이 설치되어 있는지 확인해야 합니다. 그런 다음 Hulu 계정에 로그인하고 친구가 공유한 링크를 클릭하세요. 그러면 파티로 리디렉션됩니다."
+      },
+      {
+        "id": "f6",
+        "question": "시청 파티 중에 친구들과 그룹 채팅도 할 수 있나요?",
+        "answer": "예, 친구들과 함께 Hulu에서 영화, TV 쇼 또는 모든 비디오를 시청하면서 그룹 채팅을 할 수 있습니다."
+      },
+      {
+        "id": "f7",
+        "question": "Hulu 파티에는 몇 명의 회원을 포함할 수 있나요?",
+        "answer": "파티에 추가하고 싶은 만큼 친구나 가족을 포함할 수 있습니다. 단, 모든 회원이 동일한 국가에 거주하고 있는지 확인하시기 바랍니다."
+      },
+      {
+        "id": "f8",
+        "question": "확장 프로그램은 어떤 장치를 지원합니까?",
+        "answer": "Hulu Watch Party는 모바일 또는 태블릿 장치를 지원하지 않습니다. Chromebook, Windows 또는 macOS 노트북 및 PC와만 호환됩니다."
+      },
+      {
+        "id": "f9",
+        "question": "확장 프로그램에 개인화 기능이 있나요?",
+        "answer": "네, 그룹 채팅 중에 표시될 닉네임을 선택하고 설정할 수 있습니다. 그 외에도, 사용 가능한 옵션 중에서 원하는 재미있는 아바타를 선택할 수도 있습니다."
+      },
+      {
+        "id": "f10",
+        "question": "해외 친구들도 Hulu Watch Party에 참여할 수 있나요?",
+        "answer": "Hulu 파티에 가입하려면 모든 구성원이 같은 국가에 있어야 합니다. 그러나 동일한 국가에 회원이 없으면 VPN을 사용할 수 있습니다."
+      },
+      {
+        "id": "f11",
+        "question": "확장 프로그램을 설치하거나 사용하려면 무엇이 필요합니까?",
+        "answer": "다음이 있어야 합니다:-",
+        "p1": "안정적인 인터넷 연결.",
+        "p2": "Chromebook, macOS 또는 Windows 장치.",
+        "p3": "Google Chrome 또는 Microsoft Edge 브라우저.",
+        "p4": "Hulu 구독"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "그것을 얻으십시오, 그것은 무료입니다!",
+    "anyQuestions": "난 준비됐어 핫스타 파티를 줘",
+    "blog": "블로그",
+    "privacy": "은둔",
+    "popularSearches": "인기 검색어",
+    "disclaimer": "부인 성명",
+    "disclaimerContent": "Hulu는 Hulu, LLC의 상표입니다. 이 웹사이트",
+    "footerTags": [
+      "훌루 시청 파티",
+      "파티 시청 Hulu",
+      "Hulu Watch Party 사용 방법",
+      "Hulu에서 Watch Party를 수행하는 방법",
+      "훌루 파티",
+      "Hulu에서 시청 파티를 시작하는 방법",
+      "Hulu에서 함께 시청하는 방법",
+      "Hulu에서 볼만한 동영상",
+      "지금 Hulu에서 시청할 콘텐츠",
+      "Hulu에서 폭로 시청할 내용"
+    ]
+  }
+}
