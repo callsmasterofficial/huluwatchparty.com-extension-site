@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Lisätä", "free": "Se on ilmainen" },
+    "navBarHeading": "on nyt saatavilla Google Chromessa, Microsoft Edgessä ja Mozilla Firefoxissa"
+  },
+  "section": {
+    "first": {
+      "heading": "Käytä Hulu Watch Partya ja pysy yhteydessä ystäviin",
+      "html": "Katso Hulu-ohjelmia ja elokuvia täydellisessä synkronoinnissa ihmisten kanssa verkossa ja pysy aina yhteydessä eri paikoista. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> on ilmainen laajennus, joka on luotu tarjoamaan maailmanlaajuisille Hulu-streamaajille saumaton suoratoistokokemus synkronoituna ystäviensä/perheensä kanssa.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Kuinka aloittaa Hulu Watch Party?",
+      "subHeading": "Laajennus on suunniteltu ja luotu tavoitteena tarjota käyttäjille sujuva suoratoistokokemus. Voit aloittaa laajennuksen käytön muutamalla napsautuksella.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Asenna Hulu Watch Party",
+          "answer": "Ensinnäkin sinun on asennettava laajennus laitteellesi. Huomaa, että laajennus on yhteensopiva vain Chromebook-, Windows- tai macOS-laitteiden ja Google Chrome- tai Microsoft Edge -selaimien kanssa. Napsauta tästä asentaaksesi laajennuksen. Kiinnitä Hulu Party työkalupalkkiin."
+        },
+        {
+          "id": "2",
+          "question": "Kiinnitä Hulu Watch Party työkalupalkkiin",
+          "answer": "Kun olet asentanut laajennuksen, kiinnitä se työkalupalkkiin käytön helpottamiseksi. Siirry \"Laajennukset\" -kuvakkeeseen. Kiinnitä nyt HWP-painike työkalupalkkiin."
+        },
+        {
+          "id": "3",
+          "question": "Kirjaudu sisään Huluun",
+          "answer": "Sinun on kirjauduttava sisään Hulu-tilillesi, jotta voit käyttää TV-ohjelmia, sarjoja, elokuvia tai kaikkia Hulun videoita ja katsella niitä yhdessä muiden ihmisten kanssa verkossa."
+        },
+        {
+          "id": "4",
+          "question": "Etsi ja toista video",
+          "answer": "Etsi video, jonka haluat katsoa Hulu-kellossasi, ja toista se."
+        },
+        {
+          "id": "5",
+          "question": "Luo kellobileet",
+          "answer": "Kun olet toistanut videon, napsauta työkalupalkissa olevaa \"Laajennukset\" -kuvaketta avataksesi \"Create a Party\" -ikkunan. Napauta sitten \"Aloita juhla\" saadaksesi puolueen URL-osoitteen. Kopioi puolueen URL-osoite ja jaa se ihmisten kanssa kutsuaksesi heidät juhliin."
+        },
+        {
+          "id": "5",
+          "question": "Liity Hulu Partyyn",
+          "answer": "Kirjaudu sisään Hulu-tilillesi ja napsauta ystäväsi jakamaa juhlalinkkiä. Nyt sinun on asennettava Hulu Watch Party -laajennus (jos et ole jo tehnyt sitä). Se ohjaa sinut automaattisesti kellojuhliin."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Hulu Partyn ominaisuudet",
+      "subHeading": "Laajennus sisältää laajan valikoiman ominaisuuksia, jotka helpottavat Hulu-suoratoistoa ystäviesi kanssa verkossa.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Live ryhmäkeskustelu",
+          "answer": "Hulu Watch Party sisältää Live Chat -ominaisuuden, jonka avulla voit keskustella muiden osallistujien kanssa samalla kun suoratoistat Hulu-videoita yhdessä."
+        },
+        {
+          "id": "t2",
+          "question": "HD-suoratoisto",
+          "answer": "Katso Hulu-suosikkiohjelmiasi täydellisessä synkronoinnissa ja HD-laadussa Hulu Watch Party -laajennuksen avulla."
+        },
+        {
+          "id": "t3",
+          "question": "Katso eri laitteilla",
+          "answer": "Tukee laajaa valikoimaa laitteita. Voit käyttää laajennusta Windows-, macOS- tai Chromebook-kannettavissasi ja PC-tietokoneissasi."
+        },
+        {
+          "id": "t4",
+          "question": "Räätälöintityökalut",
+          "answer": "Voit muokata profiiliasi hauskoilla avatarilla ja lempinimilla. Tämän lisäksi voit myös laittaa lempinimesi, joka näkyy ystävillesi ryhmäkeskustelun aikana tai katsellessasi videoita synkronoituna."
+        },
+        {
+          "id": "t5",
+          "question": "Maailmanlaajuinen pääsy",
+          "answer": "Hulu Watch Party -laajennus on saatavilla kaikissa maissa. Siksi missä tahansa oletkin, voit luoda Hulu-bileet tai liittyä niihin ystäviesi kanssa."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Usein Kysytyt Kysymykset",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Mikä on Hulu Watch Party?",
+        "answer": "Hulu Watch Party on ilmainen laajennus, jonka avulla kaikki Hulu-tilaajat voivat katsella elokuvia ja ohjelmia yhdessä ja jopa muodostaa yhteyden eri paikoista. Lisäksi voit ladata tämän laajennuksen ilmaiseksi."
+      },
+      {
+        "id": "f2",
+        "question": "Kuka voi käyttää laajennusta?",
+        "answer": "Kaikki, joilla on Hulu-tilaus, voivat käyttää laajennusta katsoakseen Hulu-ohjelmia, sarjoja tai videoita verkossa täydellisessä synkronoinnissa muiden kaukana asuvien ihmisten kanssa."
+      },
+      {
+        "id": "f3",
+        "question": "Voinko käyttää Hulu Watch Partya matkapuhelimellani?",
+        "answer": "Tällä hetkellä laajennus on yhteensopiva vain Windows-, Chromebook- tai macOS-kannettavien ja PC-tietokoneiden kanssa. Siksi et voi käyttää laajennusta matkapuhelimellasi tai tablet-laitteellasi."
+      },
+      {
+        "id": "f4",
+        "question": "Kuinka voin aloittaa Hulu-juhlat?",
+        "answer": "Voit luoda Hulu Partyn noudattamalla alla olevia helppoja ohjeita: -",
+        "p1": "Ensinnäkin kirjaudu sisään Hulu-tilillesi laajennuksen asentamisen jälkeen.",
+        "p2": "Etsi nyt video, jonka haluat katsoa ystäviesi kanssa.",
+        "p3": "Tämän jälkeen toista video ja siirry laajennuskuvakkeeseen.",
+        "p4": "Nyt \"Luo Hulu Party\" -välilehti avautuu. Sinun tulee napsauttaa \"Aloita juhla\" -painiketta.",
+        "p5": "Huomautus: jos et halua hallita kellobileitä täysin, sammuta se napsauttamalla vihreää painiketta. Kuitenkin, jos haluat pitää puolueen hallinnan, sinun pitäisi",
+        "p6": "Tämän jälkeen Hulun osapuolen URL-osoite ilmestyy näytölle. Kopioi tämä URL-osoite ja jaa se ystävillesi, jotka haluat kutsua Hulun juhliin."
+      },
+      {
+        "id": "f5",
+        "question": "Kuinka liittyä Hulu Partyyn?",
+        "answer": "Ensinnäkin sinun on varmistettava, että olet asentanut Hulu Party -laajennuksen laitteellesi. Tämän jälkeen kirjaudu sisään Hulu-tilillesi ja napsauta ystäväsi jakamaa linkkiä. Se ohjaa sinut juhliin."
+      },
+      {
+        "id": "f6",
+        "question": "Voinko myös käydä ryhmäkeskusteluja ystävieni kanssa katselubileiden aikana?",
+        "answer": "Kyllä, voit keskustella ryhmäkeskustelussa katsoessasi elokuvia, TV-ohjelmia tai mitä tahansa videota Hulussa ystäviesi kanssa."
+      },
+      {
+        "id": "f7",
+        "question": "Kuinka monta jäsentä voin ottaa mukaan Hulu-juhliin?",
+        "answer": "Voit ottaa mukaan niin monta ystävää tai perheenjäsentä kuin haluat lisätä juhliin. Varmista kuitenkin, että kaikki jäsenet asuvat samassa maassa."
+      },
+      {
+        "id": "f8",
+        "question": "Mitä laitteita laajennus tukee?",
+        "answer": "Hulu Watch Party ei tue mobiili- tai tablet-laitteita. Se on yhteensopiva vain Chromebook-, Windows- tai macOS-kannettavien ja PC-tietokoneiden kanssa."
+      },
+      {
+        "id": "f9",
+        "question": "Onko laajennuksessa mukauttamisominaisuuksia?",
+        "answer": "Kyllä, voit valita ja asettaa lempinimen, joka näkyy ryhmäkeskustelun aikana. Tämän lisäksi voit myös valita haluamasi hauskan avatarin käytettävissä olevista vaihtoehdoista."
+      },
+      {
+        "id": "f10",
+        "question": "Voivatko kansainväliset ystävät liittyä Hulu Watch Partyyn?",
+        "answer": "Hulu-puolueeseen liittyminen edellyttää, että kaikki jäsenet ovat samassa maassa. Jos joku jäsen ei kuitenkaan ole samassa maassa, he voivat käyttää VPN:ää."
+      },
+      {
+        "id": "f11",
+        "question": "Mitä minun pitää asentaa tai käyttää laajennusta?",
+        "answer": "Sinulla tulee olla seuraavat:",
+        "p1": "Vakaa Internet-yhteys.",
+        "p2": "Chromebook-, macOS- tai Windows-laite.",
+        "p3": "Google Chrome tai Microsoft Edge -selain.",
+        "p4": "Hulu-tilaus"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Hanki se, se on ilmainen!",
+    "anyQuestions": "Olen valmis, anna minulle Hotstar Party",
+    "blog": "Blogi",
+    "privacy": "Yksityisyys",
+    "popularSearches": "Suositut haut",
+    "disclaimer": "Vastuuvapauslauseke",
+    "disclaimerContent": "Hulu on Hulu, LLC:n tavaramerkki. Tämä sivusto",
+    "footerTags": [
+      "Hulu Watch Party",
+      "Katso Party Hulu",
+      "Kuinka käyttää Hulu Watch Partya",
+      "Kuinka tehdä Watch Party Hulussa",
+      "Hulun bileet",
+      "Watch Partyn aloittaminen Hulussa",
+      "Kuinka pitää Watch Party Hulussa",
+      "Mitä katsoa Hulussa",
+      "Mitä katsoa Hulussa juuri nyt",
+      "Mitä katsella Hulussa"
+    ]
+  }
+}

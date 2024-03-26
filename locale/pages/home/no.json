@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Legge til", "free": "Det er gratis" },
+    "navBarHeading": "er nå tilgjengelig på Google Chrome, Microsoft Edge og Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Bruk Hulu Watch Party og hold kontakten med venner",
+      "html": "Se Hulu-serier og filmer perfekt synkronisert med folk på nettet og hold kontakten fra forskjellige steder. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> er en gratis utvidelse eksklusivt laget for å gi verdensomspennende Hulu-streamere en sømløs strømmeopplevelse synkronisert med vennene/familien deres.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Hvordan komme i gang med Hulu Watch Party?",
+      "subHeading": "Utvidelsen er designet og laget med mål om å gi brukerne en jevn strømmeopplevelse. Du kan komme i gang med utvidelsen med noen få klikk.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Installer Hulu Watch Party",
+          "answer": "Først må du installere utvidelsen på enheten din. Vær oppmerksom på at utvidelsen kun er kompatibel med Chromebook-, Windows- eller macOS-enheter og nettlesere Google Chrome eller Microsoft Edge. Klikk her for å installere utvidelsen. Fest Hulu Party til verktøylinjen."
+        },
+        {
+          "id": "2",
+          "question": "Fest Hulu Watch Party til verktøylinjen",
+          "answer": "Etter at du har installert utvidelsen, fester du den til verktøylinjen for å lette bruken. Naviger til \"Utvidelser\"-ikonet. Fest nå HWP-knappen til verktøylinjen."
+        },
+        {
+          "id": "3",
+          "question": "Logg inn på Hulu",
+          "answer": "Du må logge på Hulu-kontoen din for å få tilgang til TV-serier, serier, filmer eller alle videoene fra Hulu og se dem sammen med andre mennesker på nettet."
+        },
+        {
+          "id": "4",
+          "question": "Søk og spill av videoen",
+          "answer": "Vennligst søk etter videoen du vil se på din Hulu-visningsfest og spill den."
+        },
+        {
+          "id": "5",
+          "question": "Lag en klokkefest",
+          "answer": "Etter å ha spilt av videoen, klikk på \"Utvidelser\"-ikonet på verktøylinjen for å åpne \"Opprett en fest\"-vinduet. Trykk deretter på \"Start festen\" for å få nettadressen til festen. Kopier nettadressen til festen og del den med folk for å invitere dem til festen."
+        },
+        {
+          "id": "5",
+          "question": "Bli med på Hulu Party",
+          "answer": "Logg på Hulu-kontoen din og klikk på festlenken som er delt med deg av vennen din. Nå må du installere Hulu Watch Party-utvidelsen (hvis du ikke allerede har gjort det). Den vil automatisk omdirigere deg til klokkepartiet."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Funksjoner av Hulu Party",
+      "subHeading": "Utvidelsen kommer med et bredt spekter av funksjoner som muliggjør enkel Hulu-streaming med vennene dine på nettet.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Live gruppechat",
+          "answer": "Hulu watch party kommer med Live Chat-funksjonen som lar deg chatte med de andre deltakerne mens du streamer Hulu-videoene sammen."
+        },
+        {
+          "id": "t2",
+          "question": "HD-streaming",
+          "answer": "Se dine favoritt Hulu-show i perfekt synkronisering og HD-kvalitet med Hulu Watch Party-utvidelsen."
+        },
+        {
+          "id": "t3",
+          "question": "Se på forskjellige enheter",
+          "answer": "Støtter et bredt spekter av enheter. Du kan bruke utvidelsen på bærbare og PC-er med Windows, macOS eller Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Tilpasningsverktøy",
+          "answer": "Du kan tilpasse profilen din med morsomme avatarer og kallenavn. I tillegg til det kan du også angi kallenavnet ditt som vises til vennene dine under gruppechatten eller mens du ser på videoene synkronisert."
+        },
+        {
+          "id": "t5",
+          "question": "Verdensomspennende tilgang",
+          "answer": "Hulu Watch Party-utvidelsen er tilgjengelig i alle land. Derfor, uansett hvor du er, kan du opprette eller bli med på en Hulu-fest med vennene dine."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Ofte stilte spørsmål",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hva er Hulu Watch Party?",
+        "answer": "Hulu Watch Party er en gratis utvidelse som lar alle Hulu-abonnenter se filmer og serier sammen og til og med koble fra forskjellige steder. Dessuten kan du laste ned denne utvidelsen gratis."
+      },
+      {
+        "id": "f2",
+        "question": "Hvem kan bruke utvidelsen?",
+        "answer": "Alle som har et Hulu-abonnement kan bruke utvidelsen til å se Hulu-show, serier eller videoer på nettet i perfekt synkronisering med andre mennesker som bor langt unna."
+      },
+      {
+        "id": "f3",
+        "question": "Kan jeg bruke Hulu Watch Party på mobilen min?",
+        "answer": "Foreløpig er utvidelsen bare kompatibel med Windows, Chromebook eller macOS bærbare og PC-er. Derfor kan du ikke bruke utvidelsen på mobilen eller nettbrettet."
+      },
+      {
+        "id": "f4",
+        "question": "Hvordan kan jeg starte Hulu-festen?",
+        "answer": "Du kan opprette Hulu Party ved å følge de enkle trinnene nedenfor:-",
+        "p1": "Først av alt, logg på Hulu-kontoen din etter at du har installert utvidelsen.",
+        "p2": "Søk nå etter videoen du vil se med venner.",
+        "p3": "Etter dette, spill av videoen og gå til utvidelsesikonet.",
+        "p4": "Nå åpnes fanen \"Opprett en Hulu-fest\". Du bør klikke på \"Start festen\"-knappen.",
+        "p5": "Merk: hvis du ikke vil ha full kontroll over klokkepartiet, bør du klikke på den grønne knappen for å slå den av. Men hvis du vil beholde kontrollen over partiet, bør du det",
+        "p6": "Etter dette vil Hulu-party-URLen vises på skjermen. Vennligst kopier denne URL-en og del den med vennene dine som du vil invitere til Hulu-festen."
+      },
+      {
+        "id": "f5",
+        "question": "Hvordan bli med i Hulu-partiet?",
+        "answer": "Først av alt må du sørge for at du har installert Hulu Party-utvidelsen på enheten din. Etter dette, logg inn på Hulu-kontoen din og klikk på lenken som er delt med deg av vennen din. Det vil omdirigere deg til festen."
+      },
+      {
+        "id": "f6",
+        "question": "Kan jeg også ha en gruppechat med vennene mine under vaktfesten?",
+        "answer": "Ja, du kan ha en gruppechat mens du ser på filmer, TV-serier eller hvilken som helst video på Hulu med vennene dine."
+      },
+      {
+        "id": "f7",
+        "question": "Hvor mange medlemmer kan jeg inkludere i en Hulu-fest?",
+        "answer": "Du kan inkludere så mange venner eller familiemedlemmer som du vil legge til festen. Vær imidlertid oppmerksom på at alle medlemmene bor i samme land."
+      },
+      {
+        "id": "f8",
+        "question": "Hvilke enheter støttes av utvidelsen?",
+        "answer": "Hulu Watch Party støtter ikke mobil- eller nettbrett. Den er bare kompatibel med Chromebook, Windows eller macOS bærbare datamaskiner og PC-er."
+      },
+      {
+        "id": "f9",
+        "question": "Har utvidelsen noen personaliseringsfunksjoner?",
+        "answer": "Ja, du kan velge og angi et kallenavn som vil være synlig under gruppechatten. I tillegg til det kan du også velge den morsomme avataren du ønsker fra de tilgjengelige alternativene."
+      },
+      {
+        "id": "f10",
+        "question": "Kan internasjonale venner bli med på Hulu Watch Party?",
+        "answer": "Det er nødvendig for alle medlemmene å være i samme land for å bli med i Hulu-partiet. Men hvis et medlem ikke er i samme land, kan de bruke en VPN."
+      },
+      {
+        "id": "f11",
+        "question": "Hva må jeg ha for å installere eller bruke utvidelsen?",
+        "answer": "Du må ha følgende:",
+        "p1": "En stabil internettforbindelse.",
+        "p2": "En Chromebook-, macOS- eller Windows-enhet.",
+        "p3": "Google Chrome eller Microsoft Edge-nettleseren.",
+        "p4": "Et Hulu-abonnement"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Få det, det er gratis!",
+    "anyQuestions": "Jeg er klar, Gi meg Hotstar Party",
+    "blog": "Blogg",
+    "privacy": "Personvern",
+    "popularSearches": "Populære søk",
+    "disclaimer": "Ansvarsfraskrivelse",
+    "disclaimerContent": "Hulu er et varemerke for Hulu, LLC. Denne nettsiden",
+    "footerTags": [
+      "Hulu Watch Party",
+      "Se Party Hulu",
+      "Slik bruker du Hulu Watch Party",
+      "Slik gjør du Watch Party på Hulu",
+      "Hulu Party",
+      "Slik starter du en Watch Party på Hulu",
+      "Hvordan ha en Watch Party på Hulu",
+      "Hva du skal se på Hulu",
+      "Hva du skal se på Hulu akkurat nå",
+      "Hva du bør se på Hulu"
+    ]
+  }
+}

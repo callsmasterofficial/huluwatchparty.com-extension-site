@@ -2,6 +2,7 @@ export default {
   siteName: 'Hulu Watch Party',
   url: 'https://www.huluwatchparty.com/',
   blogUrl: '/blog',
+  privacyUrl: '/privacy',
   siteId: '62a85d3092c68b0d2f1e408a',
   extLink: {
     chrome:

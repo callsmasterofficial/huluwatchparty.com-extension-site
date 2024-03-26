@@ -22,8 +22,8 @@ const blogSchema = mongoose.Schema(
   { timestamps: true, collection: 'blogs' }
 )
 
-const Blog =
+export const Blog =
   (mongoose.models && mongoose.models.Blog) ||
   mongoose.model('Blog', blogSchema)
 
-module.exports = Blog
+// module.exports = Blog

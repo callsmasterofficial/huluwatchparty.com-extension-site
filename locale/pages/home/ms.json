@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Tambah Pada", "free": "Ianya Percuma" },
+    "navBarHeading": "kini tersedia di Google Chrome, Microsoft Edge dan Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Gunakan Hulu Watch Party dan Kekal Terhubung dengan Rakan",
+      "html": "Tonton rancangan dan filem Hulu dalam penyegerakan sempurna dengan orang dalam talian dan sentiasa berhubung dari lokasi yang berbeza. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> ialah sambungan percuma yang dicipta secara eksklusif untuk menyediakan penstrim Hulu di seluruh dunia dengan pengalaman penstriman lancar selari dengan rakan/keluarga mereka.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Bagaimana untuk bermula dengan Hulu Watch Party?",
+      "subHeading": "Sambungan telah direka bentuk dan dibuat dengan matlamat untuk menyediakan pengguna dengan pengalaman penstriman yang lancar. Anda boleh bermula dengan sambungan dalam beberapa klik.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Pasang Hulu Watch Party",
+          "answer": "Pertama, anda perlu memasang sambungan pada peranti anda. Sila ambil perhatian bahawa sambungan hanya serasi dengan peranti Chromebook, Windows atau macOS dan penyemak imbas Google Chrome atau Microsoft Edge. Klik di sini untuk memasang sambungan. Sematkan Parti Hulu ke bar alat."
+        },
+        {
+          "id": "2",
+          "question": "Sematkan Hulu Watch Party ke bar alat",
+          "answer": "Selepas memasang sambungan, sematkannya pada bar alat untuk memudahkan penggunaan. Navigasi ke ikon \"Sambungan\". Sekarang, sematkan butang HWP pada bar alat."
+        },
+        {
+          "id": "3",
+          "question": "Log masuk ke Hulu",
+          "answer": "Anda perlu log masuk ke akaun Hulu anda untuk mengakses rancangan TV, siri, filem atau semua video daripada Hulu dan menontonnya bersama orang lain dalam talian."
+        },
+        {
+          "id": "4",
+          "question": "Cari dan Mainkan Video",
+          "answer": "Sila cari video yang ingin anda tonton di pesta tontonan Hulu anda dan mainkannya."
+        },
+        {
+          "id": "5",
+          "question": "Buat Pesta jam tangan",
+          "answer": "Selepas memainkan video, klik pada ikon \"Sambungan\" yang terletak di bar alat anda untuk membuka tetingkap \"Buat Parti\". Kemudian, ketik pada \"Mulakan Parti\" untuk mendapatkan URL parti. Salin URL parti dan kongsi dengan orang untuk menjemput mereka ke parti."
+        },
+        {
+          "id": "5",
+          "question": "Sertai Hulu Party",
+          "answer": "Log masuk ke akaun Hulu anda dan klik pada pautan parti yang dikongsi kepada anda oleh rakan anda. Sekarang, anda perlu memasang sambungan Hulu Watch Party (jika anda belum melakukannya). Ia akan mengubah hala anda secara automatik ke pihak menonton."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Ciri-ciri Parti Hulu",
+      "subHeading": "Sambungan ini dilengkapi dengan pelbagai ciri yang memudahkan penstriman Hulu dengan rakan anda dalam talian.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Sembang Kumpulan Langsung",
+          "answer": "Pihak menonton Hulu dilengkapi dengan ciri Sembang Langsung yang membolehkan anda bersembang dengan peserta lain sambil menstrim video Hulu bersama-sama."
+        },
+        {
+          "id": "t2",
+          "question": "Penstriman HD",
+          "answer": "Tonton rancangan Hulu kegemaran anda dalam penyegerakan sempurna dan kualiti HD dengan sambungan Hulu Watch Party."
+        },
+        {
+          "id": "t3",
+          "question": "Tonton pada peranti yang berbeza",
+          "answer": "Menyokong pelbagai jenis peranti. Anda boleh menggunakan sambungan dalam komputer riba dan PC Windows, macOS atau Chromebook anda."
+        },
+        {
+          "id": "t4",
+          "question": "Alat penyesuaian",
+          "answer": "Anda boleh menyesuaikan profil anda dengan avatar dan nama panggilan lucu. Di samping itu, anda juga boleh meletakkan nama panggilan anda yang akan muncul kepada rakan anda semasa sembang kumpulan atau semasa menonton video dalam penyegerakan."
+        },
+        {
+          "id": "t5",
+          "question": "Akses Seluruh Dunia",
+          "answer": "Sambungan Hulu Watch Party tersedia di semua negara. Oleh itu, tidak kira di mana anda berada, anda boleh membuat atau menyertai parti Hulu bersama rakan anda."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Soalan lazim",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Apakah Hulu Watch Party?",
+        "answer": "Pesta menonton Hulu ialah sambungan percuma yang membolehkan semua pelanggan Hulu menonton filem dan rancangan bersama-sama malah menyambung dari lokasi yang berbeza. Selain itu, anda boleh memuat turun sambungan ini secara percuma."
+      },
+      {
+        "id": "f2",
+        "question": "Siapa yang boleh menggunakan sambungan itu?",
+        "answer": "Setiap orang yang mempunyai langganan Hulu boleh menggunakan sambungan untuk menonton rancangan, siri atau video Hulu dalam talian dalam penyegerakan yang sempurna dengan orang lain yang tinggal jauh."
+      },
+      {
+        "id": "f3",
+        "question": "Bolehkah saya menggunakan Hulu Watch Party pada telefon bimbit saya?",
+        "answer": "Pada masa ini, sambungan hanya serasi dengan komputer riba dan PC Windows, Chromebook atau macOS. Oleh itu, anda tidak boleh menggunakan sambungan pada mudah alih atau tablet anda."
+      },
+      {
+        "id": "f4",
+        "question": "Bagaimanakah saya boleh memulakan parti Hulu?",
+        "answer": "Anda boleh membuat Parti Hulu dengan mengikuti langkah mudah yang diberikan di bawah:-",
+        "p1": "Pertama sekali, log masuk ke akaun Hulu anda selepas memasang sambungan.",
+        "p2": "Sekarang, cari video yang ingin anda tonton bersama rakan.",
+        "p3": "Selepas ini, mainkan video dan pergi ke ikon sambungan.",
+        "p4": "Sekarang, tab \"Buat Parti Hulu\" akan dibuka. Anda harus mengklik pada butang \"Mulakan Parti\".",
+        "p5": "Nota: jika anda tidak mahu mengawal sepenuhnya parti jam tangan, anda harus mengklik pada butang hijau untuk mematikannya. Walau bagaimanapun, jika anda ingin mengekalkan kawalan parti, anda harus",
+        "p6": "Selepas ini, URL pihak Hulu akan muncul pada skrin. Sila salin URL ini dan kongsi dengan rakan anda yang ingin anda jemput ke pesta Hulu."
+      },
+      {
+        "id": "f5",
+        "question": "Bagaimana untuk menyertai Parti Hulu?",
+        "answer": "Pertama sekali, anda perlu memastikan bahawa anda telah memasang sambungan Hulu Party pada peranti anda. Selepas ini, log masuk ke akaun Hulu anda dan klik pada pautan yang dikongsi dengan anda oleh rakan anda. Ia akan mengarahkan anda ke parti."
+      },
+      {
+        "id": "f6",
+        "question": "Bolehkah saya juga mengadakan sembang kumpulan dengan rakan saya semasa pesta menonton?",
+        "answer": "Ya, anda boleh mengadakan sembang kumpulan sambil menonton filem, Rancangan TV atau mana-mana video di Hulu dengan rakan anda."
+      },
+      {
+        "id": "f7",
+        "question": "Berapa ramai ahli yang boleh saya sertakan dalam parti Hulu?",
+        "answer": "Anda boleh memasukkan seberapa ramai rakan atau ahli keluarga yang anda mahu tambahkan pada parti. Walau bagaimanapun, sila pastikan semua ahli tinggal di negara yang sama."
+      },
+      {
+        "id": "f8",
+        "question": "Peranti manakah yang disokong oleh sambungan?",
+        "answer": "Pihak menonton Hulu tidak menyokong peranti mudah alih atau tablet. Ia hanya serasi dengan komputer riba dan PC Chromebook, Windows atau macOS."
+      },
+      {
+        "id": "f9",
+        "question": "Adakah sambungan mempunyai sebarang ciri pemperibadian?",
+        "answer": "Ya, anda boleh memilih dan menetapkan nama panggilan yang akan kelihatan semasa sembang kumpulan. Selain itu, anda juga boleh memilih avatar lucu pilihan anda daripada pilihan yang ada."
+      },
+      {
+        "id": "f10",
+        "question": "Bolehkah rakan antarabangsa menyertai Hulu Watch Party?",
+        "answer": "Adalah perlu untuk semua ahli berada di negara yang sama untuk menyertai parti Hulu. Walau bagaimanapun, jika mana-mana ahli tidak berada di negara yang sama, maka mereka boleh menggunakan VPN."
+      },
+      {
+        "id": "f11",
+        "question": "Apakah yang perlu saya pasang atau gunakan sambungan?",
+        "answer": "Anda mesti mempunyai yang berikut:-",
+        "p1": "Sambungan internet yang stabil.",
+        "p2": "Peranti Chromebook, macOS atau Windows.",
+        "p3": "Penyemak imbas Google Chrome atau Microsoft Edge.",
+        "p4": "Langganan Hulu"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Dapatkannya, Percuma!",
+    "anyQuestions": "Saya sudah bersedia, Berikan saya Pesta Hotstar",
+    "blog": "Blog",
+    "privacy": "Privasi",
+    "popularSearches": "Carian Popular",
+    "disclaimer": "Penafian",
+    "disclaimerContent": "Hulu ialah tanda dagangan Hulu, LLC. Laman web ini",
+    "footerTags": [
+      "Pesta Tonton Hulu",
+      "Tonton Party Hulu",
+      "Cara menggunakan Hulu Watch Party",
+      "Bagaimana untuk melakukan Watch Party di Hulu",
+      "Parti Hulu",
+      "Cara Memulakan Pesta Tontonan di Hulu",
+      "Bagaimana untuk mengadakan Pesta Tontonan di Hulu",
+      "Perkara yang perlu ditonton di Hulu",
+      "Perkara yang Perlu Dilihat di Hulu Sekarang",
+      "Perkara yang Perlu Diperhatikan di Hulu"
+    ]
+  }
+}

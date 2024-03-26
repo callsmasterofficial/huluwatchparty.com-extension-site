@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Thêm vào", "free": "Nó miễn phí" },
+    "navBarHeading": "hiện có sẵn trên Google Chrome, Microsoft Edge và Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "Sử dụng Hulu Watch Party và duy trì kết nối với bạn bè",
+      "html": "Xem các chương trình và phim của Hulu đồng bộ hoàn hảo với mọi người trực tuyến và luôn kết nối từ các địa điểm khác nhau. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> là một tiện ích mở rộng miễn phí được tạo riêng để cung cấp cho những người truyền phát Hulu trên toàn thế giới một cơ hội trải nghiệm phát trực tuyến liền mạch đồng bộ với bạn bè/gia đình của họ.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Làm cách nào để bắt đầu với Hulu Watch Party?",
+      "subHeading": "Tiện ích mở rộng đã được thiết kế và tạo ra với mục tiêu cung cấp cho người dùng trải nghiệm phát trực tuyến mượt mà. Bạn có thể bắt đầu với tiện ích mở rộng chỉ sau vài cú nhấp chuột.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Cài đặt Hulu Watch Party",
+          "answer": "Đầu tiên, bạn cần cài đặt tiện ích mở rộng trên thiết bị của mình. Xin lưu ý rằng tiện ích mở rộng chỉ tương thích với các thiết bị Chromebook, Windows hoặc macOS và trình duyệt Google Chrome hoặc Microsoft Edge. Nhấn vào đây để cài đặt phần mở rộng. Ghim Hulu Party vào thanh công cụ."
+        },
+        {
+          "id": "2",
+          "question": "Ghim Hulu Watch Party vào thanh công cụ",
+          "answer": "Sau khi cài đặt tiện ích mở rộng, hãy ghim nó vào thanh công cụ để dễ dàng sử dụng. Điều hướng đến biểu tượng “Tiện ích mở rộng”. Bây giờ, hãy ghim nút HWP vào thanh công cụ."
+        },
+        {
+          "id": "3",
+          "question": "Đăng nhập vào Hulu",
+          "answer": "Bạn cần đăng nhập vào tài khoản Hulu của mình để truy cập các chương trình truyền hình, loạt phim, phim hoặc tất cả video từ Hulu và xem chúng cùng với những người khác trực tuyến."
+        },
+        {
+          "id": "4",
+          "question": "Tìm kiếm và phát video",
+          "answer": "Vui lòng tìm kiếm video mà bạn muốn xem tại bữa tiệc xem Hulu và phát video đó."
+        },
+        {
+          "id": "5",
+          "question": "Tạo một buổi xem chung",
+          "answer": "Sau khi phát video, hãy nhấp vào biểu tượng “Tiện ích mở rộng” nằm trên thanh công cụ của bạn để mở cửa sổ “Tạo bữa tiệc”. Sau đó, nhấn vào “Bắt đầu bữa tiệc” để lấy URL của bữa tiệc. Sao chép URL của bữa tiệc và chia sẻ nó với mọi người để mời họ tham gia bữa tiệc."
+        },
+        {
+          "id": "5",
+          "question": "Tham gia bữa tiệc Hulu",
+          "answer": "Đăng nhập vào tài khoản Hulu của bạn và nhấp vào liên kết bữa tiệc được bạn bè của bạn chia sẻ với bạn. Bây giờ, bạn cần cài đặt tiện ích mở rộng Hulu Watch Party (nếu bạn chưa có). Nó sẽ tự động chuyển hướng bạn đến buổi xem chung."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Đặc điểm của Đảng Hulu",
+      "subHeading": "Tiện ích mở rộng đi kèm với nhiều tính năng giúp bạn dễ dàng phát trực tuyến Hulu với bạn bè trực tuyến.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Trò chuyện nhóm trực tiếp",
+          "answer": "Bữa tiệc xem Hulu đi kèm với tính năng Trò chuyện trực tiếp cho phép bạn trò chuyện với những người tham gia khác trong khi phát trực tuyến các video Hulu cùng nhau."
+        },
+        {
+          "id": "t2",
+          "question": "Truyền phát HD",
+          "answer": "Xem các chương trình Hulu yêu thích của bạn với chất lượng HD và đồng bộ hoàn hảo với tiện ích mở rộng Hulu Watch Party."
+        },
+        {
+          "id": "t3",
+          "question": "Xem trên các thiết bị khác nhau",
+          "answer": "Hỗ trợ một loạt các thiết bị. Bạn có thể sử dụng tiện ích mở rộng này trong máy tính xách tay và PC chạy Windows, macOS hoặc Chromebook."
+        },
+        {
+          "id": "t4",
+          "question": "Công cụ tùy chỉnh",
+          "answer": "Bạn có thể tùy chỉnh hồ sơ của mình bằng các hình đại diện và biệt hiệu ngộ nghĩnh. Ngoài ra, bạn cũng có thể đặt biệt danh của mình để hiển thị với bạn bè trong khi trò chuyện nhóm hoặc khi xem video đồng bộ."
+        },
+        {
+          "id": "t5",
+          "question": "Truy cập toàn cầu",
+          "answer": "Tiện ích mở rộng Hulu Watch Party có sẵn ở tất cả các quốc gia. Do đó, bất kể bạn ở đâu, bạn đều có thể tạo hoặc tham gia bữa tiệc Hulu với bạn bè của mình."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Các câu hỏi thường gặp",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Bữa tiệc theo dõi Hulu là gì?",
+        "answer": "Bữa tiệc xem Hulu là một tiện ích mở rộng miễn phí cho phép tất cả người đăng ký Hulu xem phim và chương trình cùng nhau, thậm chí kết nối từ các địa điểm khác nhau. Hơn nữa, bạn có thể tải xuống tiện ích mở rộng này miễn phí."
+      },
+      {
+        "id": "f2",
+        "question": "Ai có thể sử dụng tiện ích mở rộng?",
+        "answer": "Mọi người có đăng ký Hulu đều có thể sử dụng tiện ích mở rộng để xem các chương trình, loạt phim hoặc video trực tuyến của Hulu một cách đồng bộ hóa hoàn hảo với những người khác sống ở xa."
+      },
+      {
+        "id": "f3",
+        "question": "Tôi có thể sử dụng Hulu Watch Party trên điện thoại di động của mình không?",
+        "answer": "Hiện tại, tiện ích mở rộng này chỉ tương thích với máy tính xách tay và PC Windows, Chromebook hoặc macOS. Do đó, bạn không thể sử dụng tiện ích mở rộng trên điện thoại di động hoặc máy tính bảng của mình."
+      },
+      {
+        "id": "f4",
+        "question": "Làm cách nào tôi có thể bắt đầu bữa tiệc Hulu?",
+        "answer": "Bạn có thể tạo Đảng Hulu bằng cách làm theo các bước đơn giản dưới đây: -",
+        "p1": "Trước hết, hãy đăng nhập vào tài khoản Hulu của bạn sau khi cài đặt tiện ích mở rộng.",
+        "p2": "Bây giờ, hãy tìm kiếm video mà bạn muốn xem cùng bạn bè.",
+        "p3": "Sau đó, phát video và chuyển đến biểu tượng tiện ích mở rộng.",
+        "p4": "Bây giờ, tab “Tạo bữa tiệc Hulu” sẽ mở ra. Bạn nên bấm vào nút “Bắt đầu bữa tiệc”.",
+        "p5": "Lưu ý: nếu không muốn toàn quyền kiểm soát buổi xem chung, bạn nên bấm vào nút màu xanh để tắt. Tuy nhiên, nếu bạn muốn giữ quyền kiểm soát của đảng, bạn nên",
+        "p6": "Sau đó, URL của nhóm Hulu sẽ xuất hiện trên màn hình. Vui lòng sao chép URL này và chia sẻ nó với bạn bè của bạn, những người mà bạn muốn mời tham gia bữa tiệc Hulu."
+      },
+      {
+        "id": "f5",
+        "question": "Làm thế nào để tham gia Đảng Hulu?",
+        "answer": "Trước hết, bạn cần đảm bảo rằng bạn đã cài đặt tiện ích mở rộng Hulu Party trên thiết bị của mình. Sau đó, đăng nhập vào tài khoản Hulu của bạn và nhấp vào liên kết được bạn bè của bạn chia sẻ với bạn. Nó sẽ chuyển hướng bạn đến bữa tiệc."
+      },
+      {
+        "id": "f6",
+        "question": "Tôi cũng có thể trò chuyện nhóm với bạn bè trong buổi xem chung không?",
+        "answer": "Có, bạn có thể trò chuyện nhóm trong khi xem phim, Chương trình TV hoặc bất kỳ video nào trên Hulu với bạn bè của mình."
+      },
+      {
+        "id": "f7",
+        "question": "Tôi có thể mời bao nhiêu thành viên vào bữa tiệc Hulu?",
+        "answer": "Bạn có thể mời bao nhiêu bạn bè hoặc thành viên gia đình tùy thích vào bữa tiệc. Tuy nhiên, hãy đảm bảo rằng tất cả các thành viên đều sống ở cùng một quốc gia."
+      },
+      {
+        "id": "f8",
+        "question": "Những thiết bị nào được tiện ích mở rộng hỗ trợ?",
+        "answer": "Bữa tiệc theo dõi Hulu không hỗ trợ thiết bị di động hoặc máy tính bảng. Nó chỉ tương thích với máy tính xách tay và PC Chromebook, Windows hoặc macOS."
+      },
+      {
+        "id": "f9",
+        "question": "Tiện ích mở rộng có bất kỳ tính năng cá nhân hóa nào không?",
+        "answer": "Có, bạn có thể chọn và đặt biệt hiệu sẽ hiển thị trong cuộc trò chuyện nhóm. Ngoài ra, bạn cũng có thể chọn hình đại diện ngộ nghĩnh mà mình thích trong số các tùy chọn có sẵn."
+      },
+      {
+        "id": "f10",
+        "question": "Bạn bè quốc tế có thể tham gia Hulu Watch Party không?",
+        "answer": "Tất cả các thành viên cần phải ở cùng một quốc gia để tham gia nhóm Hulu. Tuy nhiên, nếu bất kỳ thành viên nào không ở cùng một quốc gia thì họ có thể sử dụng VPN."
+      },
+      {
+        "id": "f11",
+        "question": "Tôi cần phải cài đặt hoặc sử dụng tiện ích mở rộng này những gì?",
+        "answer": "Bạn phải có những điều sau đây: -",
+        "p1": "Một kết nối internet ổn định.",
+        "p2": "Thiết bị Chromebook, macOS hoặc Windows.",
+        "p3": "Trình duyệt Google Chrome hoặc Microsoft Edge.",
+        "p4": "Đăng ký Hulu"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Nhận nó, nó miễn phí!",
+    "anyQuestions": "Tôi đã sẵn sàng, Hãy cho tôi bữa tiệc Hotstar",
+    "blog": "Blog",
+    "privacy": "Sự riêng tư",
+    "popularSearches": "Tìm kiếm phổ biến",
+    "disclaimer": "Tuyên bố từ chối trách nhiệm",
+    "disclaimerContent": "Hulu là thương hiệu của Hulu, LLC. Trang web này",
+    "footerTags": [
+      "Bữa tiệc theo dõi Hulu",
+      "Xem bữa tiệc Hulu",
+      "Cách sử dụng Hulu Watch Party",
+      "Cách thực hiện Watch Party trên Hulu",
+      "Đảng Hulu",
+      "Cách bắt đầu buổi xem chung trên Hulu",
+      "Cách tổ chức Buổi xem chung trên Hulu",
+      "Xem gì trên Hulu",
+      "Xem gì trên Hulu ngay bây giờ",
+      "Xem gì trên Hulu"
+    ]
+  }
+}

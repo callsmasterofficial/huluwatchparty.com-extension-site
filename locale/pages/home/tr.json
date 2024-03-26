@@ -1,0 +1,173 @@
+{
+  "header": {
+    "installBtn": { "addTo": "A ekle", "free": "Ücretsiz" },
+    "navBarHeading": "artık Google Chrome, Microsoft Edge ve Mozilla Firefox'ta mevcut"
+  },
+  "section": {
+    "first": {
+      "heading": "Hulu Watch Party'yi Kullanın ve Arkadaşlarınızla Bağlantıda Kalın",
+      "html": "Hulu şovlarını ve filmlerini çevrimiçi insanlarla mükemmel bir senkronizasyonla izleyin ve her zaman farklı konumlardan bağlantıda kalın. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a>, dünya çapındaki Hulu yayıncılarına özel olarak oluşturulmuş ücretsiz bir uzantıdır. arkadaşları/aileleriyle senkronize kusursuz yayın deneyimi.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "Hulu Watch Party'ye nasıl başlanır?",
+      "subHeading": "Uzantı, kullanıcılara sorunsuz bir akış deneyimi sunmak amacıyla tasarlanmış ve oluşturulmuştur. Birkaç tıklamayla uzantıyı kullanmaya başlayabilirsiniz.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Hulu Watch Party'yi yükleyin",
+          "answer": "Öncelikle uzantıyı cihazınıza yüklemeniz gerekiyor. Uzantının yalnızca Chromebook, Windows veya macOS cihazları ve Google Chrome veya Microsoft Edge tarayıcılarıyla uyumlu olduğunu lütfen unutmayın. Uzantıyı yüklemek için burayı tıklayın. Hulu Partisini araç çubuğuna sabitleyin."
+        },
+        {
+          "id": "2",
+          "question": "Hulu Watch Party'yi araç çubuğuna sabitle",
+          "answer": "Uzantıyı yükledikten sonra, kullanımı kolaylaştırmak için araç çubuğuna sabitleyin. “Uzantılar” simgesine gidin. Şimdi HWP düğmesini araç çubuğuna sabitleyin."
+        },
+        {
+          "id": "3",
+          "question": "Hulu'da oturum açın",
+          "answer": "Hulu'daki dizilere, filmlere veya tüm videolara erişmek ve bunları çevrimiçi olarak diğer kişilerle birlikte izlemek için Hulu hesabınızda oturum açmanız gerekir."
+        },
+        {
+          "id": "4",
+          "question": "Videoyu Arayın ve Oynatın",
+          "answer": "Lütfen Hulu izleme partinizde izlemek istediğiniz videoyu arayın ve oynatın."
+        },
+        {
+          "id": "5",
+          "question": "Bir izleme partisi oluşturun",
+          "answer": "Videoyu oynattıktan sonra, \"Parti Oluştur\" penceresini açmak için araç çubuğunuzda bulunan \"Uzantılar\" simgesine tıklayın. Ardından parti URL'sini almak için \"Partiyi Başlat\"a dokunun. Parti URL'sini kopyalayın ve insanları partiye davet etmek için onlarla paylaşın."
+        },
+        {
+          "id": "5",
+          "question": "Hulu Partisine Katılın",
+          "answer": "Hulu hesabınıza giriş yapın ve arkadaşınızın sizinle paylaştığı parti bağlantısına tıklayın. Şimdi Hulu Watch Party uzantısını yüklemeniz gerekiyor (henüz yapmadıysanız). Sizi otomatik olarak izleme partisine yönlendirecektir."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Hulu Partisinin Özellikleri",
+      "subHeading": "Uzantı, arkadaşlarınızla çevrimiçi Hulu akışını kolaylaştıran çok çeşitli özelliklerle birlikte gelir.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Canlı Grup Sohbeti",
+          "answer": "Hulu izleme partisi, Hulu videolarını birlikte yayınlarken diğer katılımcılarla sohbet etmenize olanak tanıyan Canlı Sohbet özelliğiyle birlikte gelir."
+        },
+        {
+          "id": "t2",
+          "question": "HD Akış",
+          "answer": "Hulu Watch Party uzantısıyla en sevdiğiniz Hulu şovlarını mükemmel senkronizasyon ve HD kalitesinde izleyin."
+        },
+        {
+          "id": "t3",
+          "question": "Farklı cihazlarda izleyin",
+          "answer": "Çok çeşitli cihazları destekler. Uzantıyı Windows, macOS veya Chromebook dizüstü ve PC'lerinizde kullanabilirsiniz."
+        },
+        {
+          "id": "t4",
+          "question": "Özelleştirme araçları",
+          "answer": "Profilinizi komik avatarlar ve takma adlarla özelleştirebilirsiniz. Buna ek olarak, grup sohbeti sırasında veya videoları senkronize olarak izlerken arkadaşlarınızın göreceği takma adınızı da koyabilirsiniz."
+        },
+        {
+          "id": "t5",
+          "question": "Dünya Çapında Erişim",
+          "answer": "Hulu Watch Party uzantısı tüm ülkelerde mevcuttur. Bu nedenle nerede olursanız olun arkadaşlarınızla bir Hulu partisi oluşturabilir veya ona katılabilirsiniz."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Sıkça Sorulan Sorular",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hulu İzleme Partisi nedir?",
+        "answer": "Hulu izleme partisi, tüm Hulu abonelerinin birlikte film ve şov izlemesine ve hatta farklı konumlardan bağlantı kurmasına olanak tanıyan ücretsiz bir uzantıdır. Üstelik bu eklentiyi ücretsiz olarak indirebilirsiniz."
+      },
+      {
+        "id": "f2",
+        "question": "Uzantıyı kimler kullanabilir?",
+        "answer": "Hulu aboneliği olan herkes, Hulu şovlarını, dizilerini veya videolarını uzakta yaşayan diğer insanlarla mükemmel senkronizasyonla çevrimiçi izlemek için uzantıyı kullanabilir."
+      },
+      {
+        "id": "f3",
+        "question": "Hulu Watch Party'yi cep telefonumda kullanabilir miyim?",
+        "answer": "Şu anda uzantı yalnızca Windows, Chromebook veya macOS dizüstü bilgisayarlar ve PC'lerle uyumludur. Bu nedenle uzantıyı cep telefonunuzda veya tabletinizde kullanamazsınız."
+      },
+      {
+        "id": "f4",
+        "question": "Hulu partisini nasıl başlatabilirim?",
+        "answer": "Aşağıda verilen kolay adımları izleyerek Hulu Partisini oluşturabilirsiniz: -",
+        "p1": "Öncelikle uzantıyı yükledikten sonra Hulu hesabınızda oturum açın.",
+        "p2": "Şimdi arkadaşlarınızla izlemek istediğiniz videoyu arayın.",
+        "p3": "Bundan sonra videoyu oynatın ve uzantı simgesine gidin.",
+        "p4": "Şimdi “Hulu Partisi Oluştur” sekmesi açılacak. “Partiyi Başlat” butonuna tıklamalısınız.",
+        "p5": "Not: İzleme partisinin tam kontrolüne sahip olmak istemiyorsanız, yeşil düğmeye tıklayarak onu kapatmalısınız. Ancak partinin kontrolünü elinizde tutmak istiyorsanız,",
+        "p6": "Bundan sonra ekranda Hulu parti URL'si görünecektir. Lütfen bu URL'yi kopyalayın ve Hulu partisine davet etmek istediğiniz arkadaşlarınızla paylaşın."
+      },
+      {
+        "id": "f5",
+        "question": "Hulu Partisine nasıl katılabilirsiniz?",
+        "answer": "Öncelikle cihazınıza Hulu Party uzantısını yüklediğinizden emin olmanız gerekiyor. Bundan sonra Hulu hesabınıza giriş yapın ve arkadaşınızın sizinle paylaştığı bağlantıya tıklayın. Sizi partiye yönlendirecektir."
+      },
+      {
+        "id": "f6",
+        "question": "Ben de izleme partisi sırasında arkadaşlarımla grup sohbeti yapabilir miyim?",
+        "answer": "Evet, Hulu'da arkadaşlarınızla film, TV şovu veya herhangi bir videoyu izlerken grup sohbeti yapabilirsiniz."
+      },
+      {
+        "id": "f7",
+        "question": "Bir Hulu partisine kaç üye dahil edebilirim?",
+        "answer": "Partiye eklemek istediğiniz kadar arkadaş veya aile üyesini dahil edebilirsiniz. Ancak lütfen tüm üyelerin aynı ülkede yaşadığından emin olun."
+      },
+      {
+        "id": "f8",
+        "question": "Uzantı hangi cihazları destekliyor?",
+        "answer": "Hulu izleme partisi mobil veya tablet cihazları desteklemez. Yalnızca Chromebook, Windows veya macOS dizüstü bilgisayarlar ve PC'lerle uyumludur."
+      },
+      {
+        "id": "f9",
+        "question": "Uzantının herhangi bir kişiselleştirme özelliği var mı?",
+        "answer": "Evet, grup sohbeti sırasında görünecek bir takma ad seçip belirleyebilirsiniz. Buna ek olarak mevcut seçenekler arasından dilediğiniz komik avatarı da seçebilirsiniz."
+      },
+      {
+        "id": "f10",
+        "question": "Uluslararası arkadaşlar Hulu Watch Party'e katılabilir mi?",
+        "answer": "Hulu partisine katılmak için tüm üyelerin aynı ülkede olması gerekiyor. Ancak herhangi bir üye aynı ülkede değilse VPN kullanabilir."
+      },
+      {
+        "id": "f11",
+        "question": "Uzantıyı yüklemek veya kullanmak için ne yapmam gerekir?",
+        "answer": "Aşağıdakilere sahip olmalısınız: -",
+        "p1": "İstikrarlı bir internet bağlantısı.",
+        "p2": "Bir Chromebook, macOS veya Windows cihazı.",
+        "p3": "Google Chrome veya Microsoft Edge tarayıcısı.",
+        "p4": "Hulu aboneliği"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Alın, Ücretsiz!",
+    "anyQuestions": "Hazırım, bana Hotstar Partisi ver",
+    "blog": "Blog",
+    "privacy": "Mahremiyet",
+    "popularSearches": "popüler aramalar",
+    "disclaimer": "Sorumluluk reddi beyanı",
+    "disclaimerContent": "Hulu, Hulu, LLC'nin ticari markasıdır. Bu web sitesi",
+    "footerTags": [
+      "Hulu İzleme Partisi",
+      "Parti Hulu'yu izleyin",
+      "Hulu İzleme Partisi nasıl kullanılır?",
+      "Hulu'da Watch Party nasıl yapılır?",
+      "Hulu Partisi",
+      "Hulu'da İzleme Partisi Nasıl Başlatılır?",
+      "Hulu'da İzleme Partisi nasıl düzenlenir?",
+      "Hulu'da Ne İzlemeli?",
+      "Şu Anda Hulu'da Ne İzlemeli?",
+      "Hulu'da Ne İzlemeli?"
+    ]
+  }
+}
