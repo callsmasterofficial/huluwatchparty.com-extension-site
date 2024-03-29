@@ -4,7 +4,7 @@ import Blogmore from '../../components/Blogmore'
 import Footer from '../../components/Footer'
 import Banner from '../../components/Banner'
 import db from '../../config/db'
-import Blog from '../../models/blog'
+import { Blog } from '../../models/blog'
 import siteConfig from '../../siteConfig'
 import { getHome } from '../../locale/index'
 
