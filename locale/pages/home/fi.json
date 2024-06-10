@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Käytä Hulu Watch Partya ja pysy yhteydessä ystäviin",
-      "html": "Katso Hulu-ohjelmia ja elokuvia täydellisessä synkronoinnissa ihmisten kanssa verkossa ja pysy aina yhteydessä eri paikoista. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> on ilmainen laajennus, joka on luotu tarjoamaan maailmanlaajuisille Hulu-streamaajille saumaton suoratoistokokemus synkronoituna ystäviensä/perheensä kanssa.",
+      "html": "Katso Hulu-ohjelmia ja elokuvia täydellisessä synkronoinnissa ihmisten kanssa verkossa ja pysy aina yhteydessä eri paikoista. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> on ilmainen laajennus, joka on luotu tarjoamaan maailmanlaajuisille Hulu-streamaajille saumaton suoratoistokokemus synkronoituna ystäviensä/perheensä kanssa.  Keskustele reaaliajassa, jaa reaktioita ja uppoudu yhteiseen katselukokemukseen, joka tuntuu aivan kuin katsoisit vierekkäin. Nauti äärimmäisestä tavasta pitää yhteyttä ja tehdä muistoja rakkaiden kanssa, jopa kilometrien päässä toisistaan.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Kuinka aloittaa Hulu Watch Party?",
-      "subHeading": "Laajennus on suunniteltu ja luotu tavoitteena tarjota käyttäjille sujuva suoratoistokokemus. Voit aloittaa laajennuksen käytön muutamalla napsautuksella.",
+      "subHeading": "Laajennus on suunniteltu tarjoamaan käyttäjille sujuva suoratoistokokemus. Sen käyttäjäystävällisen käyttöliittymän avulla pääset alkuun muutamalla napsautuksella, mikä tekee laajennuksen asentamisesta ja määrittämisestä helppoa. Nauti Hulu-suosikkiohjelmistasi ja -elokuvistasi täydellisessä synkronoinnissa ystävien ja perheen kanssa vaivattomasti:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Hulu Partyn ominaisuudet",
-      "subHeading": "Laajennus sisältää laajan valikoiman ominaisuuksia, jotka helpottavat Hulu-suoratoistoa ystäviesi kanssa verkossa.",
+      "subHeading": "Laajennuksessa on joukko ominaisuuksia, jotka mahdollistavat helpon Hulun online-suoratoiston ystäviesi kanssa. Näitä ominaisuuksia ovat synkronoitu toisto, live-ryhmäkeskustelu, HD-suoratoisto ja yhteensopivuus Windows-, macOS- ja Chromebook-laitteiden kanssa. Voit myös muokata profiiliasi avatarilla ja lempinimilla, mikä tekee suoratoistokokemuksesta hauskempaa ja kiinnostavampaa:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -85,12 +85,12 @@
       {
         "id": "f1",
         "question": "Mikä on Hulu Watch Party?",
-        "answer": "Hulu Watch Party on ilmainen laajennus, jonka avulla kaikki Hulu-tilaajat voivat katsella elokuvia ja ohjelmia yhdessä ja jopa muodostaa yhteyden eri paikoista. Lisäksi voit ladata tämän laajennuksen ilmaiseksi."
+        "answer": "Hulu Watch Party on ilmainen laajennus, jonka avulla kaikki Hulu-tilaajat voivat katsella elokuvia ja ohjelmia yhdessä ja jopa olla yhteydessä eri paikoista. Lisäksi voit ladata tämän laajennuksen ilmaiseksi."
       },
       {
         "id": "f2",
         "question": "Kuka voi käyttää laajennusta?",
-        "answer": "Kaikki, joilla on Hulu-tilaus, voivat käyttää laajennusta katsoakseen Hulu-ohjelmia, sarjoja tai videoita verkossa täydellisessä synkronoinnissa muiden kaukana asuvien ihmisten kanssa."
+        "answer": "Kaikki, joilla on Hulu-tilaus, voivat käyttää laajennusta katsellakseen Hulu-ohjelmia, sarjoja tai videoita verkossa täydellisessä synkronoinnissa muiden kaukaisten ihmisten kanssa."
       },
       {
         "id": "f3",
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "Mitä minun pitää asentaa tai käyttää laajennusta?",
-        "answer": "Sinulla tulee olla seuraavat:",
-        "p1": "Vakaa Internet-yhteys.",
-        "p2": "Chromebook-, macOS- tai Windows-laite.",
-        "p3": "Google Chrome tai Microsoft Edge -selain.",
-        "p4": "Hulu-tilaus"
+        "question": "Kuinka asennan ja määritän Hulu Watch Party -laajennuksen?",
+        "answer": "Asenna laajennus Chromebook-, Windows- tai macOS-laitteeseen Google Chromen tai Microsoft Edgen avulla. Kiinnitä HWP-painike työkalupalkkiin, kirjaudu sisään Huluun, toista video, napsauta \"Laajennukset\" -kuvaketta ja valitse \"Aloita juhla\" jaaksesi URL-osoite ystävillesi."
+      },
+      {
+        "id": "f12",
+        "question": "Mitä ominaisuuksia Hulu Watch Party -laajennus tarjoaa?",
+        "answer": "Hulu Watch Party tarjoaa live-ryhmäkeskustelun, HD-suoratoiston ja yhteensopivuuden Windows-, macOS- ja Chromebook-laitteiden kanssa. Se sisältää myös profiilin räätälöinnin avatarilla ja lempinimillä, ja se on saatavilla maailmanlaajuisesti."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Hanki se, se on ilmainen!",
-    "anyQuestions": "Olen valmis, anna minulle Hotstar Party",
+    "anyQuestions": "Olen valmis, anna minulle Hulu Watch Party",
     "blog": "Blogi",
     "privacy": "Yksityisyys",
     "popularSearches": "Suositut haut",

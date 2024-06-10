@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Hulu Watch Party'yi Kullanın ve Arkadaşlarınızla Bağlantıda Kalın",
-      "html": "Hulu şovlarını ve filmlerini çevrimiçi insanlarla mükemmel bir senkronizasyonla izleyin ve her zaman farklı konumlardan bağlantıda kalın. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a>, dünya çapındaki Hulu yayıncılarına özel olarak oluşturulmuş ücretsiz bir uzantıdır. arkadaşları/aileleriyle senkronize kusursuz yayın deneyimi.",
+      "html": "Hulu şovlarını ve filmlerini çevrimiçi insanlarla mükemmel bir senkronizasyonla izleyin ve her zaman farklı konumlardan bağlantıda kalın. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a>, dünya çapındaki Hulu yayıncılarına özel olarak oluşturulmuş ücretsiz bir uzantıdır. arkadaşları/aileleriyle senkronize kusursuz yayın deneyimi.  Gerçek zamanlı olarak sohbet edin, tepkileri paylaşın ve kendinizi yan yana izliyormuş gibi hissettiren ortak bir izleme deneyimine kaptırın. Bağlantıda kalmanın ve sevdiklerinizle kilometrelerce uzakta olsalar bile anılar biriktirmenin en iyi yolunun tadını çıkarın.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Hulu Watch Party'ye nasıl başlanır?",
-      "subHeading": "Uzantı, kullanıcılara sorunsuz bir akış deneyimi sunmak amacıyla tasarlanmış ve oluşturulmuştur. Birkaç tıklamayla uzantıyı kullanmaya başlayabilirsiniz.",
+      "subHeading": "Uzantı, kullanıcılara sorunsuz bir akış deneyimi sunmak için tasarlandı. Kullanıcı dostu arayüzü, yalnızca birkaç tıklamayla başlamanıza olanak tanıyarak uzantıyı yüklemeyi ve ayarlamayı kolaylaştırır. En sevdiğiniz Hulu şovlarının ve filmlerinin keyfini arkadaşlarınız ve ailenizle mükemmel senkronizasyonla zahmetsizce çıkarın:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Hulu Partisinin Özellikleri",
-      "subHeading": "Uzantı, arkadaşlarınızla çevrimiçi Hulu akışını kolaylaştıran çok çeşitli özelliklerle birlikte gelir.",
+      "subHeading": "Uzantı, arkadaşlarınızla Hulu'nun çevrimiçi akışını kolaylaştıran bir dizi özelliğe sahiptir. Bu özellikler arasında senkronize oynatma, canlı grup sohbeti, HD akış ve Windows, macOS ve Chromebook cihazlarıyla uyumluluk yer alır. Ayrıca profilinizi avatarlar ve takma adlarla kişiselleştirerek yayın deneyimini daha eğlenceli ve ilgi çekici hale getirebilirsiniz:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "Uzantıyı yüklemek veya kullanmak için ne yapmam gerekir?",
-        "answer": "Aşağıdakilere sahip olmalısınız: -",
-        "p1": "İstikrarlı bir internet bağlantısı.",
-        "p2": "Bir Chromebook, macOS veya Windows cihazı.",
-        "p3": "Google Chrome veya Microsoft Edge tarayıcısı.",
-        "p4": "Hulu aboneliği"
+        "question": "Hulu Watch Party uzantısını nasıl yükleyebilirim ve ayarlayabilirim?",
+        "answer": "Uzantıyı Google Chrome veya Microsoft Edge'i kullanarak bir Chromebook, Windows veya macOS cihazına yükleyin. HWP düğmesini araç çubuğunuza sabitleyin, Hulu'da oturum açın, bir video oynatın, \"Uzantılar\" simgesine tıklayın ve URL'yi arkadaşlarınızla paylaşmak için \"Partiyi Başlat\"ı seçin."
+      },
+      {
+        "id": "f12",
+        "question": "Hulu Watch Party uzantısı hangi özellikleri sunuyor?",
+        "answer": "Hulu Watch Party, canlı grup sohbeti, HD yayın ve Windows, macOS ve Chromebook cihazlarıyla uyumluluk sunar. Ayrıca avatarlar ve takma adlarla profil özelleştirmeyi de içerir ve dünya çapında mevcuttur."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Alın, Ücretsiz!",
-    "anyQuestions": "Hazırım, bana Hotstar Partisi ver",
+    "anyQuestions": "Hazırım, bana Hulu Seyir Partisi ver",
     "blog": "Blog",
     "privacy": "Mahremiyet",
     "popularSearches": "popüler aramalar",

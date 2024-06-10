@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "使用 Hulu Watch Party 并与朋友保持联系",
-      "html": "与在线用户完美同步观看 Hulu 节目和电影，并始终在不同地点保持联系。 <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> 是一款免费扩展，专门为全球 Hulu 流媒体提供与朋友/家人同步的无缝流媒体体验。",
+      "html": "与在线用户完美同步观看 Hulu 节目和电影，并始终在不同地点保持联系。 <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> 是一款免费扩展，专门为全球 Hulu 流媒体提供与朋友/家人同步的无缝流媒体体验。  实时聊天、分享反应，并沉浸在共享观看体验中，感觉就像并排观看一样。享受与亲人保持联系并留下回忆的终极方式，即使相隔数英里。",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "如何开始Hulu观看派对？",
-      "subHeading": "该扩展的设计和创建目的是为用户提供流畅的流媒体体验。只需点击几下即可开始使用该扩展。",
+      "subHeading": "该扩展旨在为用户提供流畅的流媒体体验。其用户友好的界面让您只需点击几下即可开始，从而使安装和设置扩展变得容易。轻松与朋友和家人完美同步地欣赏您最喜爱的 Hulu 节目和电影：",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -37,7 +37,7 @@
         {
           "id": "5",
           "question": "创建观看派对",
-          "answer": "播放视频后，单击工具栏上的“扩展”图标打开“创建聚会”窗口。然后，点击“开始聚会”即可获取聚会 URL。复制聚会 URL 并与其他人共享以邀请他们参加聚会。"
+          "answer": "播放视频后，单击工具栏上的“扩展”图标打开“创建聚会”窗口。然后，点击“开始聚会”以获取聚会 URL。复制聚会 URL 并与其他人共享以邀请他们参加聚会。"
         },
         {
           "id": "5",
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Hulu派对的特点",
-      "subHeading": "该扩展程序具有广泛的功能，可方便您与朋友在线轻松进行 Hulu 流媒体播放。",
+      "subHeading": "该扩展程序具有一系列功能，可帮助您与朋友轻松进行 Hulu 在线流媒体播放。这些功能包括同步播放、实时群聊、高清流媒体以及与 Windows、macOS 和 Chromebook 设备的兼容性。您还可以使用头像和昵称个性化您的个人资料，使流媒体体验更加有趣和吸引人：",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -90,7 +90,7 @@
       {
         "id": "f2",
         "question": "谁可以使用该扩展？",
-        "answer": "每个订阅 Hulu 的人都可以使用该扩展在线观看 Hulu 节目、系列或视频，与远方的其他人完美同步。"
+        "answer": "每个订阅 Hulu 的人都可以使用该扩展程序在线观看 Hulu 节目、连续剧或视频，与远方的其他人完美同步。"
       },
       {
         "id": "f3",
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "我应该安装或使用扩展程序什么？",
-        "answer": "您必须具备以下条件：-",
-        "p1": "稳定的互联网连接。",
-        "p2": "Chromebook、macOS 或 Windows 设备。",
-        "p3": "Google Chrome 或 Microsoft Edge 浏览器。",
-        "p4": "Hulu 订阅"
+        "question": "如何安装和设置 Hulu Watch Party 扩展？",
+        "answer": "使用 Google Chrome 或 Microsoft Edge 在 Chromebook、Windows 或 macOS 设备上安装扩展程序。将 HWP 按钮固定到工具栏，登录 Hulu，播放视频，单击“扩展”图标，然后选择“开始聚会”与朋友分享 URL。"
+      },
+      {
+        "id": "F12",
+        "question": "Hulu Watch Party 扩展提供哪些功能？",
+        "answer": "Hulu Watch Party 提供实时群聊、高清流媒体以及与 Windows、macOS 和 Chromebook 设备的兼容性。它还包括带有头像和昵称的个人资料定制，并且在全球范围内可用。"
       }
     ]
   },
   "footer": {
     "letUsKnow": "获取它，它是免费的！",
-    "anyQuestions": "我准备好了，给我举办 Hotstar 派对",
+    "anyQuestions": "我准备好了，给我 Hulu 观看派对",
     "blog": "博客",
     "privacy": "隐私",
     "popularSearches": "热门搜索",

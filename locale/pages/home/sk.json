@@ -5,13 +5,13 @@
   },
   "section": {
     "first": {
-      "heading": "Použite Hulu Watch Party a zostaňte v spojení s priateľmi",
-      "html": "Sledujte relácie a filmy Hulu v dokonalej synchronizácii s ľuďmi online a buďte vždy v spojení z rôznych miest. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> je bezplatné rozšírenie exkluzívne vytvorené s cieľom poskytnúť streamerom Hulu po celom svete bezproblémové streamovanie v synchronizácii s ich priateľmi/rodinou.",
+      "heading": "Využite Hulu Watch Party a zostaňte v spojení s priateľmi",
+      "html": "Sledujte relácie a filmy Hulu v dokonalej synchronizácii s ľuďmi online a buďte vždy v spojení z rôznych miest. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> je bezplatné rozšírenie exkluzívne vytvorené s cieľom poskytnúť streamerom Hulu po celom svete bezproblémové streamovanie v synchronizácii s ich priateľmi/rodinou.  Rozprávajte sa v reálnom čase, zdieľajte reakcie a ponorte sa do spoločného zážitku zo sledovania, ktorý je ako pri pozeraní vedľa seba. Vychutnajte si dokonalý spôsob, ako zostať v spojení a vytvárať spomienky s blízkymi, dokonca aj na míle ďaleko.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Ako začať s Hulu Watch Party?",
-      "subHeading": "Rozšírenie bolo navrhnuté a vytvorené s cieľom poskytnúť používateľom plynulý zážitok zo streamovania. S rozšírením môžete začať niekoľkými kliknutiami.",
+      "subHeading": "Rozšírenie bolo navrhnuté tak, aby používateľom poskytovalo plynulé streamovanie. Jeho užívateľsky prívetivé rozhranie vám umožňuje začať s niekoľkými kliknutiami, vďaka čomu je inštalácia a nastavenie rozšírenia jednoduché. Vychutnajte si svoje obľúbené relácie a filmy Hulu v dokonalej synchronizácii s priateľmi a rodinou bez námahy:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -32,7 +32,7 @@
         {
           "id": "4",
           "question": "Vyhľadajte a prehrajte video",
-          "answer": "Vyhľadajte video, ktoré si chcete pozrieť na párty Hulu, a prehrajte si ho."
+          "answer": "Vyhľadajte video, ktoré chcete sledovať na večierku sledovania Hulu, a prehrajte si ho."
         },
         {
           "id": "5",
@@ -48,13 +48,13 @@
     },
     "three": {
       "heading": "Vlastnosti Hulu Party",
-      "subHeading": "Rozšírenie prichádza so širokou škálou funkcií, ktoré uľahčujú jednoduché streamovanie Hulu s vašimi priateľmi online.",
+      "subHeading": "Rozšírenie má celý rad funkcií, ktoré uľahčujú jednoduché online streamovanie Hulu s vašimi priateľmi. Tieto funkcie zahŕňajú synchronizované prehrávanie, živý skupinový chat, HD streaming a kompatibilitu so zariadeniami Windows, macOS a Chromebook. Môžete si tiež prispôsobiť svoj profil pomocou avatarov a prezývok, vďaka čomu bude streamovanie zábavnejšie a pútavejšie:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
           "id": "t1",
           "question": "Živý skupinový chat",
-          "answer": "Hulu Watch Party prichádza s funkciou Live Chat, ktorá vám umožňuje chatovať s ostatnými účastníkmi pri spoločnom streamovaní videí Hulu."
+          "answer": "Hulu Watch Party prichádza s funkciou Live Chat, ktorá vám umožňuje chatovať s ostatnými účastníkmi počas spoločného streamovania videí Hulu."
         },
         {
           "id": "t2",
@@ -140,20 +140,21 @@
       },
       {
         "id": "f11",
-        "question": "Čo by som mal mať na inštaláciu alebo používanie rozšírenia?",
-        "answer": "Musíte mať nasledovné: -",
-        "p1": "Stabilné internetové pripojenie.",
-        "p2": "Chromebook, zariadenie so systémom MacOS alebo Windows.",
-        "p3": "Prehliadač Google Chrome alebo Microsoft Edge.",
-        "p4": "Predplatné Hulu"
+        "question": "Ako nainštalujem a nastavím rozšírenie Hulu Watch Party?",
+        "answer": "Nainštalujte rozšírenie na Chromebook, zariadenie so systémom Windows alebo macOS pomocou prehliadača Google Chrome alebo Microsoft Edge. Pripnite si tlačidlo HWP na panel s nástrojmi, prihláste sa do Hulu, prehrajte video, kliknite na ikonu „Rozšírenia“ a vyberte „Začať párty“, aby ste mohli zdieľať adresu URL s priateľmi."
+      },
+      {
+        "id": "f12",
+        "question": "Aké funkcie ponúka rozšírenie Hulu Watch Party?",
+        "answer": "Hulu Watch Party ponúka živý skupinový chat, HD streamovanie a kompatibilitu so zariadeniami Windows, macOS a Chromebook. Zahŕňa tiež prispôsobenie profilu pomocou avatarov a prezývok a je k dispozícii na celom svete."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Získajte to, je to zadarmo!",
-    "anyQuestions": "Som pripravený, Daj mi Hotstar Party",
+    "anyQuestions": "Som pripravený, dajte mi Hulu Watch Party",
     "blog": "Blog",
-    "privacy": "Ochrana osobných údajov",
+    "privacy": "Súkromie",
     "popularSearches": "Populárne vyhľadávania",
     "disclaimer": "Vylúčenie zodpovednosti",
     "disclaimerContent": "Hulu je ochranná známka spoločnosti Hulu, LLC. Táto webová stránka",

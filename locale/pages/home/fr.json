@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Utilisez Hulu Watch Party et restez connecté avec vos amis",
-      "html": "Regardez des émissions et des films Hulu en parfaite synchronisation avec les gens en ligne et restez toujours connecté depuis différents endroits. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> est une extension gratuite créée exclusivement pour fournir aux streamers Hulu du monde entier un expérience de streaming fluide et synchronisée avec leurs amis/famille.",
+      "html": "Regardez des émissions et des films Hulu en parfaite synchronisation avec les gens en ligne et restez toujours connecté depuis différents endroits. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> est une extension gratuite créée exclusivement pour fournir aux streamers Hulu du monde entier un expérience de streaming fluide et synchronisée avec leurs amis/famille.  Discutez en temps réel, partagez vos réactions et plongez-vous dans une expérience de visionnage partagée qui donne l'impression de regarder côte à côte. Profitez du moyen ultime de rester connecté et de créer des souvenirs avec vos proches, même à des kilomètres les uns des autres.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Comment démarrer avec la Hulu Watch Party ?",
-      "subHeading": "L'extension a été conçue et créée dans le but de fournir aux utilisateurs une expérience de streaming fluide. Vous pouvez démarrer avec l’extension en quelques clics.",
+      "subHeading": "L'extension a été conçue pour offrir aux utilisateurs une expérience de streaming fluide. Son interface conviviale vous permet de démarrer en quelques clics, ce qui facilite l'installation et la configuration de l'extension. Profitez de vos émissions et films Hulu préférés en parfaite synchronisation avec vos amis et votre famille, sans effort :",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Caractéristiques de Hulu Party",
-      "subHeading": "L'extension est livrée avec un large éventail de fonctionnalités qui facilitent le streaming Hulu avec vos amis en ligne.",
+      "subHeading": "L'extension dispose d'un éventail de fonctionnalités qui facilitent la diffusion en ligne Hulu avec vos amis. Ces fonctionnalités incluent la lecture synchronisée, la discussion de groupe en direct, le streaming HD et la compatibilité avec les appareils Windows, macOS et Chromebook. Vous pouvez également personnaliser votre profil avec des avatars et des surnoms, rendant l'expérience de streaming plus amusante et engageante :",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -85,7 +85,7 @@
       {
         "id": "f1",
         "question": "Qu’est-ce que Hulu Watch Party ?",
-        "answer": "Hulu Watch Party est une extension gratuite qui permet à tous les abonnés Hulu de regarder des films et des émissions ensemble et même de se connecter depuis différents endroits. De plus, vous pouvez télécharger cette extension gratuitement."
+        "answer": "Hulu Watch Party est une extension gratuite qui permet à tous les abonnés Hulu de regarder des films et des émissions ensemble et même de se connecter à partir de différents endroits. De plus, vous pouvez télécharger cette extension gratuitement."
       },
       {
         "id": "f2",
@@ -126,11 +126,11 @@
       {
         "id": "f8",
         "question": "Quels appareils sont pris en charge par l'extension ?",
-        "answer": "Hulu Watch Party ne prend pas en charge les appareils mobiles ou les tablettes. Il est uniquement compatible avec les ordinateurs portables et PC Chromebook, Windows ou macOS."
+        "answer": "Hulu Watch Party ne prend pas en charge les appareils mobiles ou tablettes. Il est uniquement compatible avec les ordinateurs portables et PC Chromebook, Windows ou macOS."
       },
       {
         "id": "f9",
-        "question": "L'extension possède-t-elle des fonctionnalités de personnalisation ?",
+        "question": "L’extension possède-t-elle des fonctionnalités de personnalisation ?",
         "answer": "Oui, vous pouvez choisir et définir un pseudo qui sera visible lors de la discussion de groupe. En plus de cela, vous pouvez également choisir l'avatar amusant de votre choix parmi les options disponibles."
       },
       {
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "Que dois-je avoir pour installer ou utiliser l'extension ?",
-        "answer": "Vous devez avoir les éléments suivants : -",
-        "p1": "Une connexion Internet stable.",
-        "p2": "Un appareil Chromebook, macOS ou Windows.",
-        "p3": "Navigateur Google Chrome ou Microsoft Edge.",
-        "p4": "Un abonnement Hulu"
+        "question": "Comment installer et configurer l'extension Hulu Watch Party ?",
+        "answer": "Installez l'extension sur un appareil Chromebook, Windows ou macOS à l'aide de Google Chrome ou Microsoft Edge. Épinglez le bouton HWP sur votre barre d'outils, connectez-vous à Hulu, lisez une vidéo, cliquez sur l'icône « Extensions » et sélectionnez « Démarrer la fête » pour partager l'URL avec des amis."
+      },
+      {
+        "id": "f12",
+        "question": "Quelles fonctionnalités offre l'extension Hulu Watch Party ?",
+        "answer": "Hulu Watch Party propose un chat de groupe en direct, un streaming HD et une compatibilité avec les appareils Windows, macOS et Chromebook. Il comprend également la personnalisation du profil avec des avatars et des surnoms et est disponible dans le monde entier."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Obtenez-le, c'est gratuit !",
-    "anyQuestions": "Je suis prêt, offre-moi une fête Hotstar",
+    "anyQuestions": "Je suis prêt, offre-moi une Hulu Watch Party",
     "blog": "Blog",
     "privacy": "Confidentialité",
     "popularSearches": "Recherches populaires",
