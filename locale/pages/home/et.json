@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Kasutage Hulu Watch Party ja püsige sõpradega ühenduses",
-      "html": "Vaadake Hulu saateid ja filme täiuslikus sünkroonis inimestega võrgus ja püsige alati ühenduses erinevatest kohtadest. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> on tasuta laiendus, mis on loodud ainult selleks, et pakkuda ülemaailmsetele Hulu striimijatele sujuv voogesituskogemus sünkroonis nende sõprade/perega.",
+      "html": "Vaadake Hulu saateid ja filme täiuslikus sünkroonis inimestega võrgus ja püsige alati ühenduses erinevatest kohtadest. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> on tasuta laiendus, mis on loodud ainult selleks, et pakkuda ülemaailmsetele Hulu striimijatele sujuv voogesituskogemus sünkroonis nende sõprade/perega.  Vestelge reaalajas, jagage reaktsioone ja sukelduge jagatud vaatamiskogemusesse, mis tundub nagu kõrvuti vaatamine. Nautige ülimat viisi ühenduses püsimiseks ja lähedastega mälestuste loomiseks, isegi miilide kaugusel.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Kuidas Hulu Watch Partyga alustada?",
-      "subHeading": "Laiendus on loodud ja loodud eesmärgiga pakkuda kasutajatele sujuvat voogesituse kogemust. Laiendusega saate alustada mõne klõpsuga.",
+      "subHeading": "Laiendus on loodud kasutajatele sujuva voogesituse pakkumiseks. Selle kasutajasõbralik liides võimaldab teil alustada vaid mõne klõpsuga, muutes laienduse installimise ja seadistamise lihtsaks. Nautige hõlpsalt oma Hulu lemmiksaateid ja -filme täiuslikus sünkroonis sõprade ja perega:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -37,7 +37,7 @@
         {
           "id": "5",
           "question": "Looge kellapidu",
-          "answer": "Pärast video esitamist klõpsake oma tööriistaribal asuvat ikooni \"Laiendused\", et avada aken \"Loo pidu\". Seejärel puudutage peo URL-i hankimiseks nuppu \"Alusta pidu\". Kopeerige peo URL ja jagage seda inimestega, et neid peole kutsuda."
+          "answer": "Pärast video esitamist klõpsake akna \"Loo pidu\" avamiseks tööriistaribal ikooni \"Laiendused\". Seejärel puudutage peo URL-i hankimiseks nuppu \"Alusta pidu\". Kopeerige peo URL ja jagage seda inimestega, et neid peole kutsuda."
         },
         {
           "id": "5",
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Hulu peo omadused",
-      "subHeading": "Laiendusel on lai valik funktsioone, mis hõlbustavad Hulu hõlpsat voogesitust teie sõpradega võrgus.",
+      "subHeading": "Laiendusel on hulk funktsioone, mis hõlbustavad Hulu hõlpsat võrgus voogesitust teie sõpradega. Nende funktsioonide hulka kuuluvad sünkroonitud taasesitus, reaalajas grupivestlus, HD voogesitus ning ühilduvus Windowsi, macOS-i ja Chromebooki seadmetega. Samuti saate oma profiili isikupärastada avataride ja hüüdnimedega, muutes voogesituse lõbusamaks ja kaasahaaravamaks:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "Mida peaksin laienduse installimiseks või kasutamiseks tegema?",
-        "answer": "Teil peab olema järgmine:",
-        "p1": "Stabiilne internetiühendus.",
-        "p2": "Chromebook, macOS-i või Windowsi seade.",
-        "p3": "Google Chrome või Microsoft Edge brauser.",
-        "p4": "Hulu tellimus"
+        "question": "Kuidas installida ja seadistada Hulu Watch Party laiendus?",
+        "answer": "Installige laiendus Chromebooki, Windowsi või macOS-i seadmesse, kasutades Google Chrome'i või Microsoft Edge'i. Kinnitage nupp HWP oma tööriistaribale, logige sisse Hulusse, esitage video, klõpsake ikooni \"Laiendused\" ja valige URL-i sõpradega jagamiseks \"Alusta pidu\"."
+      },
+      {
+        "id": "f12",
+        "question": "Milliseid funktsioone pakub Hulu Watch Party laiendus?",
+        "answer": "Hulu Watch Party pakub reaalajas grupivestlust, HD-voogesitust ja ühilduvust Windowsi, macOS-i ja Chromebooki seadmetega. See sisaldab ka profiilide kohandamist avataride ja hüüdnimedega ning on saadaval kogu maailmas."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Hankige see, see on tasuta!",
-    "anyQuestions": "Olen valmis, andke mulle Hotstar Party",
+    "anyQuestions": "Olen valmis, andke mulle Hulu Watch Party",
     "blog": "Blogi",
     "privacy": "Privaatsus",
     "popularSearches": "Populaarsed otsingud",
@@ -161,7 +162,7 @@
       "Hulu vaatamispidu",
       "Vaadake Party Hulu",
       "Kuidas kasutada Hulu Watch Party",
-      "Kuidas vaadata pidu Hulus",
+      "Kuidas Hulus vaatamispidu korraldada",
       "Hulu pidu",
       "Kuidas Hulus vaatamispidu alustada",
       "Kuidas Hulus vaatamispidu pidada",

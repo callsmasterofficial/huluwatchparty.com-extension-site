@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Uporabite Hulu Watch Party in ostanite povezani s prijatelji",
-      "html": "Oglejte si oddaje in filme Hulu v popolni sinhronizaciji z ljudmi v spletu in vedno ostanite povezani z različnih lokacij. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> je brezplačna razširitev, ustvarjena izključno za zagotavljanje svetovnih pretakalcev Hulu z brezhibno izkušnjo pretakanja v sinhronizaciji s prijatelji/družino.",
+      "html": "Oglejte si oddaje in filme Hulu v popolni sinhronizaciji z ljudmi v spletu in vedno ostanite povezani z različnih lokacij. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> je brezplačna razširitev, ustvarjena izključno za zagotavljanje svetovnih pretakalcev Hulu z brezhibno izkušnjo pretakanja v sinhronizaciji s prijatelji/družino.  Klepetajte v realnem času, delite odzive in se potopite v skupno izkušnjo gledanja, ki se zdi, kot da bi gledali drug ob drugem. Uživajte v vrhunskem načinu, da ostanete povezani in ustvarjate spomine z najdražjimi, tudi kilometre narazen.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Kako začeti s Hulu Watch Party?",
-      "subHeading": "Razširitev je bila zasnovana in ustvarjena s ciljem, da uporabnikom zagotovi gladko izkušnjo pretakanja. Z razširitvijo lahko začnete z nekaj kliki.",
+      "subHeading": "Razširitev je bila zasnovana tako, da uporabnikom zagotavlja gladko izkušnjo pretakanja. Njegov uporabniku prijazen vmesnik vam omogoča, da začnete z le nekaj kliki, kar olajša namestitev in nastavitev razširitve. Brez težav uživajte v svojih najljubših oddajah in filmih Hulu v popolni sinhronizaciji s prijatelji in družino:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -27,7 +27,7 @@
         {
           "id": "3",
           "question": "Prijavite se v Hulu",
-          "answer": "Prijaviti se morate v svoj račun Hulu, če želite dostopati do televizijskih oddaj, serij, filmov ali vseh videoposnetkov Hulu in jih gledati skupaj z drugimi ljudmi v spletu."
+          "answer": "Prijaviti se morate v svoj račun Hulu, če želite dostopati do televizijskih oddaj, serij, filmov ali vseh videoposnetkov iz Hulu in jih gledati skupaj z drugimi ljudmi v spletu."
         },
         {
           "id": "4",
@@ -48,13 +48,13 @@
     },
     "three": {
       "heading": "Značilnosti Hulu Party",
-      "subHeading": "Razširitev ima široko paleto funkcij, ki omogočajo preprosto pretakanje Hulu s prijatelji na spletu.",
+      "subHeading": "Razširitev ima nabor funkcij, ki omogočajo enostavno spletno pretakanje Hulu s prijatelji. Te funkcije vključujejo sinhronizirano predvajanje, skupinski klepet v živo, HD pretakanje in združljivost z napravami Windows, macOS in Chromebook. Svoj profil lahko prilagodite tudi z avatarji in vzdevki, s čimer bo izkušnja pretakanja bolj zabavna in privlačna:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
           "id": "t1",
           "question": "Skupinski klepet v živo",
-          "answer": "Zabava ob ogledu Hulu vključuje funkcijo klepeta v živo, ki vam omogoča klepet z drugimi udeleženci, medtem ko skupaj pretakate videoposnetke Hulu."
+          "answer": "Hulu watch party je opremljen s funkcijo Live Chat, ki vam omogoča klepet z drugimi udeleženci, medtem ko skupaj pretakate videoposnetke Hulu."
         },
         {
           "id": "t2",
@@ -73,7 +73,7 @@
         },
         {
           "id": "t5",
-          "question": "Svetovni dostop",
+          "question": "Dostop po vsem svetu",
           "answer": "Razširitev Hulu Watch Party je na voljo v vseh državah. Zato lahko ne glede na to, kje ste, ustvarite ali se pridružite zabavi Hulu s prijatelji."
         }
       ]
@@ -103,7 +103,7 @@
         "answer": "Zabavo Hulu lahko ustvarite tako, da sledite spodnjim preprostim korakom:-",
         "p1": "Najprej se po namestitvi razširitve prijavite v svoj račun Hulu.",
         "p2": "Zdaj poiščite video, ki si ga želite ogledati s prijatelji.",
-        "p3": "Po tem predvajajte videoposnetek in pojdite na ikono razširitve.",
+        "p3": "Po tem predvajajte video in pojdite na ikono razširitve.",
         "p4": "Zdaj se bo odprl zavihek »Ustvari zabavo Hulu«. Kliknite gumb »Začni zabavo«.",
         "p5": "Opomba: če ne želite imeti popolnega nadzora nad zabavo, kliknite zeleni gumb, da jo izklopite. Če pa želite obdržati nadzor nad zabavo, bi morali",
         "p6": "Po tem se na zaslonu prikaže URL zabave Hulu. Kopirajte ta URL in ga delite s prijatelji, ki jih želite povabiti na zabavo Hulu."
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "Kaj moram imeti za namestitev ali uporabo razširitve?",
-        "answer": "Imeti morate naslednje: -",
-        "p1": "Stabilna internetna povezava.",
-        "p2": "Naprava Chromebook, macOS ali Windows.",
-        "p3": "Brskalnik Google Chrome ali Microsoft Edge.",
-        "p4": "Naročnina na Hulu"
+        "question": "Kako namestim in nastavim razširitev Hulu Watch Party?",
+        "answer": "Namestite razširitev v napravo Chromebook, Windows ali macOS z Google Chromom ali Microsoft Edge. Pripnite gumb HWP v svojo orodno vrstico, vpišite se v Hulu, predvajajte video, kliknite ikono »Razširitve« in izberite »Začni zabavo«, da delite URL s prijatelji."
+      },
+      {
+        "id": "f12",
+        "question": "Katere funkcije ponuja razširitev Hulu Watch Party?",
+        "answer": "Hulu Watch Party ponuja skupinski klepet v živo, HD pretakanje in združljivost z napravami Windows, macOS in Chromebook. Vključuje tudi prilagajanje profila z avatarji in vzdevki in je na voljo po vsem svetu."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Dobite ga, brezplačno je!",
-    "anyQuestions": "Pripravljen sem, podarite mi Hotstar Party",
+    "anyQuestions": "Pripravljen sem, podarite mi Hulu Watch Party",
     "blog": "Blog",
     "privacy": "Zasebnost",
     "popularSearches": "Priljubljena iskanja",
@@ -164,7 +165,7 @@
       "Kako narediti Watch Party na Hulu",
       "Hulu zabava",
       "Kako začeti Watch Party na Hulu",
-      "Kako organizirati Watch Party na Hulu",
+      "null",
       "Kaj gledati na Hulu",
       "Kaj gledati na Hulu prav zdaj",
       "Kaj gledati na Hulu"

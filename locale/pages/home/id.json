@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Gunakan Hulu Watch Party dan Tetap Terhubung dengan Teman",
-      "html": "Tonton acara dan film Hulu dalam sinkronisasi sempurna dengan orang-orang secara online dan selalu terhubung dari lokasi berbeda. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> adalah ekstensi gratis yang dibuat khusus untuk memberikan pengalaman kepada streamer Hulu di seluruh dunia pengalaman streaming yang lancar dan sinkron dengan teman/keluarga mereka.",
+      "html": "Tonton acara dan film Hulu dalam sinkronisasi sempurna dengan orang-orang secara online dan selalu terhubung dari lokasi berbeda. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> adalah ekstensi gratis yang dibuat khusus untuk memberikan pengalaman kepada streamer Hulu di seluruh dunia pengalaman streaming yang lancar dan sinkron dengan teman/keluarga mereka.  Ngobrol secara real-time, berbagi reaksi, dan benamkan diri Anda dalam pengalaman menonton bersama yang terasa seperti menonton secara berdampingan. Nikmati cara terbaik untuk tetap terhubung dan menciptakan kenangan bersama orang-orang terkasih, meski terpisah bermil-mil.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Bagaimana cara memulai Hulu Watch Party?",
-      "subHeading": "Ekstensi telah dirancang dan dibuat dengan tujuan untuk memberikan pengalaman streaming yang lancar kepada pengguna. Anda dapat memulai ekstensi dalam beberapa klik.",
+      "subHeading": "Ekstensi ini dirancang untuk memberikan pengalaman streaming yang lancar kepada pengguna. Antarmukanya yang ramah pengguna memungkinkan Anda memulai hanya dengan beberapa klik, sehingga memudahkan pemasangan dan pengaturan ekstensi. Nikmati acara dan film Hulu favorit Anda dalam sinkronisasi sempurna dengan teman dan keluarga dengan mudah:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Fitur Pesta Hulu",
-      "subHeading": "Ekstensi ini hadir dengan berbagai fitur yang memfasilitasi streaming Hulu dengan mudah dengan teman-teman Anda secara online.",
+      "subHeading": "Ekstensi ini memiliki serangkaian fitur yang memfasilitasi streaming online Hulu dengan teman-teman Anda. Fitur-fitur ini mencakup pemutaran tersinkronisasi, obrolan grup langsung, streaming HD, dan kompatibilitas dengan perangkat Windows, macOS, dan Chromebook. Anda juga dapat mempersonalisasi profil Anda dengan avatar dan nama panggilan, menjadikan pengalaman streaming lebih menyenangkan dan menarik:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "Apa yang harus saya miliki untuk menginstal atau menggunakan ekstensi tersebut?",
-        "answer": "Anda harus memiliki yang berikut:-",
-        "p1": "Koneksi internet yang stabil.",
-        "p2": "Perangkat Chromebook, macOS, atau Windows.",
-        "p3": "Peramban Google Chrome atau Microsoft Edge.",
-        "p4": "Langganan Hulu"
+        "question": "Bagaimana cara menginstal dan mengatur ekstensi Hulu Watch Party?",
+        "answer": "Instal ekstensi di perangkat Chromebook, Windows, atau macOS menggunakan Google Chrome atau Microsoft Edge. Sematkan tombol HWP ke toolbar Anda, masuk ke Hulu, putar video, klik ikon “Ekstensi”, dan pilih “Mulai Pesta” untuk membagikan URL dengan teman-teman."
+      },
+      {
+        "id": "f12",
+        "question": "Fitur apa saja yang ditawarkan ekstensi Hulu Watch Party?",
+        "answer": "Hulu Watch Party menawarkan obrolan grup langsung, streaming HD, dan kompatibilitas dengan perangkat Windows, macOS, dan Chromebook. Ini juga mencakup penyesuaian profil dengan avatar dan nama panggilan dan tersedia di seluruh dunia."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Dapatkan, Gratis!",
-    "anyQuestions": "Saya siap, Beri saya Pesta Hotstar",
+    "anyQuestions": "Saya siap, Beri saya Hulu Watch Party",
     "blog": "Blog",
     "privacy": "Pribadi",
     "popularSearches": "Pencarian Populer",

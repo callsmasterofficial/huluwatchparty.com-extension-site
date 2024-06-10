@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Korzystaj z Hulu Watch Party i pozostawaj w kontakcie ze znajomymi",
-      "html": "Oglądaj programy i filmy Hulu w doskonałej synchronizacji z ludźmi online i zawsze utrzymuj kontakt z różnych lokalizacji. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> to bezpłatne rozszerzenie stworzone wyłącznie w celu zapewnienia streamerom Hulu z całego świata płynne przesyłanie strumieniowe zsynchronizowane z przyjaciółmi/rodziną.",
+      "html": "Oglądaj programy i filmy Hulu w doskonałej synchronizacji z ludźmi online i zawsze utrzymuj kontakt z różnych lokalizacji. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> to bezpłatne rozszerzenie stworzone wyłącznie w celu zapewnienia streamerom Hulu z całego świata płynne przesyłanie strumieniowe zsynchronizowane z przyjaciółmi/rodziną.  Czatuj w czasie rzeczywistym, dziel się reakcjami i zanurz się we wspólnym oglądaniu, które przypomina oglądanie obok siebie. Korzystaj z najlepszego sposobu na pozostawanie w kontakcie i tworzenie wspomnień z bliskimi, nawet oddalonymi o wiele kilometrów.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
-      "heading": "Jak rozpocząć udział w Hulu Watch Party?",
-      "subHeading": "Rozszerzenie zostało zaprojektowane i stworzone z myślą o zapewnieniu użytkownikom płynnego przesyłania strumieniowego. Możesz rozpocząć korzystanie z rozszerzenia za pomocą kilku kliknięć.",
+      "heading": "Jak rozpocząć imprezę Hulu Watch Party?",
+      "subHeading": "Rozszerzenie zostało zaprojektowane, aby zapewnić użytkownikom płynne przesyłanie strumieniowe. Przyjazny dla użytkownika interfejs pozwala rozpocząć pracę za pomocą zaledwie kilku kliknięć, co ułatwia instalację i konfigurację rozszerzenia. Ciesz się ulubionymi programami i filmami Hulu w doskonałej synchronizacji z przyjaciółmi i rodziną, bez wysiłku:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Cechy Hulu Party",
-      "subHeading": "Rozszerzenie zawiera szeroką gamę funkcji ułatwiających łatwe przesyłanie strumieniowe Hulu ze znajomymi online.",
+      "subHeading": "Rozszerzenie posiada szereg funkcji ułatwiających łatwe przesyłanie strumieniowe online Hulu ze znajomymi. Funkcje te obejmują zsynchronizowane odtwarzanie, czat grupowy na żywo, przesyłanie strumieniowe w jakości HD oraz zgodność z urządzeniami z systemem Windows, macOS i Chromebookiem. Możesz także spersonalizować swój profil za pomocą awatarów i pseudonimów, dzięki czemu przesyłanie strumieniowe będzie przyjemniejsze i wciągające:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -140,19 +140,20 @@
       },
       {
         "id": "f11",
-        "question": "Co powinienem zainstalować lub używać rozszerzenia?",
-        "answer": "Musisz mieć następujące elementy: -",
-        "p1": "Stabilne łącze internetowe.",
-        "p2": "Urządzenie Chromebook, macOS lub Windows.",
-        "p3": "Przeglądarka Google Chrome lub Microsoft Edge.",
-        "p4": "Subskrypcja Hulu"
+        "question": "Jak zainstalować i skonfigurować rozszerzenie Hulu Watch Party?",
+        "answer": "Zainstaluj rozszerzenie na urządzeniu Chromebook, Windows lub macOS, korzystając z przeglądarki Google Chrome lub Microsoft Edge. Przypnij przycisk HWP do paska narzędzi, zaloguj się do Hulu, odtwórz wideo, kliknij ikonę „Rozszerzenia” i wybierz „Rozpocznij imprezę”, aby udostępnić adres URL znajomym."
+      },
+      {
+        "id": "f12",
+        "question": "Jakie funkcje oferuje rozszerzenie Hulu Watch Party?",
+        "answer": "Hulu Watch Party oferuje czat grupowy na żywo, przesyłanie strumieniowe w jakości HD oraz zgodność z urządzeniami z systemem Windows, macOS i Chromebookiem. Obejmuje także dostosowywanie profilu za pomocą awatarów i pseudonimów i jest dostępna na całym świecie."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Zdobądź to, to nic nie kosztuje!",
-    "anyQuestions": "Jestem gotowy, zrób mi imprezę Hotstar",
-    "blog": "Bloga",
+    "anyQuestions": "Jestem gotowy. Daj mi Hulu Watch Party",
+    "blog": "Blog",
     "privacy": "Prywatność",
     "popularSearches": "popularne wyszukiwania",
     "disclaimer": "Zastrzeżenie",

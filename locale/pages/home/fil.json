@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Gamitin ang Hulu Watch Party at Manatiling Konektado sa Mga Kaibigan",
-      "html": "Manood ng mga palabas at pelikula sa Hulu sa perpektong pag-sync sa mga tao online at palaging manatiling konektado mula sa iba't ibang lokasyon. Ang <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> ay isang libreng extension na eksklusibong nilikha upang magbigay ng mga streamer sa Hulu sa buong mundo ng isang walang putol na karanasan sa streaming na naka-sync sa kanilang mga kaibigan/pamilya.",
+      "html": "Manood ng mga palabas at pelikula sa Hulu sa perpektong pag-sync sa mga tao online at palaging manatiling konektado mula sa iba't ibang lokasyon. Ang <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> ay isang libreng extension na eksklusibong nilikha upang magbigay ng mga streamer sa Hulu sa buong mundo ng isang walang putol na karanasan sa streaming na naka-sync sa kanilang mga kaibigan/pamilya.  Makipag-chat sa real-time, magbahagi ng mga reaksyon, at isawsaw ang iyong sarili sa isang nakabahaging karanasan sa panonood na parang panonood nang magkatabi. Tangkilikin ang pinakamahusay na paraan upang manatiling konektado at gumawa ng mga alaala kasama ang mga mahal sa buhay, kahit milya-milya ang pagitan.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Paano magsimula sa Hulu Watch Party?",
-      "subHeading": "Ang extension ay idinisenyo at ginawa na may layuning mabigyan ang mga user ng maayos na karanasan sa streaming. Maaari kang magsimula sa extension sa ilang mga pag-click.",
+      "subHeading": "Ang extension ay idinisenyo upang mabigyan ang mga user ng maayos na karanasan sa streaming. Nagbibigay-daan sa iyo ang user-friendly na interface nito na makapagsimula sa ilang pag-click lang, na ginagawang madali ang pag-install at pag-set up ng extension. Masiyahan sa iyong mga paboritong palabas at pelikula sa Hulu sa perpektong pag-sync sa mga kaibigan at pamilya nang walang kahirap-hirap:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Mga Tampok ng Hulu Party",
-      "subHeading": "Ang extension ay may malawak na hanay ng mga feature na nagpapadali sa Hulu streaming sa iyong mga kaibigan online.",
+      "subHeading": "Ang extension ay may isang hanay ng mga tampok na nagpapadali sa madaling Hulu online streaming sa iyong mga kaibigan. Kasama sa mga feature na ito ang naka-synchronize na playback, live group chat, HD streaming, at compatibility sa Windows, macOS, at Chromebook device. Maaari mo ring i-personalize ang iyong profile gamit ang mga avatar at nickname, na ginagawang mas masaya at nakakaengganyo ang karanasan sa streaming:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -64,17 +64,17 @@
         {
           "id": "t3",
           "question": "Manood sa iba't ibang device",
-          "answer": "Sinusuportahan ang malawak na hanay ng mga device. Magagamit mo ang extension sa iyong Windows, macOS, o Chromebook na mga laptop at PC."
+          "answer": "Sinusuportahan ang malawak na hanay ng mga device. Maaari mong gamitin ang extension sa iyong Windows, macOS, o Chromebook na mga laptop at PC."
         },
         {
           "id": "t4",
           "question": "Mga tool sa pagpapasadya",
-          "answer": "Maaari mong i-customize ang iyong profile gamit ang mga nakakatawang avatar at palayaw. Bukod pa riyan, maaari mo ring ilagay ang iyong palayaw na lalabas sa iyong mga kaibigan sa chat ng grupo o habang nanonood ng mga video na naka-sync."
+          "answer": "Maaari mong i-customize ang iyong profile gamit ang mga nakakatawang avatar at palayaw. Bukod pa riyan, maaari mo ring ilagay ang iyong palayaw na lalabas sa iyong mga kaibigan habang nakikipag-chat sa grupo o habang nanonood ng mga video na naka-sync."
         },
         {
           "id": "t5",
           "question": "Pandaigdigang Pag-access",
-          "answer": "Ang extension ng Hulu Watch Party ay available sa lahat ng bansa. Samakatuwid, nasaan ka man, maaari kang lumikha o sumali sa isang Hulu party kasama ang iyong mga kaibigan."
+          "answer": "Available ang extension ng Hulu Watch Party sa lahat ng bansa. Samakatuwid, nasaan ka man, maaari kang lumikha o sumali sa isang Hulu party kasama ang iyong mga kaibigan."
         }
       ]
     }
@@ -104,7 +104,7 @@
         "p1": "Una sa lahat, mag-sign in sa iyong Hulu account pagkatapos i-install ang extension.",
         "p2": "Ngayon, hanapin ang video na gusto mong panoorin kasama ng mga kaibigan.",
         "p3": "Pagkatapos nito, i-play ang video at pumunta sa icon ng extension.",
-        "p4": "Ngayon, magbubukas ang tab na \"Gumawa ng Hulu Party\". Dapat mong i-click ang pindutang \"Simulan ang Party\".",
+        "p4": "Ngayon, magbubukas ang tab na \"Gumawa ng Hulu Party\". Dapat mong i-click ang \"Start the Party\" na buton.",
         "p5": "Tandaan: kung hindi mo gustong magkaroon ng kumpletong kontrol sa party ng panonood, dapat mong i-click ang berdeng button para i-off ito. Gayunpaman, kung gusto mong panatilihin ang kontrol ng partido, dapat mo",
         "p6": "Pagkatapos nito, lalabas sa screen ang Hulu party URL. Pakikopya ang URL na ito at ibahagi ito sa iyong mga kaibigan na gusto mong imbitahan sa Hulu party."
       },
@@ -115,7 +115,7 @@
       },
       {
         "id": "f6",
-        "question": "Maaari ba akong makipag-group chat sa aking mga kaibigan sa oras ng panonood?",
+        "question": "Maaari din ba akong makipag-group chat sa aking mga kaibigan sa oras ng panonood?",
         "answer": "Oo, maaari kang magkaroon ng panggrupong chat habang nanonood ng mga pelikula, Palabas sa TV, o anumang video sa Hulu kasama ang iyong mga kaibigan."
       },
       {
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "Ano ang dapat kong i-install o gamitin ang extension?",
-        "answer": "Dapat mayroon kang mga sumusunod:-",
-        "p1": "Isang matatag na koneksyon sa internet.",
-        "p2": "Isang Chromebook, macOS, o Windows device.",
-        "p3": "Google Chrome o Microsoft Edge browser.",
-        "p4": "Isang subscription sa Hulu"
+        "question": "Paano ko ii-install at ise-set up ang extension ng Hulu Watch Party?",
+        "answer": "I-install ang extension sa isang Chromebook, Windows, o macOS device gamit ang Google Chrome o Microsoft Edge. I-pin ang HWP button sa iyong toolbar, mag-sign in sa Hulu, mag-play ng video, i-click ang icon na \"Mga Extension\", at piliin ang \"Start the Party\" para ibahagi ang URL sa mga kaibigan."
+      },
+      {
+        "id": "f12",
+        "question": "Anong mga tampok ang inaalok ng extension ng Hulu Watch Party?",
+        "answer": "Nag-aalok ang Hulu Watch Party ng live group chat, HD streaming, at compatibility sa Windows, macOS, at Chromebook device. Kasama rin dito ang pagpapasadya ng profile na may mga avatar at palayaw at available sa buong mundo."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Kunin ito, Ito ay Libre!",
-    "anyQuestions": "Handa na ako, Bigyan mo ako ng Hotstar Party",
+    "anyQuestions": "Handa na ako, Bigyan mo ako ng Hulu Watch Party",
     "blog": "Blog",
     "privacy": "Pagkapribado",
     "popularSearches": "Mga Patok na Paghahanap",
@@ -167,7 +168,7 @@
       "Paano magkaroon ng Watch Party sa Hulu",
       "Ano ang Panoorin sa Hulu",
       "Ano ang Panoorin sa Hulu Ngayon",
-      "Ano ang Dapat Panoorin sa Hulu"
+      "Ano ang Mapapanood sa Hulu"
     ]
   }
 }

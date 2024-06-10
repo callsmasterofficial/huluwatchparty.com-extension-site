@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Use Hulu Watch Party and Stay Connected with Friends",
-      "html": "Watch Hulu shows and movies in perfect sync with people online and always stay connected from different locations. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> is a free extension exclusively created to provide worldwide Hulu streamers with a seamless streaming experience in sync with their friends/family.",
+      "html": "Watch Hulu shows and movies in perfect sync with people online and always stay connected from different locations. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> is a free extension exclusively created to provide worldwide Hulu streamers with a seamless streaming experience in sync with their friends/family.  Chat in real-time, share reactions, and immerse yourself in a shared viewing experience that feels just like watching side by side. Enjoy the ultimate way to stay connected and make memories with loved ones, even miles apart.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "How to get started with the Hulu Watch Party?",
-      "subHeading": "The extension has been designed and created with the goal to provide the users with a smooth streaming experience. You can get started with the extension in a few clicks.",
+      "subHeading": "The extension has been designed to provide users with a smooth streaming experience. Its user-friendly interface allows you to get started with just a few clicks, making installing and setting up the extension easy. Enjoy your favorite Hulu shows and movies in perfect sync with friends and family effortlessly:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Features of Hulu Party",
-      "subHeading": "The extension comes with a wide range of features that facilitates easy Hulu streaming with your friends online.",
+      "subHeading": "The extension has an array of features that facilitate easy Hulu online streaming with your friends. These features include synchronized playback, live group chat, HD streaming, and compatibility with Windows, macOS, and Chromebook devices. You can also personalize your profile with avatars and nicknames, making the streaming experience more fun and engaging:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "What should I have to install or use the extension?",
-        "answer": "You must have the following:-",
-        "p1": "A stable internet connection.",
-        "p2": "A Chromebook, macOS, or Windows device.",
-        "p3": "Google Chrome or Microsoft Edge browser.",
-        "p4": "A Hulu subscription"
+        "question": "How do I install and set up the Hulu Watch Party extension?",
+        "answer": "Install the extension on a Chromebook, Windows, or macOS device using Google Chrome or Microsoft Edge. Pin the HWP button to your toolbar, sign in to Hulu, play a video, click the “Extensions” icon, and select “Start the Party” to share the URL with friends."
+      },
+      {
+        "id": "f12",
+        "question": "What features does the Hulu Watch Party extension offer?",
+        "answer": "Hulu Watch Party offers live group chat, HD streaming, and compatibility with Windows, macOS, and Chromebook devices. It also includes profile customization with avatars and nicknames and is available worldwide."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Get it, Its Free!",
-    "anyQuestions": "I'm ready, Give me Hotstar Party",
+    "anyQuestions": "I'm ready, Give me Hulu Watch Party",
     "blog": "Blog",
     "privacy": "Privacy",
     "popularSearches": "Popular Searches",

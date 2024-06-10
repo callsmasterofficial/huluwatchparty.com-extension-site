@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Utilitzeu Hulu Watch Party i mantingueu-vos connectat amb els amics",
-      "html": "Mireu programes i pel·lícules de Hulu en perfecta sincronització amb la gent en línia i mantingueu-vos sempre connectat des de diferents llocs. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> és una extensió gratuïta creada exclusivament per oferir als streamers de Hulu de tot el món un experiència de reproducció perfecta sincronitzada amb els seus amics/família.",
+      "html": "Mireu programes i pel·lícules de Hulu en perfecta sincronització amb la gent en línia i mantingueu-vos sempre connectat des de diferents llocs. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> és una extensió gratuïta creada exclusivament per oferir als streamers de Hulu de tot el món un experiència de reproducció perfecta sincronitzada amb els seus amics/família.  Xateja en temps real, comparteix reaccions i submergeix-te en una experiència de visualització compartida que sembla com veure'ls un al costat de l'altre. Gaudeix de la millor manera de mantenir-te connectat i crear records amb els teus éssers estimats, fins i tot a quilòmetres de distància.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Com començar amb la Hulu Watch Party?",
-      "subHeading": "L'extensió s'ha dissenyat i creat amb l'objectiu de proporcionar als usuaris una experiència de transmissió fluida. Podeu començar amb l'extensió amb uns quants clics.",
+      "subHeading": "L'extensió s'ha dissenyat per oferir als usuaris una experiència de transmissió fluida. La seva interfície fàcil d'utilitzar us permet començar amb només uns quants clics, facilitant la instal·lació i la configuració de l'extensió. Gaudeix dels teus programes i pel·lícules preferides de Hulu en perfecta sincronització amb els amics i la família sense esforç:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Característiques de Hulu Party",
-      "subHeading": "L'extensió inclou una àmplia gamma de funcions que facilita la transmissió de Hulu amb els vostres amics en línia.",
+      "subHeading": "L'extensió té una sèrie de funcions que faciliten la transmissió en línia de Hulu amb els vostres amics. Aquestes funcions inclouen la reproducció sincronitzada, el xat de grup en directe, la transmissió en HD i la compatibilitat amb dispositius Windows, macOS i Chromebook. També pots personalitzar el teu perfil amb avatars i sobrenoms, fent que l'experiència de transmissió sigui més divertida i atractiva:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -105,7 +105,7 @@
         "p2": "Ara, cerqueu el vídeo que voleu veure amb els amics.",
         "p3": "Després d'això, reproduïu el vídeo i aneu a la icona de l'extensió.",
         "p4": "Ara, s'obrirà la pestanya \"Crea una festa Hulu\". Hauríeu de fer clic al botó \"Comença la festa\".",
-        "p5": "Nota: si no voleu tenir un control complet de la festa del rellotge, heu de fer clic al botó verd per desactivar-la. Tanmateix, si voleu mantenir el control de la festa, ho hauríeu de fer",
+        "p5": "Nota: si no voleu tenir el control complet de la festa del rellotge, heu de fer clic al botó verd per desactivar-la. Tanmateix, si voleu mantenir el control de la festa, ho hauríeu de fer",
         "p6": "Després d'això, l'URL de la festa Hulu apareixerà a la pantalla. Copieu aquest URL i compartiu-lo amb els vostres amics que vulgueu convidar a la festa de Hulu."
       },
       {
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "Què he de tenir per instal·lar o utilitzar l'extensió?",
-        "answer": "Heu de tenir el següent: -",
-        "p1": "Una connexió estable a Internet.",
-        "p2": "Un dispositiu Chromebook, macOS o Windows.",
-        "p3": "Navegador Google Chrome o Microsoft Edge.",
-        "p4": "Una subscripció a Hulu"
+        "question": "Com instal·lo i configuro l'extensió Hulu Watch Party?",
+        "answer": "Instal·leu l'extensió en un dispositiu Chromebook, Windows o macOS mitjançant Google Chrome o Microsoft Edge. Fixeu el botó HWP a la vostra barra d'eines, inicieu la sessió a Hulu, reproduïu un vídeo, feu clic a la icona \"Extensions\" i seleccioneu \"Comença la festa\" per compartir l'URL amb els amics."
+      },
+      {
+        "id": "f12",
+        "question": "Quines funcions ofereix l'extensió Hulu Watch Party?",
+        "answer": "Hulu Watch Party ofereix xat grupal en directe, transmissió en HD i compatibilitat amb dispositius Windows, macOS i Chromebook. També inclou la personalització del perfil amb avatars i sobrenoms i està disponible a tot el món."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Aconsegueix-ho, és gratuït!",
-    "anyQuestions": "Estic llest, regala'm la festa Hotstar",
+    "anyQuestions": "Estic preparat, dóna'm la festa de Hulu Watch",
     "blog": "Bloc",
     "privacy": "Privadesa",
     "popularSearches": "Cerques populars",
@@ -159,7 +160,7 @@
     "disclaimerContent": "Hulu és una marca comercial de Hulu, LLC. Aquest lloc web",
     "footerTags": [
       "Hulu Watch Party",
-      "Mireu Party Hulu",
+      "Veure Party Hulu",
       "Com utilitzar Hulu Watch Party",
       "Com fer Watch Party a Hulu",
       "Festa Hulu",

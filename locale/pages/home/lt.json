@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Naudokite „Hulu Watch Party“ ir palaikykite ryšį su draugais",
-      "html": "Žiūrėkite Hulu laidas ir filmus puikiai sinchronizuodami su žmonėmis internete ir visada palaikykite ryšį iš skirtingų vietų. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> yra nemokamas plėtinys, sukurtas išskirtinai siekiant suteikti visame pasaulyje Hulu transliuotojams vientisa srautinio perdavimo patirtis sinchronizuojama su draugais / šeima.",
+      "html": "Žiūrėkite Hulu laidas ir filmus puikiai sinchronizuodami su žmonėmis internete ir visada palaikykite ryšį iš skirtingų vietų. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> yra nemokamas plėtinys, sukurtas išskirtinai siekiant suteikti visame pasaulyje Hulu transliuotojams vientisa srautinio perdavimo patirtis sinchronizuojama su draugais / šeima.  Kalbėkitės realiuoju laiku, dalinkitės reakcijomis ir pasinerkite į bendrą žiūrėjimo patirtį, kuri atrodo lyg žiūrėtumėte vienas šalia kito. Mėgaukitės geriausiu būdu palaikyti ryšį ir prisiminti su artimaisiais net mylių atstumu.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Kaip pradėti „Hulu Watch Party“?",
-      "subHeading": "Plėtinys buvo sukurtas ir sukurtas siekiant suteikti vartotojams sklandų srautinio perdavimo patirtį. Galite pradėti naudoti plėtinį keliais paspaudimais.",
+      "subHeading": "Plėtinys buvo sukurtas taip, kad vartotojams būtų suteikta sklandi srautinio perdavimo patirtis. Jo patogi sąsaja leidžia pradėti vos keliais paspaudimais, todėl plėtinį įdiegti ir nustatyti lengva. Mėgaukitės mėgstamomis „Hulu“ laidomis ir filmais tobulai sinchronizuodami su draugais ir šeima be jokių pastangų:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "„Hulu Party“ ypatybės",
-      "subHeading": "Plėtinyje yra daugybė funkcijų, kurios palengvina „Hulu“ srautinį perdavimą su draugais internete.",
+      "subHeading": "Plėtinys turi daugybę funkcijų, kurios palengvina „Hulu“ internetinį srautinį perdavimą su draugais. Šios funkcijos apima sinchronizuotą atkūrimą, tiesioginį grupės pokalbį, HD srautinį perdavimą ir suderinamumą su „Windows“, „MacOS“ ir „Chromebook“ įrenginiais. Taip pat galite suasmeninti savo profilį naudodami pseudoportretus ir slapyvardžius, kad srautinis perdavimas būtų įdomesnis ir patrauklesnis:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "Ką turėčiau turėti norint įdiegti arba naudoti plėtinį?",
-        "answer": "Jūs turite turėti šiuos dalykus:",
-        "p1": "Stabilus interneto ryšys.",
-        "p2": "„Chromebook“, „MacOS“ arba „Windows“ įrenginys.",
-        "p3": "„Google Chrome“ arba „Microsoft Edge“ naršyklė.",
-        "p4": "„Hulu“ prenumerata"
+        "question": "Kaip įdiegti ir nustatyti „Hulu Watch Party“ plėtinį?",
+        "answer": "Įdiekite plėtinį „Chromebook“, „Windows“ arba „MacOS“ įrenginyje naudodami „Google Chrome“ arba „Microsoft Edge“. Prisekite mygtuką HWP prie įrankių juostos, prisijunkite prie „Hulu“, paleiskite vaizdo įrašą, spustelėkite piktogramą „Plėtiniai“ ir pasirinkite „Pradėti vakarėlį“, kad bendrintumėte URL su draugais."
+      },
+      {
+        "id": "f12",
+        "question": "Kokias funkcijas siūlo „Hulu Watch Party“ plėtinys?",
+        "answer": "„Hulu Watch Party“ siūlo tiesioginį grupės pokalbį, HD srautinį perdavimą ir suderinamumą su „Windows“, „MacOS“ ir „Chromebook“ įrenginiais. Tai taip pat apima profilio tinkinimą su avatarais ir slapyvardžiais ir yra prieinama visame pasaulyje."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Gaukite tai nemokamai!",
-    "anyQuestions": "Aš pasiruošęs, duok man „Hotstar Party“.",
+    "anyQuestions": "Aš pasiruošęs, duok man „Hulu Watch Party“.",
     "blog": "Dienoraštis",
     "privacy": "Privatumas",
     "popularSearches": "Populiarios paieškos",

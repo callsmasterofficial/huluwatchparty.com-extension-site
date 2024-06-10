@@ -6,12 +6,12 @@
   "section": {
     "first": {
       "heading": "Gebruik Hulu Watch Party en blijf verbonden met vrienden",
-      "html": "Bekijk Hulu-shows en films perfect gesynchroniseerd met mensen online en blijf altijd verbonden vanaf verschillende locaties. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> is een gratis extensie die exclusief is gemaakt om wereldwijde Hulu-streamers te voorzien van een naadloze streamingervaring, gesynchroniseerd met hun vrienden/familie.",
+      "html": "Bekijk Hulu-shows en films perfect gesynchroniseerd met mensen online en blijf altijd verbonden vanaf verschillende locaties. <a href=\"https://www.huluwatchparty.com\"><u><b>Hulu Watch Party</b></u></a> is een gratis extensie die exclusief is gemaakt om wereldwijde Hulu-streamers te voorzien van een naadloze streamingervaring, gesynchroniseerd met hun vrienden/familie.  Chat in realtime, deel reacties en dompel jezelf onder in een gedeelde kijkervaring die voelt alsof je naast elkaar kijkt. Geniet van de ultieme manier om verbonden te blijven en herinneringen te maken met dierbaren, zelfs kilometers ver van elkaar verwijderd.",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
     },
     "second": {
       "heading": "Hoe begin je met de Hulu Watch Party?",
-      "subHeading": "De extensie is ontworpen en gemaakt met als doel de gebruikers een soepele streamingervaring te bieden. Met een paar klikken kun je aan de slag met de extensie.",
+      "subHeading": "De extensie is ontworpen om gebruikers een soepele streamingervaring te bieden. Dankzij de gebruiksvriendelijke interface kunt u met slechts een paar klikken aan de slag, waardoor het installeren en instellen van de extensie eenvoudig is. Geniet moeiteloos van je favoriete Hulu-shows en films, perfect gesynchroniseerd met vrienden en familie:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
       "accordian": [
         {
@@ -27,7 +27,7 @@
         {
           "id": "3",
           "question": "Meld u aan bij Hulu",
-          "answer": "U moet inloggen op uw Hulu-account om toegang te krijgen tot tv-programma's, series, films of alle video's van Hulu en deze samen met andere mensen online te bekijken."
+          "answer": "Je moet inloggen op je Hulu-account om toegang te krijgen tot tv-programma's, series, films of alle video's van Hulu en deze samen met andere mensen online te bekijken."
         },
         {
           "id": "4",
@@ -48,7 +48,7 @@
     },
     "three": {
       "heading": "Kenmerken van Hulu Party",
-      "subHeading": "De extensie wordt geleverd met een breed scala aan functies die het eenvoudig maken van Hulu-streaming met je vrienden online.",
+      "subHeading": "De extensie heeft een scala aan functies die het eenvoudig maken van Hulu online streaming met je vrienden mogelijk maken. Deze functies omvatten gesynchroniseerd afspelen, live groepschat, HD-streaming en compatibiliteit met Windows-, macOS- en Chromebook-apparaten. Je kunt je profiel ook personaliseren met avatars en bijnamen, waardoor de streamingervaring leuker en boeiender wordt:",
       "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
       "accordian": [
         {
@@ -90,12 +90,12 @@
       {
         "id": "f2",
         "question": "Wie kan de extensie gebruiken?",
-        "answer": "Iedereen die een Hulu-abonnement heeft, kan de extensie gebruiken om Hulu-shows, series of video's online te bekijken, perfect gesynchroniseerd met andere mensen die ver weg wonen."
+        "answer": "Iedereen die een Hulu-abonnement heeft, kan de extensie gebruiken om Hulu-shows, series of video's online te bekijken, perfect synchroon met andere mensen die ver weg wonen."
       },
       {
         "id": "f3",
         "question": "Kan ik Hulu Watch Party op mijn mobiel gebruiken?",
-        "answer": "Momenteel is de extensie alleen compatibel met Windows-, Chromebook- of macOS-laptops en pc's. Je kunt de extensie dus niet gebruiken op je mobiel of tablet."
+        "answer": "Momenteel is de extensie alleen compatibel met Windows-, Chromebook- of macOS-laptops en pc's. Je kunt de extensie dus niet op je mobiel of tablet gebruiken."
       },
       {
         "id": "f4",
@@ -140,18 +140,19 @@
       },
       {
         "id": "f11",
-        "question": "Wat heb ik nodig om de extensie te installeren of te gebruiken?",
-        "answer": "Je moet het volgende hebben: -",
-        "p1": "Een stabiele internetverbinding.",
-        "p2": "Een Chromebook, macOS of Windows-apparaat.",
-        "p3": "Google Chrome of Microsoft Edge-browser.",
-        "p4": "Een Hulu-abonnement"
+        "question": "Hoe installeer en configureer ik de Hulu Watch Party-extensie?",
+        "answer": "Installeer de extensie op een Chromebook, Windows of macOS-apparaat met Google Chrome of Microsoft Edge. Zet de HWP-knop vast op uw werkbalk, meld u aan bij Hulu, speel een video af, klik op het pictogram 'Extensies' en selecteer 'Start the Party' om de URL met vrienden te delen."
+      },
+      {
+        "id": "f12",
+        "question": "Welke functies biedt de Hulu Watch Party-extensie?",
+        "answer": "Hulu Watch Party biedt live groepschat, HD-streaming en compatibiliteit met Windows-, macOS- en Chromebook-apparaten. Het omvat ook profielaanpassing met avatars en bijnamen en is wereldwijd beschikbaar."
       }
     ]
   },
   "footer": {
     "letUsKnow": "Haal het, het is gratis!",
-    "anyQuestions": "Ik ben er klaar voor, geef me Hotstar Party",
+    "anyQuestions": "Ik ben er klaar voor, geef me Hulu Watch Party",
     "blog": "Bloggen",
     "privacy": "Privacy",
     "popularSearches": "populaire zoekopdrachten",
