@@ -26,7 +26,11 @@ function Text2({ installBtn, home }) {
         {/* video start here */}
         <div className="video-box  ml-2 md:mt-0 md:w-[50%] ">
           <video controls autoPlay muted>
-            <source src={home.section.three.video} />
+            <source
+              src={
+                'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HuluParty.mp4'
+              }
+            />
           </video>
         </div>
       </div>

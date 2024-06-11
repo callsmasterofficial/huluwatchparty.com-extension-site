@@ -35,7 +35,12 @@ function Text({ installBtn, home }) {
           {/* video */}
           <div className="paragraph-box mb-16 w-[100%] md:w-[50%]">
             <video className="video mt-10 md:m-0" controls autoPlay muted>
-              <source src={home.section.first.video} type="video/mp4" />
+              <source
+                src={
+                  'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Hulu-Party-Video-01.mp4'
+                }
+                type="video/mp4"
+              />
             </video>
           </div>
         </div>
@@ -63,7 +68,12 @@ function Text({ installBtn, home }) {
             <div className="main-video-text-container mt-5 md:flex ">
               <div className="video-box m-auto -mt-6 w-[100%] pt-[30px] md:mr-[24px] md:mt-0 md:w-[50%]">
                 <video className="video " controls autoPlay muted>
-                  <source src={home.section.second.video} type="video/mp4" />
+                  <source
+                    src={
+                      'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Hulu-Party.mp4'
+                    }
+                    type="video/mp4"
+                  />
                 </video>
               </div>
               {/* textcontainer start here */}

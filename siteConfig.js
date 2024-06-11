@@ -19,14 +19,14 @@ export default {
       Watch Hulu shows and movies in perfect sync with people online and always stay connected from different locations. <a href="https://www.huluwatchparty.com"><u><b>Hulu Watch Party</b></u></a>  is a free extension exclusively created to provide worldwide Hulu streamers with a seamless streaming experience in sync with their friends/family.
       `,
       video:
-        'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4',
+        'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Hulu-Party-Video-01.mp4',
     },
     second: {
       heading: 'How to get started with the Hulu Watch Party?',
       subHeading:
         'The extension has been designed and created with the goal to provide the users with a smooth streaming experience. You can get started with the extension in a few clicks.',
       video:
-        'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4',
+        'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/How-to-use-Hulu-Party.mp4',
       accordian: [
         {
           id: 1,
@@ -76,7 +76,7 @@ export default {
       subHeading:
         'The extension comes with a wide range of features that facilitates easy Hulu streaming with your friends online.',
       video:
-        'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4',
+        'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/Customize-your-HuluParty.mp4',
       accordian: [
         {
           id: 't1',
