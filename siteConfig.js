@@ -6,9 +6,9 @@ export default {
   siteId: '62a85d3092c68b0d2f1e408a',
   extLink: {
     chrome:
-      'https://chromewebstore.google.com/detail/teleparty/mcnbfjjgfmgcbljkoaaadoddokbmnlln',
-    firefox: 'https://addons.mozilla.org/firefox/addon/teleparty-firefox/',
-    edge: 'https://microsoftedge.microsoft.com/addons/detail/ghnimpmnmdnjbinopmhmjhnnjmflficn',
+      'https://chromewebstore.google.com/detail/hulu-watch-party/mgkpcoadgafeflldnbpmkokhpchgpipa',
+    firefox: '',
+    edge: 'https://chromewebstore.google.com/detail/hulu-watch-party/mgkpcoadgafeflldnbpmkokhpchgpipa',
   },
   logo: 'https://www.huluwatchparty.com/logo.png',
   gtagId: '210302098-2',
