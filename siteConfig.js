@@ -8,7 +8,7 @@ export default {
     chrome:
       'https://chromewebstore.google.com/detail/hulu-watch-party/mgkpcoadgafeflldnbpmkokhpchgpipa',
     firefox: '',
-    edge: 'https://chromewebstore.google.com/detail/hulu-watch-party/mgkpcoadgafeflldnbpmkokhpchgpipa',
+    edge: 'https://microsoftedge.microsoft.com/addons/detail/oobopobmjdkojlcgfckicmkmjmadblll',
   },
   logo: 'https://www.huluwatchparty.com/logo.png',
   gtagId: '210302098-2',
